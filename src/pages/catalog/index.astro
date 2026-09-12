@@ -1,0 +1,49 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageHeader from "../../components/PageHeader.astro";
+import { catalogEntries } from "../../data/catalog";
+---
+
+<BaseLayout
+  title="Catalog"
+  description="Illustrative sample entries from CAV’s living catalog of anomalous virtues."
+>
+  <PageHeader
+    kicker="Living catalog"
+    title="A working list, not a closed canon."
+    lede="These first entries are illustrative examples. They use well-known concepts to show the form of a CAV note. They are not completed monographs, and they invent no citations."
+  />
+
+  <div class="mx-auto max-w-6xl px-5 py-10 sm:px-8">
+    <p class="max-w-3xl border border-rule bg-paper-raised px-4 py-3 font-sans text-sm text-ink-soft">
+      <strong class="font-semibold text-ink">Illustrative only.</strong>
+      Each card is a sketch of method. Later entries will be longer, sourced, and
+      developed with the communities who hold the terms.
+    </p>
+
+    <ol class="mt-10 divide-y divide-rule border-y border-rule">
+      {
+        catalogEntries.map((entry, index) => (
+          <li>
+            <article class="grid gap-4 py-8 md:grid-cols-[4rem_1fr_14rem] md:items-baseline">
+              <p class="font-sans text-sm text-muted">{String(index + 1).padStart(2, "0")}</p>
+              <div>
+                <h2 class="font-display text-2xl tracking-tight">
+                  <a class="text-ink no-underline hover:text-oxblood" href={`/catalog/${entry.slug}`}>
+                    {entry.term}
+                  </a>
+                  <span class="ml-2 font-serif text-lg text-muted">{entry.native}</span>
+                </h2>
+                <p class="mt-2 max-w-2xl text-ink-soft">{entry.gloss}</p>
+              </div>
+              <p class="font-sans text-sm text-muted">
+                {entry.language}
+                <span class="mt-1 block">{entry.region}</span>
+              </p>
+            </article>
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</BaseLayout>

@@ -1,0 +1,93 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/PageHeader.astro";
+---
+
+<BaseLayout
+  title="About"
+  description="Purpose, nonprofit status, and approach of The Center for the Study of Anomalous Virtues, a Utah nonprofit (EIN 42-5016729)."
+>
+  <PageHeader
+    kicker="About the Center"
+    title="A think tank for moral words that will not travel."
+    lede="CAV is organized as an international nongovernmental institute: part archive, part seminar, part training ground."
+  />
+
+  <div class="mx-auto max-w-6xl px-5 py-12 sm:px-8">
+    <article class="measure prose-cav text-[1.05rem]">
+      <h2>Purpose</h2>
+      <p>
+        The Center for the Study of Anomalous Virtues researches, documents, and
+        publishes scholarship on highly specific — often untranslatable — cultural
+        concepts of moral excellence or emotional intelligence. We educate the public,
+        diplomats, mediators, scholars, and institutions in the careful use of such
+        concepts in cross-cultural understanding and international dialogue.
+      </p>
+      <p>
+        Generic values language is not useless. It is simply too coarse for the work
+        that fails in the last inch: the apology that sounds like a press statement,
+        the “respect” that names no practice, the training that teaches manners and
+        calls it culture. CAV exists to keep the sharper instruments in circulation.
+      </p>
+
+      <h2>Nonprofit status</h2>
+      <p>
+        CAV is a Utah nonprofit corporation, The Center for the Study of Anomalous
+        Virtues, organized exclusively for charitable, educational, and scientific
+        purposes. It has no voting members; corporate powers rest with a board of
+        directors.
+      </p>
+      <dl class="my-6 grid gap-3 border-y border-rule py-5 font-sans text-sm not-prose sm:grid-cols-2">
+        <div>
+          <dt class="kicker">Legal name</dt>
+          <dd class="mt-1 text-ink">The Center for the Study of Anomalous Virtues</dd>
+        </div>
+        <div>
+          <dt class="kicker">EIN</dt>
+          <dd class="mt-1 text-ink">42-5016729</dd>
+        </div>
+        <div>
+          <dt class="kicker">Jurisdiction</dt>
+          <dd class="mt-1 text-ink">Utah, United States</dd>
+        </div>
+        <div>
+          <dt class="kicker">Domains</dt>
+          <dd class="mt-1 text-ink">thecav.org · cav.ngo</dd>
+        </div>
+      </dl>
+      <p>
+        The EIN above is the organization’s federal employer identification number.
+        Publication of the number is for identification, not a claim about any
+        particular tax determination.
+      </p>
+
+      <h2>Approach</h2>
+      <p>Four disciplines govern the work:</p>
+      <ul>
+        <li>
+          <strong>Home-language first.</strong> A concept is studied in the speech and
+          practice that made it, not as an English keyword with a foreign costume.
+        </li>
+        <li>
+          <strong>No premature equivalence.</strong> We do not retire a term by finding
+          its “nearest” English virtue. The remainder is the research.
+        </li>
+        <li>
+          <strong>Community authority.</strong> Speakers, elders, and practitioners
+          decide what may be published, what must be withheld, and what is simply
+          wrong.
+        </li>
+        <li>
+          <strong>Translation as diplomacy.</strong> A gloss is a negotiation, not a
+          dictionary entry. Field methods treat that negotiation as the object of
+          training.
+        </li>
+      </ul>
+      <p>
+        We are not a branding studio for national character, and we do not collect
+        “untranslatable words” as souvenirs. The catalog is a working instrument for
+        people who have to speak across a real difference.
+      </p>
+    </article>
+  </div>
+</BaseLayout>

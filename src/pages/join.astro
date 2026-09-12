@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/PageHeader.astro";
+---
+
+<BaseLayout
+  title="Join"
+  description="Contact CAV at contact@thecav.org to collaborate, practice, or support the work."
+>
+  <PageHeader
+    kicker="Correspondence"
+    title="Write to the Center."
+    lede="CAV is early. The useful letters will be precise: a concept, a practice setting, a correction, or a collaboration with a name attached."
+  />
+
+  <div class="mx-auto max-w-6xl px-5 py-12 sm:px-8">
+    <article class="measure prose-cav text-[1.05rem]">
+      <p>
+        Email
+        <a href="mailto:contact@thecav.org">contact@thecav.org</a>.
+        There is no form behind this page yet — a mailbox is enough, and it keeps the
+        threshold honest.
+      </p>
+
+      <h2>Who should write</h2>
+      <ul>
+        <li>Researchers and speakers who want a concept treated carefully, or left alone.</li>
+        <li>Diplomats, mediators, and institutions with a live problem that generic language is failing.</li>
+        <li>Practitioners willing to host a seminar once methods exist to support one.</li>
+        <li>Readers who have found an error and can show it.</li>
+      </ul>
+
+      <h2>What to include</h2>
+      <p>
+        Your name, affiliation if any, and the specific term or setting. If you are
+        writing about a community that is not yours, say so. If something on this site
+        should be taken down, say that first.
+      </p>
+      <p>
+        We read slowly. A reply is not a promise of partnership.
+      </p>
+    </article>
+
+    <p class="mt-10">
+      <a
+        class="inline-block border border-ink bg-ink px-5 py-2.5 font-sans text-sm text-paper no-underline hover:bg-oxblood hover:border-oxblood"
+        href="mailto:contact@thecav.org"
+      >
+        Email contact@thecav.org
+      </a>
+    </p>
+  </div>
+</BaseLayout>

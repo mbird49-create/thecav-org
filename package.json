@@ -1,0 +1,25 @@
+{
+  "name": "thecav-org",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Website for The Center for the Study of Anomalous Virtues (thecav.org)",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "astro": "^5.13.7",
+    "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

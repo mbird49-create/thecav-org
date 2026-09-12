@@ -1,0 +1,21 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Page not found"
+  description="That page is not in the CAV archive."
+>
+  <div class="mx-auto max-w-6xl px-5 py-20 sm:px-8">
+    <p class="kicker mb-3">404</p>
+    <h1 class="font-display text-4xl tracking-tight sm:text-5xl">This page is not in the archive.</h1>
+    <p class="measure mt-5 text-lg text-ink-soft">
+      The address may be wrong, or the entry has not been written yet.
+    </p>
+    <p class="mt-8">
+      <a class="font-sans text-sm text-oxblood underline-offset-2 hover:underline" href="/">Return home</a>
+      <span class="mx-2 text-muted" aria-hidden="true">·</span>
+      <a class="font-sans text-sm text-oxblood underline-offset-2 hover:underline" href="/catalog">Catalog</a>
+    </p>
+  </div>
+</BaseLayout>
