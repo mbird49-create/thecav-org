@@ -5,16 +5,22 @@ const pathname = Astro.url.pathname;
 ---
 
 <header class="border-b border-rule">
-  <div class="mx-auto flex max-w-6xl flex-col gap-4 px-5 py-4 sm:px-8 lg:flex-row lg:items-end lg:justify-between">
-    <div class="flex items-baseline justify-between gap-4">
-      <a href="/" class="group block no-underline">
-        <p class="kicker mb-1">The Center for the Study of</p>
-        <p class="font-display text-[1.65rem] leading-none tracking-tight text-ink sm:text-3xl">
+  <div class="mx-auto flex max-w-6xl flex-col gap-4 px-5 py-4 sm:px-8 lg:flex-row lg:items-center lg:justify-between">
+    <a href="/" class="group flex items-center gap-3 no-underline sm:gap-4">
+      <img
+        src="/cav-logo.png"
+        alt="Center for the Study of Anomalous Virtues"
+        width="72"
+        height="72"
+        class="h-14 w-14 shrink-0 rounded-full object-cover object-[center_28%] shadow-sm ring-1 ring-rule sm:h-[4.5rem] sm:w-[4.5rem]"
+      />
+      <span class="min-w-0">
+        <span class="kicker mb-1 block">The Center for the Study of</span>
+        <span class="font-display block text-[1.65rem] leading-none tracking-tight text-ink sm:text-3xl">
           Anomalous Virtues
-        </p>
-      </a>
-      <span class="hidden font-sans text-xs tracking-[0.18em] text-muted uppercase sm:inline lg:hidden">CAV</span>
-    </div>
+        </span>
+      </span>
+    </a>
     <nav aria-label="Primary">
       <ul class="flex flex-wrap gap-x-5 gap-y-2 font-sans text-[0.95rem]">
         {
