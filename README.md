@@ -1,6 +1,6 @@
 # thecav.org
 
-Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a Utah nonprofit (EIN 42-5016729) studying highly specific, often untranslatable cultural concepts of moral excellence as diplomatic infrastructure.
+Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a Utah nonprofit (EIN 42-5016729; Form 1023-EZ filed, IRS determination pending). CAV is a hybrid human–AI think tank that maps, analyzes, and synthesizes the philosophical and ethical underpinnings of moral values across human demographics, at the intersection of computational humanities, comparative philosophy, and evolutionary ethics.
 
 - Site: [thecav.org](https://thecav.org)
 - Also: [cav.ngo](https://cav.ngo)
@@ -15,7 +15,7 @@ Astro is the static-site default here: no client JavaScript unless a page opts i
 | Path | Role |
 | --- | --- |
 | `src/pages/` | Routes: Home, About, Catalog, Research, Practice, Join |
-| `src/data/catalog.ts` | Illustrative catalog entries (typed) |
+| `src/data/catalog.ts` | Illustrative Semantic Ethics catalog entries (typed) |
 | `src/layouts/BaseLayout.astro` | Document shell, fonts, metadata |
 | `src/styles/global.css` | Tailwind import and journal theme tokens |
 
@@ -27,6 +27,7 @@ Requires **Node.js 20.19+** (Node 22+ is fine).
 git clone https://github.com/mbird49-create/thecav-org.git
 cd thecav-org
 npm install
+npm run build
 npm run dev
 ```
 
@@ -61,7 +62,10 @@ No environment variables are required for the first version.
 
 ## Content notes
 
-Catalog pages are **illustrative examples** of form, using well-known real concepts. They are not finished monographs and must not grow fake citations. Community-sensitive terms (for example Hózhǫ́) are labeled as placeholders pending proper guidance.
+- Research pillars: Ethno-Ethics, Sacred Axiology, Semantic Ethics, Chronological Ethics; Practice is applied engagement.
+- Catalog pages are **illustrative Semantic Ethics examples** of form, using well-known real concepts. They are not finished monographs and must not grow fake citations.
+- Do not claim IRS 501(c)(3) determination while Form 1023-EZ is pending.
+- Community-sensitive terms (for example Hózhǫ́) are labeled as placeholders pending proper guidance.
 
 ## License
 

@@ -3,13 +3,45 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { catalogEntries } from "../data/catalog";
 
 const samples = catalogEntries.slice(0, 3);
+
+const pillars = [
+  {
+    n: "01",
+    name: "Ethno-Ethics",
+    title: "Cultural & Geographical Variations",
+    blurb:
+      "How landscapes, scarcity, honor versus dignity cultures, and collectivism versus individualism shape moral expectations.",
+  },
+  {
+    n: "02",
+    name: "Sacred Axiology",
+    title: "Religious & Theological Foundations",
+    blurb:
+      "Divine-command traditions, karmic and immanent cosmologies, and secular humanist ethics as distinct moral architectures.",
+  },
+  {
+    n: "03",
+    name: "Semantic Ethics",
+    title: "Linguistic Relativity in Morals",
+    blurb:
+      "Untranslatable virtues and the grammatical framing of blame, obligation, and excellence — precise bridges where generic language fails.",
+  },
+  {
+    n: "04",
+    name: "Chronological Ethics",
+    title: "Temporal & Historical Evolution",
+    blurb:
+      "Axial Age convergences and the long arc from warrior virtues through Enlightenment ideals to digital-era moral pressures.",
+  },
+];
 ---
 
 <BaseLayout
   title="The Center for the Study of Anomalous Virtues"
-  description="CAV studies anomalous virtues — highly specific, often untranslatable cultural concepts of moral excellence — as diplomatic infrastructure."
+  description="CAV is a hybrid human–AI think tank mapping the philosophical and ethical underpinnings of moral values across human demographics — computational humanities, comparative philosophy, and evolutionary ethics."
   ogTitle="The Center for the Study of Anomalous Virtues"
 >
+
   <section class="border-b border-rule">
     <div class="mx-auto max-w-6xl px-5 py-12 sm:px-8 sm:py-16 lg:py-20">
       <p class="kicker mb-4">Vol. I · Founding statement</p>
@@ -17,8 +49,9 @@ const samples = catalogEntries.slice(0, 3);
         Precise bridges where generic language fails.
       </h1>
       <p class="measure mt-8 text-lg text-ink-soft sm:text-xl">
-        Most diplomacy starts from shared words — respect, kindness, dignity. Those words
-        travel easily. They also flatten what makes cultures distinct.
+        The Center for the Study of Anomalous Virtues (CAV) is a hybrid human–AI think
+        tank that maps, analyzes, and synthesizes the philosophical and ethical
+        underpinnings of moral values across human demographics.
       </p>
     </div>
   </section>
@@ -26,15 +59,47 @@ const samples = catalogEntries.slice(0, 3);
   <section class="mx-auto max-w-6xl px-5 py-12 sm:px-8 sm:py-16">
     <div class="measure prose-cav text-[1.05rem] sm:text-lg">
       <p>
-        CAV studies <em>anomalous virtues</em>: highly specific, often untranslatable
-        cultural concepts that name a rare form of moral excellence or emotional
-        intelligence. We treat these as diplomatic infrastructure — instruments precise
-        enough to carry meaning where a shared vocabulary of values cannot.
+        We work at the intersection of <em>computational humanities</em>,
+        <em>comparative philosophy</em>, and <em>evolutionary ethics</em>. The open
+        question is whether humanity shares a unified moral grammar, or whether values
+        are fundamentally relative to language, place, history, and creed.
       </p>
       <p>
-        A word that will not sit still in English is not a curiosity. It is a map of a
-        moral world. To lose the edge of that word in translation is to lose a possible
-        settlement, a possible apology, a possible form of care.
+        <em>Anomalous virtues</em> are moral qualities, strengths, or excellent traits
+        that are unusual, unexpected, or seemingly contradictory in context. That
+        includes untranslatable culture-words under Semantic Ethics, but also
+        philosophy and ethics — honor among thieves, flawed heroes, contextual virtues —
+        and literature and character design: the sympathetic villain, the reluctant
+        savior. The phrase is not a single classical ethics term; it names a working
+        object at the intersection of those discourses.
+      </p>
+    </div>
+
+    <div class="mt-14 border-t border-rule pt-10">
+      <h2 class="font-display text-2xl tracking-tight">Research pillars</h2>
+      <p class="mt-3 max-w-3xl text-ink-soft">
+        Four analytic pillars structure the research program. A fifth strand —
+        <a class="text-oxblood underline-offset-2 hover:underline" href="/practice">Practice</a> —
+        applies findings through training, diplomacy, and institutions without
+        overclaiming what the research has not yet established.
+      </p>
+      <ol class="mt-8 grid gap-6 sm:grid-cols-2">
+        {
+          pillars.map((p) => (
+            <li class="border border-rule bg-paper-raised p-5 sm:p-6">
+              <p class="font-sans text-sm text-muted">
+                {p.n} · {p.name}
+              </p>
+              <h3 class="mt-2 font-display text-xl tracking-tight">{p.title}</h3>
+              <p class="mt-2 text-sm text-ink-soft">{p.blurb}</p>
+            </li>
+          ))
+        }
+      </ol>
+      <p class="mt-6">
+        <a class="font-sans text-sm text-oxblood underline-offset-2 hover:underline" href="/research">
+          Methods and working hypotheses
+        </a>
       </p>
     </div>
 
@@ -45,39 +110,41 @@ const samples = catalogEntries.slice(0, 3);
           <li class="grid grid-cols-[2.5rem_1fr] gap-3">
             <span class="font-sans text-sm text-muted">01</span>
             <div>
-              <p class="font-medium">Research and document</p>
+              <p class="font-medium">Map and analyze</p>
               <p class="mt-1 text-ink-soft">
-                Study concepts in their home languages and practices, with the people
-                who live them.
+                Document how moral concepts vary across culture, theology, language,
+                and historical period — with human scholarship and computational methods
+                in dialogue.
               </p>
             </div>
           </li>
           <li class="grid grid-cols-[2.5rem_1fr] gap-3">
             <span class="font-sans text-sm text-muted">02</span>
             <div>
-              <p class="font-medium">Translate without erasing edge</p>
+              <p class="font-medium">Synthesize without false unity</p>
               <p class="mt-1 text-ink-soft">
-                Resist premature equivalence. Keep what does not map cleanly in view.
+                Test provisional claims about shared moral baselines against contextual
+                overlays — without erasing remainder into a single portable vocabulary.
               </p>
             </div>
           </li>
           <li class="grid grid-cols-[2.5rem_1fr] gap-3">
             <span class="font-sans text-sm text-muted">03</span>
             <div>
-              <p class="font-medium">Train diplomats, mediators, and institutions</p>
+              <p class="font-medium">Keep Semantic Ethics precise</p>
               <p class="mt-1 text-ink-soft">
-                Teach field methods for hearing a virtue that English does not already
-                own.
+                Treat untranslatable virtues as linguistic evidence, not souvenirs.
+                Build precise bridges where generic language fails.
               </p>
             </div>
           </li>
           <li class="grid grid-cols-[2.5rem_1fr] gap-3">
             <span class="font-sans text-sm text-muted">04</span>
             <div>
-              <p class="font-medium">Publish a living catalog and field methods</p>
+              <p class="font-medium">Engage practice carefully</p>
               <p class="mt-1 text-ink-soft">
-                Keep a public record that can be corrected, deepened, and locally
-                governed.
+                Support diplomats, mediators, and institutions only where research
+                standing exists — practice follows method, not the reverse.
               </p>
             </div>
           </li>
@@ -85,10 +152,10 @@ const samples = catalogEntries.slice(0, 3);
       </div>
       <aside class="border border-rule bg-paper-raised p-6 sm:p-8">
         <p class="kicker">From the catalog</p>
-        <p class="mt-3 font-display text-2xl tracking-tight">Illustrative entries</p>
+        <p class="mt-3 font-display text-2xl tracking-tight">Semantic Ethics samples</p>
         <p class="mt-3 text-sm text-ink-soft">
-          Samples of form, not finished monographs. Each is a real, well-known concept
-          marked as an example.
+          Illustrative entries under Linguistic Relativity in Morals — well-known
+          untranslatable virtues used to show catalog form, not finished monographs.
         </p>
         <ul class="mt-6 divide-y divide-rule">
           {

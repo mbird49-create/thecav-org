@@ -12,9 +12,9 @@ export type CatalogEntry = {
 };
 
 /**
- * Illustrative sample entries only.
- * These are well-known cultural concepts used to show the catalog form.
- * They are not completed CAV monographs and do not invent citations.
+ * Illustrative Semantic Ethics samples only.
+ * Well-known untranslatable virtues used to show catalog form under
+ * Linguistic Relativity in Morals. Not completed CAV monographs; no invented citations.
  */
 export const catalogEntries: CatalogEntry[] = [
   {
