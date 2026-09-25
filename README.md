@@ -1,6 +1,6 @@
 # thecav.org
 
-Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a Utah nonprofit (EIN 42-5016729; Form 1023-EZ filed, IRS determination pending). CAV is a hybrid human–AI think tank that maps, analyzes, and synthesizes the philosophical and ethical underpinnings of moral values across human demographics, at the intersection of computational humanities, comparative philosophy, and evolutionary ethics.
+Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a Utah nonprofit corporation and hybrid human–AI think tank that maps, analyzes, and synthesizes the philosophical and ethical underpinnings of moral values across human demographics, at the intersection of computational humanities, comparative philosophy, and evolutionary ethics.
 
 - Site: [thecav.org](https://thecav.org)
 - Also: [cav.ngo](https://cav.ngo)
@@ -64,7 +64,7 @@ No environment variables are required for the first version.
 
 - Research pillars: Ethno-Ethics, Sacred Axiology, Semantic Ethics, Chronological Ethics; Practice is applied engagement.
 - Catalog pages are **illustrative Semantic Ethics examples** of form, using well-known real concepts. They are not finished monographs and must not grow fake citations.
-- Do not claim IRS 501(c)(3) determination while Form 1023-EZ is pending.
+- Do not claim federal tax-exempt / 501(c)(3) status, deductible donations, an EIN, or Form 1023-EZ filing/determination on public copy until IRS confirmation is independently verified.
 - Community-sensitive terms (for example Hózhǫ́) are labeled as placeholders pending proper guidance.
 
 ## License
