@@ -119,3 +119,79 @@ body {
 .hairline {
   border-color: var(--color-rule);
 }
+
+/* Scholarly study pages (Research) */
+.prose-cav-study h2:first-child {
+  margin-top: 0;
+}
+
+.prose-cav-study h4 {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 1.05rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.prose-cav-study ol {
+  margin: 0.75rem 0 1.15rem;
+  padding-left: 1.35rem;
+  list-style: decimal;
+}
+
+.prose-cav-study blockquote {
+  margin: 1rem 0 1.25rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--color-oxblood);
+  color: var(--color-ink-soft);
+}
+
+.prose-cav-study hr {
+  border: 0;
+  border-top: 1px solid var(--color-rule);
+  margin: 2rem 0;
+}
+
+.prose-cav-study strong {
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.prose-cav-study em {
+  font-style: italic;
+}
+
+.prose-cav-study table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 1rem 0 1.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.prose-cav-study th,
+.prose-cav-study td {
+  border: 1px solid var(--color-rule);
+  padding: 0.55rem 0.65rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose-cav-study th {
+  background: var(--color-paper-deep);
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.prose-cav-study tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--color-paper-raised) 70%, transparent);
+}
+
+.prose-cav-study code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.88em;
+}
