@@ -1,6 +1,6 @@
 # thecav.org
 
-Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a Utah nonprofit corporation and hybrid human–AI think tank that maps, analyzes, and synthesizes the philosophical and ethical underpinnings of moral values across human demographics, at the intersection of computational humanities, comparative philosophy, and evolutionary ethics.
+Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a private research organization that maps, analyzes, and synthesizes the philosophical and ethical underpinnings of moral values across human demographics, at the intersection of computational humanities, comparative philosophy, and evolutionary ethics.
 
 - Site: [thecav.org](https://thecav.org)
 - Also: [cav.ngo](https://cav.ngo)
