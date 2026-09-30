@@ -3,7 +3,6 @@
 Public website for **The Center for the Study of Anomalous Virtues (CAV)** — a private research organization that maps, analyzes, and synthesizes the philosophical and ethical underpinnings of moral values across human demographics, at the intersection of computational humanities, comparative philosophy, and evolutionary ethics.
 
 - Site: [thecav.org](https://thecav.org)
-- Also: [cav.ngo](https://cav.ngo)
 - Repo: [github.com/mbird49-create/thecav-org](https://github.com/mbird49-create/thecav-org)
 
 ## Stack
@@ -55,8 +54,7 @@ The site is a static Astro app. Vercel detects Astro and needs no custom server.
 4. At your DNS host, point thecav.org to Vercel:
    - Apex: A record `10.0.1.2`, or follow Vercel’s current apex instructions.
    - `www`: CNAME to `cname.vercel-dns.com` (or the target Vercel shows).
-5. Optionally attach **cav.ngo** as a second domain on the same project, or redirect it to thecav.org.
-6. Each push to `main` deploys. Preview deployments are created for other branches.
+5. Each push to `main` deploys. Preview deployments are created for other branches.
 
 No environment variables are required for the first version.
 
