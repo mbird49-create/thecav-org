@@ -14,7 +14,8 @@ Astro is the static-site default here: no client JavaScript unless a page opts i
 | Path | Role |
 | --- | --- |
 | `src/pages/` | Routes: Home, About, Catalog, Research, Practice, Join |
-| `src/data/catalog.ts` | Illustrative Semantic Ethics catalog entries (typed) |
+| `src/content/catalog/*.md` | Catalog entries (Astro content collection; schema in `src/content.config.ts`) |
+| `src/data/catalog.ts` | Catalog groups and sorting helpers |
 | `src/layouts/BaseLayout.astro` | Document shell, fonts, metadata |
 | `src/styles/global.css` | Tailwind import and journal theme tokens |
 
@@ -61,9 +62,9 @@ No environment variables are required for the first version.
 ## Content notes
 
 - Research pillars: Ethno-Ethics, Sacred Axiology, Semantic Ethics, Chronological Ethics; Practice is applied engagement.
-- Catalog pages are **illustrative Semantic Ethics examples** of form, using well-known real concepts. They are not finished monographs and must not grow fake citations.
+- Catalog entries are sourced and **under ongoing review**. Keep Evidence/Interpretation labels, `[uncertain]` tags, and sources exactly as researched; never add invented citations.
 - Do not claim federal tax-exempt / 501(c)(3) status, deductible donations, an EIN, or Form 1023-EZ filing/determination on public copy until IRS confirmation is independently verified.
-- Community-sensitive terms (for example Hózhǫ́) are labeled as placeholders pending proper guidance.
+- Community-sensitive entries (for example Hózhǫ́) carry a `status` such as "Under community review" pending review by the communities who hold the terms.
 
 ## License
 

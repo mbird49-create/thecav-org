@@ -1,52 +1,88 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PageHeader from "../../components/PageHeader.astro";
-import { catalogEntries } from "../../data/catalog";
+import { catalogGroups, getCatalogEntries, FORGIVENESS_STUDY } from "../../data/catalog";
+
+const entries = await getCatalogEntries();
+const groups = catalogGroups.map((group) => ({
+  ...group,
+  entries: entries.filter((entry) => entry.data.group === group.id),
+}));
 ---
 
 <BaseLayout
   title="Catalog"
-  description="Illustrative Semantic Ethics samples — untranslatable virtues as examples of linguistic relativity in morals, not finished CAV monographs."
+  description="CAV catalog entries under ongoing review: sourced accounts of untranslatable virtues and culturally specific forms of forgiveness and reconciliation."
 >
   <PageHeader
-    kicker="Living catalog · Semantic Ethics"
+    kicker="Living catalog · Semantic Ethics · Ethno-Ethics · Sacred Axiology"
     title="Untranslatable virtues as linguistic evidence."
-    lede="These first entries sit under Linguistic Relativity in Morals (Semantic Ethics). They use well-known untranslatable virtues to illustrate catalog form and the problem of remainder in translation. They are not completed monographs, and they invent no citations."
+    lede="Each entry sets out a term's gloss, etymology, practice, and history; why the generic English word fails; the evidence on its effects; its diplomatic relevance; and its cautions, with sources. These are catalog entries under ongoing review."
   />
 
   <div class="mx-auto max-w-6xl px-5 py-10 sm:px-8">
     <p class="max-w-3xl border border-rule bg-paper-raised px-4 py-3 font-sans text-sm text-ink-soft">
-      <strong class="font-semibold text-ink">Illustrative only.</strong>
-      Each card is a sketch of method under Semantic Ethics — examples of linguistic
-      relativity, not a closed canon of anomalous virtues. Later entries will be longer,
-      sourced, and developed with the communities who hold the terms. Anomalous virtues
-      in philosophy, ethics, and literature extend beyond this linguistic sample; see
+      <strong class="font-semibold text-ink">Under ongoing review.</strong>
+      Every entry labels <strong class="font-semibold text-ink">Evidence</strong> (documented
+      findings) and <strong class="font-semibold text-ink">Interpretation</strong> (analytic
+      judgment), and tags unverified claims <strong class="font-semibold text-ink">[uncertain]</strong>.
+      Entries for living Indigenous, religious, and customary practices are being reviewed with
+      the communities who hold the terms; these are marked below. Anomalous virtues in philosophy,
+      ethics, and literature extend beyond this sample; see
       <a class="text-oxblood underline-offset-2 hover:underline" href="/research">Research</a>.
     </p>
 
-    <ol class="mt-10 divide-y divide-rule border-y border-rule">
-      {
-        catalogEntries.map((entry, index) => (
-          <li>
-            <article class="grid gap-4 py-8 md:grid-cols-[4rem_1fr_14rem] md:items-baseline">
-              <p class="font-sans text-sm text-muted">{String(index + 1).padStart(2, "0")}</p>
-              <div>
-                <h2 class="font-display text-2xl tracking-tight">
-                  <a class="text-ink no-underline hover:text-oxblood" href={`/catalog/${entry.slug}`}>
-                    {entry.term}
-                  </a>
-                  <span class="ml-2 font-serif text-lg text-muted">{entry.native}</span>
-                </h2>
-                <p class="mt-2 max-w-2xl text-ink-soft">{entry.gloss}</p>
-              </div>
-              <p class="font-sans text-sm text-muted">
-                {entry.language}
-                <span class="mt-1 block">{entry.region}</span>
-              </p>
-            </article>
-          </li>
-        ))
-      }
-    </ol>
+    {
+      groups.map((group) => (
+        <section class="mt-14" aria-labelledby={`group-${group.id}`}>
+          <h2 id={`group-${group.id}`} class="font-display text-3xl tracking-tight">
+            {group.title}
+          </h2>
+          <p class="mt-2 max-w-3xl text-ink-soft">
+            {group.description}
+            {group.id === "forgiveness" && (
+              <>
+                {" "}
+                <a class="text-oxblood underline-offset-2 hover:underline" href={FORGIVENESS_STUDY.href}><em>{FORGIVENESS_STUDY.title}</em></a>
+              </>
+            )}
+          </p>
+          <ol class="mt-6 divide-y divide-rule border-y border-rule">
+            {group.entries.map((entry, index) => (
+              <li>
+                <article class="grid gap-4 py-8 md:grid-cols-[4rem_1fr_14rem] md:items-baseline">
+                  <p class="font-sans text-sm text-muted">{String(index + 1).padStart(2, "0")}</p>
+                  <div>
+                    <h3 class="font-display text-2xl tracking-tight">
+                      <a class="text-ink no-underline hover:text-oxblood" href={`/catalog/${entry.id}/`}>
+                        {entry.data.term}
+                      </a>
+                      {entry.data.native !== entry.data.term && (
+                        <span class="ml-2 font-serif text-lg text-muted" dir="auto">
+                          {entry.data.native}
+                        </span>
+                      )}
+                    </h3>
+                    <p class="mt-2 max-w-2xl text-ink-soft">{entry.data.gloss}</p>
+                    <p class="mt-3 font-sans text-xs uppercase tracking-wider text-muted">
+                      {entry.data.pillars.join(" · ")}
+                      {entry.data.status && (
+                        <span class="ml-2 inline-block border border-rule bg-paper-raised px-2 py-0.5 font-semibold normal-case tracking-normal text-ink-soft">
+                          {entry.data.status}
+                        </span>
+                      )}
+                    </p>
+                  </div>
+                  <p class="font-sans text-sm text-muted">
+                    {entry.data.language}
+                    <span class="mt-1 block">{entry.data.region}</span>
+                  </p>
+                </article>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))
+    }
   </div>
 </BaseLayout>

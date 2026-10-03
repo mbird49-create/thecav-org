@@ -1,8 +1,10 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { catalogEntries } from "../data/catalog";
+import { getCatalogEntries } from "../data/catalog";
 
-const samples = catalogEntries.slice(0, 3);
+// Same three entries the home page featured before the catalog migration.
+const featured = ["philotimo", "amae", "sisu"];
+const samples = (await getCatalogEntries()).filter((entry) => featured.includes(entry.id));
 
 const pillars = [
   {
@@ -166,21 +168,23 @@ const pillars = [
       </div>
       <aside class="border border-rule bg-paper-raised p-6 sm:p-8">
         <p class="kicker">From the catalog</p>
-        <p class="mt-3 font-display text-2xl tracking-tight">Semantic Ethics samples</p>
+        <p class="mt-3 font-display text-2xl tracking-tight">Catalog entries</p>
         <p class="mt-3 text-sm text-ink-soft">
-          Illustrative entries under Linguistic Relativity in Morals — well-known
-          untranslatable virtues used to show catalog form, not finished monographs.
+          Sourced entries on untranslatable virtues and culturally specific forms of
+          forgiveness and reconciliation, under ongoing review.
         </p>
         <ul class="mt-6 divide-y divide-rule">
           {
             samples.map((entry) => (
               <li class="py-3 first:pt-0 last:pb-0">
-                <a class="group block no-underline" href={`/catalog/${entry.slug}`}>
+                <a class="group block no-underline" href={`/catalog/${entry.id}/`}>
                   <p class="font-display text-lg text-ink group-hover:text-oxblood">
-                    {entry.term}
-                    <span class="ml-2 font-serif text-base text-muted">{entry.native}</span>
+                    {entry.data.term}
+                    {entry.data.native !== entry.data.term && (
+                      <span class="ml-2 font-serif text-base text-muted" dir="auto">{entry.data.native}</span>
+                    )}
                   </p>
-                  <p class="mt-1 text-sm text-ink-soft">{entry.language}</p>
+                  <p class="mt-1 text-sm text-ink-soft">{entry.data.language}</p>
                 </a>
               </li>
             ))

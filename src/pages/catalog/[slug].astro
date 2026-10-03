@@ -1,10 +1,17 @@
 ---
+import { render } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { catalogEntries, type CatalogEntry } from "../../data/catalog";
+import {
+  getCatalogEntries,
+  groupTitle,
+  FORGIVENESS_STUDY,
+  type CatalogEntry,
+} from "../../data/catalog";
 
-export function getStaticPaths() {
-  return catalogEntries.map((entry) => ({
-    params: { slug: entry.slug },
+export async function getStaticPaths() {
+  const entries = await getCatalogEntries();
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
     props: { entry },
   }));
 }
@@ -14,56 +21,92 @@ interface Props {
 }
 
 const { entry } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+const isForgiveness = data.group === "forgiveness";
 ---
 
 <BaseLayout
-  title={`${entry.term} — Catalog`}
-  description={`${entry.term} (${entry.native}): ${entry.gloss}`}
+  title={`${data.term} — Catalog`}
+  description={`${data.term} (${data.native}): ${data.gloss}`}
 >
   <article>
     <header class="border-b border-rule">
       <div class="mx-auto max-w-6xl px-5 py-10 sm:px-8 sm:py-14">
         <p class="kicker mb-3">
-          <a class="text-muted no-underline hover:text-oxblood" href="/catalog">Catalog</a>
+          <a class="text-muted no-underline hover:text-oxblood" href="/catalog/">Catalog</a>
           <span aria-hidden="true"> · </span>
-          Semantic Ethics · Illustrative example
+          <span>{groupTitle(data.group)}</span>
         </p>
-        <h1 class="font-display text-4xl tracking-tight sm:text-5xl">
-          {entry.term}
-          <span class="mt-2 block font-serif text-2xl text-muted sm:text-3xl">{entry.native}</span>
+        {
+          data.status && (
+            <p class="mb-4 inline-block border border-rule bg-paper-raised px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-ink-soft">
+              {data.status}
+            </p>
+          )
+        }
+        <h1 class="font-display max-w-4xl text-4xl leading-[1.1] tracking-tight text-ink sm:text-5xl">
+          {data.title}
+          {
+            data.native !== data.term && (
+              <span class="mt-2 block font-serif text-2xl text-muted sm:text-3xl" dir="auto">
+                {data.native}
+              </span>
+            )
+          }
         </h1>
-        <p class="measure mt-5 text-lg text-ink-soft sm:text-xl">{entry.gloss}</p>
-        <dl class="mt-8 grid gap-4 font-sans text-sm sm:grid-cols-2">
-          <div>
-            <dt class="kicker">Language</dt>
-            <dd class="mt-1">{entry.language}</dd>
-          </div>
-          <div>
-            <dt class="kicker">Where spoken / practiced</dt>
-            <dd class="mt-1">{entry.region}</dd>
-          </div>
-        </dl>
+        <p class="measure mt-5 text-lg text-ink-soft sm:text-xl">{data.gloss}</p>
+        <p class="mt-6 font-sans text-sm text-muted">
+          {data.language}
+          <span aria-hidden="true"> · </span>
+          {data.pillars.join(" · ")}
+        </p>
       </div>
     </header>
 
-    <div class="mx-auto max-w-6xl px-5 py-12 sm:px-8">
-      <div class="measure prose-cav text-[1.05rem]">
-        <p class="border border-rule bg-paper-raised px-4 py-3 font-sans text-sm text-ink-soft">
-          This page is a Semantic Ethics sample of catalog form. It is not a finished CAV study and
-          does not introduce invented sources.
-        </p>
-        <h2>Working note</h2>
-        <p>{entry.summary}</p>
-        <h2>Where generic English fails</h2>
-        <p>{entry.whyGenericFails}</p>
-        <h2>Diplomatic use</h2>
-        <p>{entry.diplomaticNote}</p>
-        <h2>Limits</h2>
-        <p>{entry.caution}</p>
+    <div class="mx-auto max-w-6xl px-5 py-8 sm:px-8">
+      <aside
+        class="measure border border-rule bg-paper-raised px-4 py-4 font-sans text-sm leading-relaxed text-ink-soft sm:px-5"
+        role="note"
+        aria-label="About this entry"
+      >
         <p>
-          <a href="/catalog">Return to the catalog</a>
+          <strong class="font-semibold text-ink">CAV catalog entry, under ongoing review.</strong>
+          <strong class="font-semibold text-ink">Evidence</strong> marks documented findings;
+          <strong class="font-semibold text-ink">Interpretation</strong> marks analytic judgment
+          (CAV's or a cited author's). <strong class="font-semibold text-ink">[uncertain]</strong>
+          marks claims not fully verified.
         </p>
+        {
+          isForgiveness && (
+            <p class="mt-2">
+              Part of the forgiveness series. For the comparative argument and the geopolitical
+              evidence, see the study{" "}
+              <a class="text-oxblood underline-offset-2 hover:underline" href={FORGIVENESS_STUDY.href}><em>{FORGIVENESS_STUDY.title}</em></a>
+            </p>
+          )
+        }
+      </aside>
+
+      <div class="measure prose-cav prose-cav-study mt-10 text-[1.05rem]">
+        <Content />
       </div>
+
+      <p class="measure mt-12 font-sans text-sm text-muted">
+        {
+          isForgiveness && (
+            <>
+              <a class="text-oxblood underline-offset-2 hover:underline" href={FORGIVENESS_STUDY.href}>
+                Read the study: {FORGIVENESS_STUDY.title}
+              </a>
+              <span aria-hidden="true"> · </span>
+            </>
+          )
+        }
+        <a class="text-oxblood underline-offset-2 hover:underline" href="/catalog/">
+          ← Return to the catalog
+        </a>
+      </p>
     </div>
   </article>
 </BaseLayout>
