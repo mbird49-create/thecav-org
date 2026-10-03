@@ -92,7 +92,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 - **Context (Evidence).** On 2 October 2006, twenty years before the date of this study, a gunman killed five girls at the West Nickel Mines Amish school in Pennsylvania and then himself. Amish neighbours expressed forgiveness to his family within days and attended his burial (Kraybill, Nolt & Weaver-Zercher 2007).
 - **Who forgives whom:** victims' families and the community forgive the offender, and they reach out to the offender's family. **Requires:** nothing from the offender. Forgiveness is unconditional, anticipatory, and practiced long before any crisis.
 - **How it differs from generic forgiveness:** a communal discipline rather than an individual therapeutic achievement. The authors separate it from legal pardon and from denial of grief.
-- **Flags.** The episode is easily turned into an emblem. Concerns that expectations of forgiveness pressure abuse victims within closed communities have been raised in journalism **[uncertain: not verified in peer-reviewed sources]**.
+- **Flags.** The episode is easily turned into an emblem. Inside some Plain communities, quick-forgiveness norms, confession procedures, and expectations of reconciliation pressure abuse victims to forgive and keep silent (Metzger 2022; Voelz 2024). The evidence is qualitative and community practices vary **[uncertain: extent and variation across communities]**.
 
 ### 2.4 Pashtunwali: *nənawāta* (nanawatai) and *badal*
 
@@ -150,9 +150,9 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 2.10 Albanian blood-feud reconciliation under the Kanun
 
 - **Terms:** *gjakmarrja*, "blood-taking"; *besa*, sworn word or truce; to "forgive the blood" (Alb. *falja e gjakut* **[uncertain: spelling to be confirmed by an Albanian speaker]**).
-- **Context (Evidence).** The *Kanun of Lekë Dukagjini* (compiled by Gjeçovi; trans. Fox 1989) institutionalizes revenge but also truces, protected mediators, and reconciliation, ending in a shared "blood meal." In 1990–92 a student-led movement, fronted by folklorist Anton Çetta, revived the older practice of mass reconciliation in Kosovo. Estimates of feuds reconciled range from about 1,200 (Mangalakova 2004) to 2,000–2,500 (Luci 2014). Families pardoned the blood "in the name of the youth, the people and the flag" (Clark 2001, quoted in Marsavelski et al. 2016).
+- **Context (Evidence).** The *Kanun of Lekë Dukagjini* (compiled by Gjeçovi; trans. Fox 1989) institutionalizes revenge but also truces, protected mediators, and reconciliation, ending in a shared "blood meal." In 1990–92 a student-led movement, fronted by folklorist Anton Çetta, revived the older practice of mass reconciliation in Kosovo. Estimates of feuds reconciled range from about 1,200 (Mangalakova 2004) to 2,000–2,500 (Luci 2014). Families pardoned the blood "in the name of the youth, the people and the flag" (Clark 2001, quoted in Marsavelski et al. 2018).
 - **How it differs from generic forgiveness:** a public renunciation of a *duty* to kill, often dedicated to a collective cause.
-- **Flags.** The Kanun is patriarchal. Feud statistics are unreliable (Alston 2010).
+- **Flags.** The Kanun is patriarchal. Feud statistics are unreliable (Alston 2011).
 
 ### 2.11 Japanese apology–pardon practices (included with caution)
 
@@ -245,8 +245,8 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 3.7 Feuds and revenge cycles
 
 **Evidence.**
-- Marsavelski, Sheremeti, and Braithwaite (2016) compiled Kosovo homicide series. Rates were already low during the nonviolent resistance and fell close to zero during the 1990–92 reconciliation campaign. Feuds resurged in 2000–04, then declined. The authors treat the causal link as plausible, not proven.
-- In Albania, UN Special Rapporteur Alston (2010) found blood feuds in decline but still corrosive, chiefly through families' self-confinement, and found the statistics unreliable.
+- Marsavelski, Sheremeti, and Braithwaite (2018) compiled Kosovo homicide series. Rates were already low during the nonviolent resistance and fell close to zero during the 1990–92 reconciliation campaign. Feuds resurged in 2000–04, then declined. The authors treat the causal link as plausible, not proven.
+- In Albania, UN Special Rapporteur Alston (2011) found blood feuds in decline but still corrosive, chiefly through families' self-confinement, and found the statistics unreliable.
 - For Pashtun *badal*, Rzehak (2011) documents exits that coexist with norms allowing revenge to be delayed across generations: *nənawāta*, blood money, confiscation of weapons during talks (*baramta*), and peacemaking jirgas.
 
 **Interpretation.** Revenge systems usually contain built-in exits. The real question is whether those exits are honoured, resourced, and politically backed. In Kosovo a shared cause produced what one participant called "a contagion of reconciliation," and the gains partly reversed once the cause was gone.
@@ -295,8 +295,8 @@ This study's title asks whether forgiveness is largely forgotten or no longer wi
 ### 4.3 Costs
 
 **Evidence: costs of absent or failed exits from revenge.**
-- Feud self-confinement in Albania, including children kept from school (Alston 2010).
-- Renewed feud killings in Kosovo once the campaign's cause was gone (Marsavelski et al. 2016).
+- Feud self-confinement in Albania, including children kept from school (Alston 2011).
+- Renewed feud killings in Kosovo once the campaign's cause was gone (Marsavelski et al. 2018).
 - Northern Ireland's serial legacy failures (2023 Act; 2024 ruling; 2025 replacement bill).
 
 **Evidence: costs of forgiveness practices themselves.**
@@ -317,8 +317,8 @@ This study's title asks whether forgiveness is largely forgotten or no longer wi
 | 4 | **ʿAfw in qiṣāṣ** | Islamic law | Victim's heirs' right to pardon a killer, often with *diya* (Q 2:178; 42:40) | Forgiveness as a legal right held by victims, not the state | Strong (texts); moderate (practice) | Economic coercion and valuation inequities [uncertain] |
 | 5 | **Sulha** | Arab customary law, Levant | Mediated reconciliation between clans with notables, truce payment, and public handshake and meal | Public, honour-restoring ceremony that can come before inner change | Moderate (Irani & Funk 1998; Pely 2011) | Patriarchal; parallel to state law; regional variation |
 | 6 | **Mato oput** | Acholi, northern Uganda | Reconciliation between clans after a killing, sealed by drinking a bitter root after truth and compensation | Embodied, compensatory, clan-level | Moderate (Liu Institute 2005; Pham et al. 2007) | Strong romanticization critique (Allen); not built for mass atrocity |
-| 7 | **"Forgiving the blood"** | Albanian Kanun; Kosovo 1990–92 | Public renunciation of the duty of blood revenge, under *besa*, sealed by a shared meal | Releases a *duty* to kill; can cascade when tied to a shared cause | Moderate (Fox 1989; H. Clark 2000; Marsavelski et al. 2016) | Patriarchal; unreliable data; resurgence after 1999 |
-| 8 | **Amish forgiveness (Gelassenheit)** | Old Order Amish | Unconditional, communal, pre-practiced forgiveness of offenders and their families, kept distinct from legal pardon | Forgiveness as habit and community discipline | Moderate–strong (Kraybill et al. 2007) | Emblematization; possible pressure on victims [uncertain] |
+| 7 | **"Forgiving the blood"** | Albanian Kanun; Kosovo 1990–92 | Public renunciation of the duty of blood revenge, under *besa*, sealed by a shared meal | Releases a *duty* to kill; can cascade when tied to a shared cause | Moderate (Fox 1989; H. Clark 2000; Marsavelski et al. 2018) | Patriarchal; unreliable data; resurgence after 1999 |
+| 8 | **Amish forgiveness (Gelassenheit)** | Old Order Amish | Unconditional, communal, pre-practiced forgiveness of offenders and their families, kept distinct from legal pardon | Forgiveness as habit and community discipline | Moderate–strong (Kraybill et al. 2007) | Emblematization; pressure on abuse victims (Metzger 2022; Voelz 2024; qualitative) |
 
 *Considered but not shortlisted:*
 - **Ubuntu:** too broad, with a recent and contested written history; better treated as a frame.
@@ -335,7 +335,7 @@ This study's title asks whether forgiveness is largely forgotten or no longer wi
 4. **Victim consent.** How do obligatory forms (*nənawāta*, Maimonidean limits on refusal) protect victims who are not ready to forgive?
 5. **Gender.** Most thick forms put men in charge of mediation. Exceptions deserve study: women in the Kosovo campaign (Luci 2014) and older women in Pashtun feud resolution (Rzehak 2011).
 6. **Consultation.** Entries for living Indigenous and religious practices should be reviewed by practitioners and community scholars before they enter the CAV catalog.
-7. **Unverified items.** Heirs'-pardon coercion, Amish victim-pressure claims, and the Northern Ireland bill's current status.
+7. **Unverified items.** Heirs'-pardon coercion, the extent of Amish victim pressure (now partly documented in qualitative work: Metzger 2022; Voelz 2024), and the Northern Ireland bill's current status.
 8. **East Asian materials.** A review of Japanese, Korean, and Chinese-language scholarship is needed before any East Asian entry.
 ---
 
@@ -381,7 +381,7 @@ Republic of South Africa. 1993. Constitution of the Republic of South Africa Act
 
 Truth and Reconciliation Commission of South Africa. 1998 and 2003. *Final Report*, vols. 1–7. Cape Town. Amnesty statistics via Department of Justice, "TRC/Amnesty Hearings and Decisions," justice.gov.za/trc.
 
-UN Human Rights Council. Alston, Philip. 2010. Report of the Special Rapporteur on extrajudicial, summary or arbitrary executions: preliminary note on mission to Albania (15–23 February 2010). UN Doc. A/HRC/14/24/Add.9.
+UN Human Rights Council. Alston, Philip. 2011. *Report of the Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions: Addendum: Mission to Albania*. UN Doc. A/HRC/17/28/Add.3, 14 March 2011. (Preliminary note: A/HRC/14/24/Add.9, 2010.)
 
 ### Books and articles
 
@@ -405,7 +405,7 @@ Cilliers, Jacobus, Oeindrila Dube, and Bilal Siddiqi. 2016. "Reconciling after C
 
 Clark, Howard. 2000. *Civil Resistance in Kosovo*. London: Pluto Press.
 
-Clark, Howard. 2001. *Nonviolent Struggle in Kosovo*. War Resisters' International. (Cited via Marsavelski et al. 2016.)
+Clark, Howard. 2001. *Nonviolent Struggle in Kosovo*. War Resisters' International. (Cited via Marsavelski et al. 2018.)
 
 Clark, Janine Natalya. 2014. *International Trials and Reconciliation: Assessing the Impact of the International Criminal Tribunal for the Former Yugoslavia*. London: Routledge.
 
@@ -449,13 +449,15 @@ Lind, Jennifer. 2008. *Sorry States: Apology in International Politics*. Ithaca:
 
 Liu Institute for Global Issues, Gulu District NGO Forum, and Ker Kwaro Acholi. 2005. *Roco Wat I Acoli: Restoring Relationships in Acholi-land: Traditional Approaches to Justice and Reintegration*. Vancouver/Gulu.
 
-Luci, Nita. 2014. "Seeking Independence: Making Nation, Memory, and Manhood in Kosova." PhD diss., University of Michigan. (Cited via Marsavelski et al. 2016.)
+Luci, Nita. 2014. "Seeking Independence: Making Nation, Memory, and Manhood in Kosova." PhD diss., University of Michigan. (Cited via Marsavelski et al. 2018.)
 
 Luttwak, Edward. 1994. "Franco-German Reconciliation: The Overlooked Role of the Moral Re-Armament Movement." In *Religion, the Missing Dimension of Statecraft*, edited by Douglas Johnston and Cynthia Sampson, 37–63. New York: Oxford University Press.
 
-Mangalakova, Tanya. 2004. *The Kanun in Present-Day Albania, Kosovo, and Montenegro*. Sofia: International Centre for Minority Studies and Intercultural Relations. (Cited via Marsavelski et al. 2016.)
+Mangalakova, Tanya. 2004. *The Kanun in Present-Day Albania, Kosovo, and Montenegro*. Sofia: International Centre for Minority Studies and Intercultural Relations. (Cited via Marsavelski et al. 2018.)
 
-Marsavelski, Aleksandar, Furtuna Sheremeti, and John Braithwaite. 2016. "Did Nonviolent Resistance Fail in Kosovo?" RegNet Research Paper No. 112, Australian National University.
+Marsavelski, Aleksandar, Furtuna Sheremeti, and John Braithwaite. 2018. "Did Nonviolent Resistance Fail in Kosovo?" *British Journal of Criminology* 58 (1): 218–236. (Earlier version: RegNet Research Paper No. 112, Australian National University, 2016.)
+
+Metzger, Trudy. 2022. "Sexual Abuse among Conservative Anabaptists: Culture-Specific Dynamics that Increase Risk of Victimization and Silencing of Victims." *Journal of Amish and Plain Anabaptist Studies* 10 (1): 41–56.
 
 Nussbaum, Martha C. 2016. *Anger and Forgiveness: Resentment, Generosity, Justice*. New York: Oxford University Press.
 
@@ -482,6 +484,8 @@ Toussaint, Loren L., David R. Williams, Marc A. Musick, and Susan A. Everson. 20
 Tutu, Desmond. 1999. *No Future Without Forgiveness*. New York: Doubleday.
 
 Vitale, Joe, and Ihaleakala Hew Len. 2007. *Zero Limits: The Secret Hawaiian System for Wealth, Health, Peace, and More*. Hoboken, NJ: Wiley. (Cited as an example of commercial adaptation, not as a source on traditional practice.)
+
+Voelz, Sabrina. 2024. "The Necessity and Challenges of Researching Sexual Abuse in Amish Communities." *Journal of Mennonite Studies* 42: 193–219. [page range **uncertain**]
 
 Wade, Nathaniel G., William T. Hoyt, Julia E. M. Kidwell, and Everett L. Worthington Jr. 2014. "Efficacy of Psychotherapeutic Interventions to Promote Forgiveness: A Meta-Analysis." *Journal of Consulting and Clinical Psychology* 82 (1): 154–170.
 
