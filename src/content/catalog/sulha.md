@@ -9,6 +9,7 @@ pillars: ["Ethno-Ethics", "Semantic Ethics", "Practice"]
 group: forgiveness
 order: 6
 status: "Under community review"
+published: false
 ---
 
 ## 1. Entry details
@@ -95,7 +96,7 @@ A community-led settlement of serious disputes, including homicide, in which a d
 
 ## 10. Related entries
 
-[ʿAfw within qiṣāṣ](/catalog/afw-qisas/) (legal pardon with diya); [nənawāta](/catalog/nanawatai/) (supplication with compensation); [Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/) (mediated truce and blood meal); [mato oput](/catalog/mato-oput/) (clan reconciliation through compensation and shared drink); [hoʻoponopono](/catalog/hooponopono/) (mediated repair within a group); [Philotimo](/catalog/philotimo/) (honour as a moral resource).
+[ʿAfw within qiṣāṣ](/catalog/afw-qisas/) (legal pardon with diya); nənawāta (supplication with compensation); Kanun blood reconciliation (mediated truce and blood meal); mato oput (clan reconciliation through compensation and shared drink); hoʻoponopono (mediated repair within a group); [Philotimo](/catalog/philotimo/) (honour as a moral resource).
 
 ## 11. Sources
 

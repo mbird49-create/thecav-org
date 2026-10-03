@@ -9,6 +9,7 @@ pillars: ["Ethno-Ethics", "Chronological Ethics", "Practice"]
 group: forgiveness
 order: 7
 status: "Under community review"
+published: false
 ---
 
 ## 1. Entry details
@@ -93,7 +94,7 @@ All details below are **Evidence** from *Roco Wat I Acoli* (Liu Institute et al.
 
 ## 10. Related entries
 
-[Sulha](/catalog/sulha/) (truce, mediation, compensation, ceremonial meal); [Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/) (blood debt settled by mediators); [hoʻoponopono](/catalog/hooponopono/) (ritual closure of a conflict); [nənawāta](/catalog/nanawatai/) (approach with offerings); [ʿafw within qiṣāṣ](/catalog/afw-qisas/) (compensation instead of retaliation); [Hózhǫ́](/catalog/hozho/) (restoration of right relation).
+Sulha (truce, mediation, compensation, ceremonial meal); Kanun blood reconciliation (blood debt settled by mediators); hoʻoponopono (ritual closure of a conflict); nənawāta (approach with offerings); [ʿafw within qiṣāṣ](/catalog/afw-qisas/) (compensation instead of retaliation); Hózhǫ́ (restoration of right relation).
 
 ## 11. Sources
 

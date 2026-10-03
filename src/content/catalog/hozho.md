@@ -9,6 +9,7 @@ pillars: ["Sacred Axiology", "Ethno-Ethics", "Semantic Ethics", "Practice"]
 group: virtues
 order: 4
 status: "Under community review"
+published: false
 ---
 
 > **Insider/outsider notice.** This entry was written by outsiders and has **not** been reviewed by any Diné person or institution. It relies on published work, and where possible on Diné authors (marked † in the sources). It describes public, published material only and does not attempt to describe ceremonial knowledge. It should not be published without Diné review and consent (see section 9).
@@ -92,8 +93,8 @@ The condition of beauty, harmony, balance, and right relation that Diné life, l
 
 ## 10. Related entries
 
-- **[Traditional hoʻoponopono](/catalog/hooponopono/)**, **[sulha](/catalog/sulha/)**, **[mato oput](/catalog/mato-oput/)**, **[nənawāta](/catalog/nanawatai/)**: community-based restoration practices.
-- **[Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/)**: customary law and its gendered limits.
+- **Traditional hoʻoponopono**, **sulha**, **mato oput**, **nənawāta**: community-based restoration practices.
+- **Kanun blood reconciliation**: customary law and its gendered limits.
 - **[Amish forgiveness](/catalog/amish-forgiveness/)**: outsiders' romanticization of a community's moral order.
 - **[Sisu](/catalog/sisu/)**: contrast case of a value turned into a scale and a brand.
 

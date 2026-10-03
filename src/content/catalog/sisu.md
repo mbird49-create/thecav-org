@@ -90,10 +90,10 @@ Resolve that draws on hidden reserves of energy to keep going, or act at all, wh
 
 ## 10. Related entries
 
-- **[Amish forgiveness](/catalog/amish-forgiveness/)** and **[mato oput](/catalog/mato-oput/)**: communal endurance after harm, a contrast to sisu's individual framing.
+- **[Amish forgiveness](/catalog/amish-forgiveness/)** and **mato oput**: communal endurance after harm, a contrast to sisu's individual framing.
 - **[Philotimo](/catalog/philotimo/)**: another national-virtue word, also open to nativist use.
-- **[Fingerspitzengefühl](/catalog/fingerspitzengefuhl/)**: knowing when to stop pressing, the judgment harmful sisu lacks.
-- **[Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/)**: the costs of unyielding resolve in feud settings.
+- **Fingerspitzengefühl**: knowing when to stop pressing, the judgment harmful sisu lacks.
+- **Kanun blood reconciliation**: the costs of unyielding resolve in feud settings.
 
 ## 11. Sources
 

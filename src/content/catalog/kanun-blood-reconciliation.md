@@ -9,6 +9,7 @@ pillars: ["Ethno-Ethics", "Chronological Ethics", "Practice"]
 group: forgiveness
 order: 8
 status: "Under community review"
+published: false
 ---
 
 ## 1. Entry details
@@ -91,7 +92,7 @@ Under the customary law of the Kanun, a blood feud (*gjakmarrja*) ends only when
 
 ## 10. Related entries
 
-[Sulha](/catalog/sulha/) (mediated truce, compensation, public meal); [nənawāta](/catalog/nanawatai/) (honour-based plea within a customary code); [mato oput](/catalog/mato-oput/) (inter-clan reconciliation after homicide); [ʿafw within qiṣāṣ](/catalog/afw-qisas/) (the family's right to forgo retaliation); [teshuvah/mechilah](/catalog/teshuvah-mechilah/) (forgiveness as release of a claim); [Philotimo](/catalog/philotimo/) (Balkan honour neighbour).
+Sulha (mediated truce, compensation, public meal); nənawāta (honour-based plea within a customary code); mato oput (inter-clan reconciliation after homicide); [ʿafw within qiṣāṣ](/catalog/afw-qisas/) (the family's right to forgo retaliation); [teshuvah/mechilah](/catalog/teshuvah-mechilah/) (forgiveness as release of a claim); [Philotimo](/catalog/philotimo/) (Balkan honour neighbour).
 
 ## 11. Sources
 

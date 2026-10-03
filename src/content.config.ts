@@ -22,6 +22,11 @@ const catalog = defineCollection({
     group: z.enum(["forgiveness", "virtues"]),
     order: z.number(),
     status: z.string().optional(),
+    /**
+     * Set `published: false` to hold an entry: it stays in the repo but is not
+     * built, listed, or linked anywhere on the site. Defaults to true.
+     */
+    published: z.boolean().default(true),
   }),
 });
 

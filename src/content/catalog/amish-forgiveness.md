@@ -83,7 +83,7 @@ A religiously required, prompt and largely unconditional forgiveness of wrongdoe
 
 ## 10. Related entries
 
-[Teshuvah/mechilah](/catalog/teshuvah-mechilah/) (conditional, victim-held forgiveness, the sharpest contrast); [hoʻoponopono](/catalog/hooponopono/) (forgiveness within a religious-familial discipline); [sulha](/catalog/sulha/) and [Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/) (communal forgiveness that restores honour, against Amish yieldedness); [mato oput](/catalog/mato-oput/) (communal ritual repair).
+[Teshuvah/mechilah](/catalog/teshuvah-mechilah/) (conditional, victim-held forgiveness, the sharpest contrast); hoʻoponopono (forgiveness within a religious-familial discipline); sulha and Kanun blood reconciliation (communal forgiveness that restores honour, against Amish yieldedness); mato oput (communal ritual repair).
 
 ## 11. Sources
 

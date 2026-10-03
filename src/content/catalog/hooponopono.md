@@ -9,6 +9,7 @@ pillars: ["Semantic Ethics", "Sacred Axiology", "Chronological Ethics"]
 group: forgiveness
 order: 1
 status: "Under community review"
+published: false
 ---
 
 ## 1. Entry details
@@ -84,7 +85,7 @@ A family conference, led by an elder or trusted healer, in which prayer, layered
 
 ## 10. Related entries
 
-[Amish forgiveness](/catalog/amish-forgiveness/) (also mutual and communal, but unconditional); [teshuvah/mechilah](/catalog/teshuvah-mechilah/) (repair before release; obligation not to refuse a sincere penitent); [nənawāta](/catalog/nanawatai/) (obligation to accept a plea); [mato oput](/catalog/mato-oput/) (bitterness "washed down" in a shared ritual); [Hózhǫ́](/catalog/hozho/) (restoration of right relation; same caution about Indigenous knowledge); [Amae](/catalog/amae/).
+[Amish forgiveness](/catalog/amish-forgiveness/) (also mutual and communal, but unconditional); [teshuvah/mechilah](/catalog/teshuvah-mechilah/) (repair before release; obligation not to refuse a sincere penitent); nənawāta (obligation to accept a plea); mato oput (bitterness "washed down" in a shared ritual); Hózhǫ́ (restoration of right relation; same caution about Indigenous knowledge); [Amae](/catalog/amae/).
 
 ## 11. Sources
 

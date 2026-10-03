@@ -8,6 +8,7 @@ gloss: "Fine-grained, situational tact: a trained feel for people and circumstan
 pillars: ["Semantic Ethics", "Chronological Ethics", "Practice"]
 group: virtues
 order: 5
+published: false
 ---
 
 ## 1. Entry details
@@ -91,7 +92,7 @@ No study of Fingerspitzengefühl as such was found. The nearest evidence comes f
 
 - **[Amae](/catalog/amae/)**: both require reading unspoken expectations in a relationship.
 - **[Sisu](/catalog/sisu/)**: both involve knowing when to push, and harmful sisu is the failure to know when to stop.
-- **[Sulha](/catalog/sulha/)** and **[mato oput](/catalog/mato-oput/)**: mediated settlements where elders' situational judgment matters.
+- **Sulha** and **mato oput**: mediated settlements where elders' situational judgment matters.
 - **[Philotimo](/catalog/philotimo/)**: honor-sensitive dealings that call for tact.
 
 ## 11. Sources

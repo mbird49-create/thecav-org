@@ -81,7 +81,7 @@ A procedure in which a wrongdoer must repair the harm and personally ask the inj
 
 ## 10. Related entries
 
-[ʿAfw within qiṣāṣ](/catalog/afw-qisas/) (the victim's or heirs' exclusive right to pardon); [hoʻoponopono](/catalog/hooponopono/) (repair before release; an obligation not to refuse a sincere penitent); [nənawāta](/catalog/nanawatai/) (a plea that obliges acceptance); [Amish forgiveness](/catalog/amish-forgiveness/) (unconditional, the sharpest contrast); [Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/) (forgiveness as release of a debt of blood).
+[ʿAfw within qiṣāṣ](/catalog/afw-qisas/) (the victim's or heirs' exclusive right to pardon); hoʻoponopono (repair before release; an obligation not to refuse a sincere penitent); nənawāta (a plea that obliges acceptance); [Amish forgiveness](/catalog/amish-forgiveness/) (unconditional, the sharpest contrast); Kanun blood reconciliation (forgiveness as release of a debt of blood).
 
 ## 11. Sources
 

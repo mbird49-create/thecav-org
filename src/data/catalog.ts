@@ -19,7 +19,7 @@ export const catalogGroups: CatalogGroup[] = [
   },
   {
     id: "virtues",
-    title: "Honor, dependence, endurance, harmony, tact",
+    title: "Honor, dependence, endurance",
     description:
       "Untranslatable virtue-words under Linguistic Relativity in Morals (Semantic Ethics), where portable English names leave a remainder.",
   },
@@ -30,8 +30,13 @@ export const FORGIVENESS_STUDY = {
   title: "Has Forgiveness Been Forgotten?",
 };
 
+/**
+ * Published catalog entries only, in display order. Entries with
+ * `published: false` are held: never pass them to getStaticPaths, the index,
+ * the home page, or any related-entry list. Every renderer goes through here.
+ */
 export async function getCatalogEntries(): Promise<CatalogEntry[]> {
-  const entries = await getCollection("catalog");
+  const entries = await getCollection("catalog", ({ data }) => data.published !== false);
   const groupOrder = catalogGroups.map((g) => g.id);
   return entries.sort(
     (a, b) =>

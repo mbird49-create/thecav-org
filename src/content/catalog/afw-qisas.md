@@ -86,7 +86,7 @@ In intentional homicide and wounding, the right to retaliation belongs to the vi
 
 ## 10. Related entries
 
-[Sulha](/catalog/sulha/) (communal settlement, often alongside or instead of this legal route); [nənawāta](/catalog/nanawatai/) (Pashtun plea with blood money); [teshuvah/mechilah](/catalog/teshuvah-mechilah/) (only the injured party can forgive); [Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/) (release of a debt of blood); [mato oput](/catalog/mato-oput/) (compensation, then reconciliation).
+Sulha (communal settlement, often alongside or instead of this legal route); nənawāta (Pashtun plea with blood money); [teshuvah/mechilah](/catalog/teshuvah-mechilah/) (only the injured party can forgive); Kanun blood reconciliation (release of a debt of blood); mato oput (compensation, then reconciliation).
 
 ## 11. Sources
 

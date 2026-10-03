@@ -85,9 +85,9 @@ Presuming on someone's goodwill in a close relationship, typically by making a r
 ## 10. Related entries
 
 - **[Philotimo](/catalog/philotimo/)**: another in-group-centered relational virtue.
-- **[Teshuvah/mechilah](/catalog/teshuvah-mechilah/)** and **[sulha](/catalog/sulha/)**: structured requests to an injured party, a contrast with amae's informal, relational asking.
-- **[Fingerspitzengefühl](/catalog/fingerspitzengefuhl/)**: reading when a request will land well.
-- **[Hózhǫ́](/catalog/hozho/)**: relationship (k'é) as part of right order.
+- **[Teshuvah/mechilah](/catalog/teshuvah-mechilah/)** and **sulha**: structured requests to an injured party, a contrast with amae's informal, relational asking.
+- **Fingerspitzengefühl**: reading when a request will land well.
+- **Hózhǫ́**: relationship (k'é) as part of right order.
 
 ## 11. Sources
 

@@ -79,14 +79,14 @@ Mantzios (2021) defined philotimo as "a commitment to unconditional selfless act
 - **Romanticization and commercialization.** Philotimo is widely marketed as a uniquely Greek, "untranslatable" virtue. **Interpretation:** treating it as a national essence repeats the pattern Herzfeld (1980) criticized in "Mediterranean honour" scholarship.
 - **Nativism.** The rhetoric can support claims of moral superiority over migrants (Rozakou 2024).
 - **Patriarchal features.** Mediterranean honor vocabularies are often described as gendered. Whether and how philotimo sets different expectations for women and men was not established in the sources reviewed here **[uncertain]**.
-- **Insider vs. outsider voice.** Most English-language sources are by outsiders, or by Greek scholars writing for international journals. Philotimo is lived and argued over in Greek. A Greek-language literature review and Greek reviewers are needed before publication.
+- **Insider vs. outsider voice.** Most English-language sources are by outsiders, or by Greek scholars writing for international journals. Philotimo is lived and argued over in Greek. A Greek-language literature review and review by Greek-speaking scholars are welcome.
 
 ## 10. Related entries
 
-- **[Sulha](/catalog/sulha/)** and **[Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/)**: honor-restoring settlement in other Mediterranean and Balkan honor systems.
-- **[nənawāta](/catalog/nanawatai/)**: self-humiliation that obliges the other side to respond, which gives a useful contrast with honor-as-generosity.
+- **Sulha** and **Kanun blood reconciliation**: honor-restoring settlement in other Mediterranean and Balkan honor systems.
+- **nənawāta**: self-humiliation that obliges the other side to respond, which gives a useful contrast with honor-as-generosity.
 - **[Amae](/catalog/amae/)**: another in-group-centered relational virtue that English treats as a deficit.
-- **[Fingerspitzengefühl](/catalog/fingerspitzengefuhl/)**: tact as the skill of meeting unstated expectations.
+- **Fingerspitzengefühl**: tact as the skill of meeting unstated expectations.
 
 ## 11. Sources
 

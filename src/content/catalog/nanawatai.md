@@ -9,6 +9,7 @@ pillars: ["Ethno-Ethics", "Semantic Ethics"]
 group: forgiveness
 order: 3
 status: "Under community review"
+published: false
 ---
 
 ## 1. Entry details
@@ -87,7 +88,7 @@ A ritual in which an offender, or his kin, "enters" the house of the injured fam
 
 ## 10. Related entries
 
-[Sulha](/catalog/sulha/) (delegation of notables, blood money, honour); [Kanun blood reconciliation](/catalog/kanun-blood-reconciliation/) (renouncing a duty of revenge, *besa*); [ʿafw within qiṣāṣ](/catalog/afw-qisas/) (heirs' pardon with compensation; overlaps in Pashtun practice); [mato oput](/catalog/mato-oput/) (clan-to-clan settlement with compensation); [Philotimo](/catalog/philotimo/) (honour as an ethical organ); [hoʻoponopono](/catalog/hooponopono/) (an obligation to accept a sincere plea).
+Sulha (delegation of notables, blood money, honour); Kanun blood reconciliation (renouncing a duty of revenge, *besa*); [ʿafw within qiṣāṣ](/catalog/afw-qisas/) (heirs' pardon with compensation; overlaps in Pashtun practice); mato oput (clan-to-clan settlement with compensation); [Philotimo](/catalog/philotimo/) (honour as an ethical organ); hoʻoponopono (an obligation to accept a sincere plea).
 
 ## 11. Sources
 
