@@ -8,6 +8,7 @@ gloss: "Presuming on someone's goodwill in a close relationship, typically by ma
 pillars: ["Semantic Ethics", "Ethno-Ethics", "Chronological Ethics"]
 group: virtues
 order: 2
+thumbnail: "/catalog/thumbs/amae.svg"
 ---
 
 ## 1. Entry details

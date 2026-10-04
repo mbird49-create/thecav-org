@@ -8,6 +8,7 @@ gloss: "A procedure in which a wrongdoer must repair the harm and personally ask
 pillars: ["Sacred Axiology", "Semantic Ethics", "Chronological Ethics"]
 group: forgiveness
 order: 4
+thumbnail: "/catalog/thumbs/teshuvah-mechilah.svg"
 ---
 
 ## 1. Entry details

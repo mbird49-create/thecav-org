@@ -8,6 +8,7 @@ gloss: "Resolve that draws on hidden reserves of energy to keep going, or act at
 pillars: ["Semantic Ethics", "Chronological Ethics", "Ethno-Ethics"]
 group: virtues
 order: 3
+thumbnail: "/catalog/thumbs/sisu.svg"
 ---
 
 ## 1. Entry details

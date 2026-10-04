@@ -8,6 +8,7 @@ gloss: "A felt obligation to act in ways that honor one's self, family, and comm
 pillars: ["Semantic Ethics", "Chronological Ethics", "Ethno-Ethics"]
 group: virtues
 order: 1
+thumbnail: "/catalog/thumbs/philotimo.svg"
 ---
 
 ## 1. Entry details

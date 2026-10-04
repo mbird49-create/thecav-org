@@ -10,6 +10,7 @@ group: forgiveness
 order: 1
 status: "Under community review"
 published: false
+thumbnail: "/catalog/thumbs/hooponopono.svg"
 ---
 
 ## 1. Entry details

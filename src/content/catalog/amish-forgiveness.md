@@ -8,6 +8,7 @@ gloss: "A religiously required, prompt and largely unconditional forgiveness of 
 pillars: ["Sacred Axiology", "Ethno-Ethics", "Practice"]
 group: forgiveness
 order: 2
+thumbnail: "/catalog/thumbs/amish-forgiveness.svg"
 ---
 
 ## 1. Entry details

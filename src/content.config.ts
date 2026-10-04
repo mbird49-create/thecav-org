@@ -27,6 +27,12 @@ const catalog = defineCollection({
      * built, listed, or linked anywhere on the site. Defaults to true.
      */
     published: z.boolean().default(true),
+    /**
+     * Optional square thumbnail (site-root path to an SVG in
+     * public/catalog/thumbs/, e.g. "/catalog/thumbs/philotimo.svg").
+     * Entries without one fall back to a neutral CAV frame.
+     */
+    thumbnail: z.string().optional(),
   }),
 });
 

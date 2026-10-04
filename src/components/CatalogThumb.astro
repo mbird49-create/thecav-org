@@ -1,0 +1,24 @@
+---
+/**
+ * Square catalog thumbnail (decorative; the entry title is always adjacent).
+ * Falls back to a neutral CAV frame when an entry has no `thumbnail`.
+ */
+interface Props {
+  src?: string;
+  class?: string;
+  eager?: boolean;
+}
+
+const FALLBACK = "/catalog/thumbs/default.svg";
+const { src, class: className, eager = false } = Astro.props;
+---
+
+<img
+  src={src ?? FALLBACK}
+  alt=""
+  width="120"
+  height="120"
+  loading={eager ? "eager" : "lazy"}
+  decoding="async"
+  class:list={["block aspect-square h-auto shrink-0 select-none", className]}
+/>

@@ -8,6 +8,7 @@ gloss: "In intentional homicide and wounding, the right to retaliation belongs t
 pillars: ["Sacred Axiology", "Semantic Ethics", "Ethno-Ethics"]
 group: forgiveness
 order: 5
+thumbnail: "/catalog/thumbs/afw-qisas.svg"
 ---
 
 ## 1. Entry details
