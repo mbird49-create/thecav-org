@@ -10,7 +10,6 @@ group: forgiveness
 order: 8
 status: "Under community review"
 published: false
-thumbnail: "/catalog/thumbs/kanun-blood-reconciliation.svg"
 ---
 
 ## 1. Entry details

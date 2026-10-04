@@ -9,7 +9,6 @@ pillars: ["Semantic Ethics", "Chronological Ethics", "Practice"]
 group: virtues
 order: 5
 published: false
-thumbnail: "/catalog/thumbs/fingerspitzengefuhl.svg"
 ---
 
 ## 1. Entry details

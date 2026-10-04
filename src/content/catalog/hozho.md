@@ -10,7 +10,6 @@ group: virtues
 order: 4
 status: "Under community review"
 published: false
-thumbnail: "/catalog/thumbs/hozho.svg"
 ---
 
 > **Insider/outsider notice.** This entry was written by outsiders and has **not** been reviewed by any Diné person or institution. It relies on published work, and where possible on Diné authors (marked † in the sources). It describes public, published material only and does not attempt to describe ceremonial knowledge. It should not be published without Diné review and consent (see section 9).

@@ -10,7 +10,6 @@ group: forgiveness
 order: 3
 status: "Under community review"
 published: false
-thumbnail: "/catalog/thumbs/nanawatai.svg"
 ---
 
 ## 1. Entry details

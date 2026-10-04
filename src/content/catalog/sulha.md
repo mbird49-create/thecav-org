@@ -10,7 +10,6 @@ group: forgiveness
 order: 6
 status: "Under community review"
 published: false
-thumbnail: "/catalog/thumbs/sulha.svg"
 ---
 
 ## 1. Entry details

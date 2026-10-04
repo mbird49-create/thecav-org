@@ -10,7 +10,6 @@ group: forgiveness
 order: 7
 status: "Under community review"
 published: false
-thumbnail: "/catalog/thumbs/mato-oput.svg"
 ---
 
 ## 1. Entry details
