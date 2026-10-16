@@ -125,7 +125,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
     - 2024: 44,035 temples, 245,645 monks, 31,873 novices
   - These exclude the Chinese and Annamese nikāyas.
   - A Thai-language study in *Dhammadhara* (TCI journal) reports monks plus novices falling from 355,295 (2012) to 288,342 (2022), with the steepest falls in the Northeast. In the same period temples rose (43,471 in 2022).
-  - Boonnoon (*Chulalongkorn Journal of Buddhist Studies*, 2013) finds that from 1999 to 2006 monks fell 6.30% and novices 35.87%. He attributes this to free public schooling, a changing rural labor market, and smaller families, explicitly "not … economic factors" in the narrow sense.
+  - Boonnoon (*Chulalongkorn Journal of Buddhist Studies*, 2013) finds that from 1999 to 2006 monks fell 6.30% and novices 35.78%. He attributes this to free public schooling, a changing rural labor market, and smaller families, explicitly "not … economic factors" in the narrow sense.
   - **Korea (Jogye Order, Mahāyāna but analogous renunciation).** New monastics: 528 (2000), 287 (2010), 131 (2020), 61 (2022). Sources: Korean press (천지일보, 매일경제) and the Korean Christian research outlet Mokhoe Data; context in a 2023 *Religions* 14(3):357 article on Jogye postulant education [uncertain: exact counts via secondary]. The Order has set a goal of 150 ordinations a year [uncertain].
   - Myanmar, Sri Lanka, and Taiwan: no verified time series retrieved [gap].
 - **Cautions:**
@@ -236,7 +236,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
   - mottainai: regret or reproach at waste, at failing to honor a thing's worth.
 - **Doesn't translate because:**
   - Wabi-sabi is an aesthetic-religious complex from the tea ceremony and Zen, not a lifestyle rule.
-  - Mottainai has Buddhist overtones of respect for the value inherent in things (the word's root denotes something "unbecoming" to a thing's essence) [uncertain: etymology not re-checked].
+  - Mottainai's earliest attested sense is "improper, outrageous" (c. 1221), then "more than I deserve" (1378), then "regret at waste" (late 14th century), per the standard Japanese dictionaries (Daijisen; Nihon Kokugo Daijiten via Kotobank). Buddhist and Shinto readings exist (Sato 2017), but no source shows they are the word's origin.
 - **Practice and cost:** tea practice (wabi-cha); repair (kintsugi); household thrift. Costs are low.
 - **Evidence on decline:** no national series found [gap].
 - **Commodification and re-use:**
@@ -271,7 +271,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
     - Art. 14 recognizes the right to a healthy, ecologically balanced environment that guarantees sustainability and *buen vivir, sumak kawsay*.
     - Art. 71 grants Nature (*Pacha Mama*) the right to integral respect for its existence and the maintenance and regeneration of its life cycles. Anyone can demand enforcement.
   - **Yasuní-ITT initiative:**
-    - Proposed by President Correa in 2007: leave about 846 million barrels in the ground in exchange for US$3.6B over 12 years.
+    - The UN-backed scheme was launched by President Correa in 2010 (BBC, 16 Aug 2013) with a target of US$3.6B, 50% of the value of the ITT reserves (about 846 million barrels), over 13 years.
     - Ended on **15 Aug 2013** by Executive Decree 74, which liquidated the trust funds. Correa said "el mundo nos ha fallado" ("the world has failed us").
     - About US$13.3M had been deposited and about US$116M pledged (BBC Mundo, El Universo, El Telégrafo; Correa cited 0.37% of the target). PBS reported "$336 million raised," an inconsistency [uncertain; deposits vs. pledges].
   - **2023 referendum (20 Aug 2023; CNE final results):** 58.95% Sí (5,541,585) to 41.05% No (3,859,507), to keep Block 43-ITT oil underground indefinitely.
@@ -343,7 +343,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
   - The US ratio was **3:1** materialist.
   - By 2006, post-materialists were "slightly more numerous than materialists in Western Europe" and **twice as numerous as materialists in the US**. Inglehart attributes the shift to cohort replacement and finds no life-cycle effect.
 - In other writing (the WVS-based chapter "Changing Values in the Islamic World," U-Michigan repository; HSE LCSR lecture 2011), Inglehart reports:
-  - materialist-to-post-materialist ratios of **55:1 in Pakistan, 28:1 in Russia, 1:2 in the US, 1:5 in Sweden**;
+  - materialist-to-post-materialist ratios of **28:1 in Russia, 1:2 in the US, 1:5 in Sweden**;
   - that the value shift had **stagnated in Western Europe**, with younger cohorts no longer substantially more post-materialist than the next older ones.
 - Inglehart & Abramson (1994), *APSR* 88(2): controlling for inflation and unemployment, there is a significant trend toward post-materialism in all eight West European countries with data. Post-materialism increased in 18 of 20 societies over the preceding decade.
 - Norris & Inglehart, "The Silent Revolution in Reverse" (*Perspectives on Politics*): an authoritarian-populist backlash. Not a materialism measure.
@@ -498,7 +498,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 | Korea | Jogye ordinations down 88% (2000–2022) [uncertain counts] | Korean press; *Religions* 2023 | Fertility collapse |
 | Andes (Ecuador) | Constitution vs. extraction; 2023 vote, slow implementation | Constitution; CNE; press | Fiscal dependence on oil |
 | Bhutan | GNH up, driven partly by living standards; youth emigration about 2%/yr on visas | CBS/OPHI 2023; *The Bhutanese* | Visa ≠ departure |
-| Muslim-majority societies | Strong materialism ratios where measured (Pakistan 55:1); no zuhd data | Inglehart | Poverty ≠ zuhd |
+| Muslim-majority societies | Materialist-leaning value ratios where measured; no zuhd data | Inglehart | Poverty ≠ zuhd |
 | Africa and Asia (Catholic) | Large current religious populations (Africa 83,190 sisters; Asia 171,813) | CARA/ASE 2022 | Trend not verified |
 
 **Counter-evidence to "decline"**
