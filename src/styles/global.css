@@ -195,3 +195,31 @@ body {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   font-size: 0.88em;
 }
+
+/* Epigraph and poem blocks (Research) */
+.prose-cav-study blockquote.epigraph {
+  margin: 0 0 2rem;
+}
+
+.prose-cav-study .epigraph-text,
+.prose-cav-study .poem p {
+  font-style: italic;
+  line-height: 1.65;
+}
+
+.prose-cav-study .epigraph-attribution {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  font-style: normal;
+}
+
+.prose-cav-study .poem {
+  margin: 1rem 0 1.25rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--color-oxblood);
+  color: var(--color-ink-soft);
+}
+
+.prose-cav-study .poem-source {
+  font-size: 0.9rem;
+}
