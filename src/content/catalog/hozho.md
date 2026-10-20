@@ -33,7 +33,7 @@ The condition of beauty, harmony, balance, and right relation that Diné life, l
 **Evidence.** The non-Diné anthropologist Gary Witherspoon's study of Navajo language and thought presents hózhǫ́ as the term "most easily glossed as representing Navajo ideals of harmony and order" (as summarized by the University of Michigan Press, Witherspoon 1977). His fuller breakdown into senses such as beauty, order, goodness, and health was not checked against the text **[uncertain]**.
 
 **Evidence.** Diné authors define it in their own terms:
-- Former Navajo Nation Chief Justice Robert Yazzie writes that Navajo prayers and ceremonies "tell us of hozho—'the perfect state'" (Yazzie 1994).
+- Former Navajo Nation Chief Justice Robert Yazzie writes that Navajo prayers and ceremonies "tell us of hozho: 'the perfect state'" (Yazzie 1994).
 - Diné nurse-scholar Michelle Kahn-John and Mary Koithan describe the Hózhó philosophy as "principles that guide one's thoughts, actions, behaviors, and speech" (Kahn-John and Koithan 2015).
 - The Diné scholars in Lee (2014) set hózhǫ́ within *Sa'ah Naagháí Bik'eh Hózhóón* (SNBH), which Lee's volume describes as "generally understood to mean 'one's journey of striving to live a long, harmonious life.'"
 

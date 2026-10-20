@@ -881,7 +881,7 @@ Several figures were initially drawn from secondary sources and were then checke
 - Iyengar, S., Konitzer, T. & Tedin, K. "The Home as a Political Fortress: Family Agreement in an Era of Polarization." *Journal of Politics* 80(4) (2018): 1326–1338.
 - Iyengar, S., Sood, G. & Lelkes, Y. "Affect, Not Ideology: A Social Identity Perspective on Polarization." *Public Opinion Quarterly* 76(3) (2012): 405–431.
 - Jost, J. T., et al. "How Social Media Facilitates Political Protest: Information, Motivation, and Social Networks." *Political Psychology* 39(S1) (2018): 85–118.
-- Kannan, V. D. & Veazie, P. J. "US Trends in Social Isolation, Social Engagement, and Companionship—Nationally and by Age, Sex, Race/Ethnicity, Family Income, and Work Hours, 2003–2020." *SSM – Population Health* (2023).
+- Kannan, V. D. & Veazie, P. J. "US Trends in Social Isolation, Social Engagement, and Companionship: Nationally and by Age, Sex, Race/Ethnicity, Family Income, and Work Hours, 2003–2020." *SSM – Population Health* (2023).
 - Kesebir, P. & Kesebir, S. "The Cultural Salience of Moral Character and Virtue Declined in Twentieth Century America." *Journal of Positive Psychology* 7(6) (2012): 471–480.
 - Mastroianni, A. M. & Gilbert, D. T. "The Illusion of Moral Decline." *Nature* 618 (2023): 782–789.
 - Muzaale, A. D., et al. "Risk of End-Stage Renal Disease Following Live Kidney Donation." *JAMA* 311(6) (2014): 579–586.

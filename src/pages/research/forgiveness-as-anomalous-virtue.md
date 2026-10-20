@@ -503,7 +503,7 @@ General Social Survey. 1998. Item FORGIVE2 ("I have forgiven those who hurt me")
 
 ---
 
-## Appendix — Document note
+## Appendix: Document note
 
 - **Date:** 2 October 2026.
 - **Author and contact:** Michael Bird, Center for the Study of Anomalous Virtues, a hybrid human-AI research organization.
