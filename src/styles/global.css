@@ -223,3 +223,36 @@ body {
 .prose-cav-study .poem-source {
   font-size: 0.9rem;
 }
+
+/* Research study pages: keep short hyphenated terms (e.g. DSM-5) on one line */
+.prose-cav-study .nobr {
+  white-space: nowrap;
+}
+
+/* Research study pages: print and PDF */
+@media print {
+  .prose-cav-study {
+    hyphens: manual;
+  }
+  .prose-cav-study h1,
+  .prose-cav-study h2,
+  .prose-cav-study h3,
+  .prose-cav-study h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+    break-inside: avoid;
+  }
+  .prose-cav-study table {
+    display: table;
+    overflow: visible;
+  }
+  .prose-cav-study tr,
+  .prose-cav-study th,
+  .prose-cav-study td {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .prose-cav-study thead {
+    display: table-header-group;
+  }
+}
