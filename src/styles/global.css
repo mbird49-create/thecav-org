@@ -101,6 +101,7 @@ body {
   color: var(--color-oxblood);
   text-underline-offset: 0.18em;
   text-decoration-thickness: 1px;
+  overflow-wrap: anywhere;
 }
 
 .prose-cav a:hover {
@@ -231,28 +232,117 @@ body {
 
 /* Research study pages: print and PDF */
 @media print {
+  @page {
+    size: letter;
+    margin: 0.65in 0.6in 0.7in;
+  }
+
+  body:has(.prose-cav-study) {
+    background: #fff;
+  }
+
+  body:has(.prose-cav-study) > header,
+  body:has(.prose-cav-study) > footer,
+  body:has(.prose-cav-study) .skip-link {
+    display: none !important;
+  }
+
+  body:has(.prose-cav-study) .measure {
+    max-width: none;
+  }
+
+  body:has(.prose-cav-study) .kicker {
+    letter-spacing: 0.02em;
+  }
+
+  body:has(.prose-cav-study) article > header {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
   .prose-cav-study {
     hyphens: manual;
+    orphans: 3;
+    widows: 3;
   }
-  .prose-cav-study h1,
+
   .prose-cav-study h2,
   .prose-cav-study h3,
   .prose-cav-study h4 {
     break-after: avoid;
     page-break-after: avoid;
     break-inside: avoid;
+    page-break-inside: avoid;
   }
+
+  .prose-cav-study h2 + *,
+  .prose-cav-study h3 + *,
+  .prose-cav-study h4 + *,
+  .prose-cav-study h2 + p + ul,
+  .prose-cav-study h2 + p + ol,
+  .prose-cav-study h3 + p + ul,
+  .prose-cav-study h3 + p + ol {
+    break-before: avoid;
+    page-break-before: avoid;
+  }
+
+  .prose-cav-study p,
+  .prose-cav-study li {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .prose-cav-study ul,
+  .prose-cav-study ol {
+    padding-left: 1.35rem;
+  }
+
+  .prose-cav-study ul ul,
+  .prose-cav-study ol ol,
+  .prose-cav-study ul ol,
+  .prose-cav-study ol ul {
+    margin-top: 0.35rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .prose-cav-study a {
+    overflow-wrap: break-word;
+    word-break: normal;
+    color: var(--color-ink);
+  }
+
   .prose-cav-study table {
     display: table;
+    width: 100%;
+    max-width: 100%;
+    table-layout: fixed;
     overflow: visible;
+    font-size: 0.72rem;
+    line-height: 1.35;
   }
+
+  .prose-cav-study th,
+  .prose-cav-study td {
+    overflow-wrap: break-word;
+    word-break: normal;
+    hyphens: manual;
+    padding: 0.35rem 0.4rem;
+  }
+
   .prose-cav-study tr,
   .prose-cav-study th,
   .prose-cav-study td {
     break-inside: avoid;
     page-break-inside: avoid;
   }
+
   .prose-cav-study thead {
     display: table-header-group;
+  }
+
+  .prose-cav-study .nobr {
+    white-space: nowrap;
   }
 }

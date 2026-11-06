@@ -12,9 +12,10 @@ const author = frontmatter.author as string | undefined;
 // Studies show the suicide/self-harm content warning unless they opt out with
 // `contentWarning: false` in frontmatter (keeps the original study unchanged).
 const showSuicideWarning = frontmatter.contentWarning !== false;
+const robots = frontmatter.noindex === true ? "noindex, nofollow" : undefined;
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} robots={robots}>
   <article>
     <header class="border-b border-rule">
       <div class="mx-auto max-w-6xl px-5 py-10 sm:px-8 sm:py-14">

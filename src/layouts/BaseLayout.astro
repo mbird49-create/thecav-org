@@ -8,9 +8,10 @@ interface Props {
   title: string;
   description: string;
   ogTitle?: string;
+  robots?: string;
 }
 
-const { title, description, ogTitle } = Astro.props;
+const { title, description, ogTitle, robots } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const pageTitle = title.includes("CAV") ? title : `${title} · CAV`;
 ---
@@ -22,6 +23,7 @@ const pageTitle = title.includes("CAV") ? title : `${title} · CAV`;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
+    {robots && <meta name="robots" content={robots} />}
     <meta name="theme-color" content="#f3eee4" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
