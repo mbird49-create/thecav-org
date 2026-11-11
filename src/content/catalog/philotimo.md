@@ -80,7 +80,7 @@ Mantzios (2021) defined philotimo as "a commitment to unconditional selfless act
 - **Romanticization and commercialization.** Philotimo is widely marketed as a uniquely Greek, "untranslatable" virtue. **Interpretation:** treating it as a national essence repeats the pattern Herzfeld (1980) criticized in "Mediterranean honour" scholarship.
 - **Nativism.** The rhetoric can support claims of moral superiority over migrants (Rozakou 2024).
 - **Patriarchal features.** Mediterranean honor vocabularies are often described as gendered. Whether and how philotimo sets different expectations for women and men was not established in the sources reviewed here **[uncertain]**.
-- **Insider vs. outsider voice.** Most English-language sources are by outsiders, or by Greek scholars writing for international journals. Philotimo is lived and argued over in Greek. A Greek-language literature review and review by Greek-speaking scholars are welcome.
+- **Insider vs. outsider voice.** Most English-language sources are by outsiders, or by Greek scholars writing for international journals. Philotimo is lived and argued over in Greek. A Greek-language literature review and review by Greek-speaking scholars have not yet taken place; until then this entry rests mainly on English-language sources.
 
 ## 10. Related entries
 

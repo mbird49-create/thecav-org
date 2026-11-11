@@ -17,7 +17,7 @@ Are social restraint, civic virtue, self-sacrifice, and common ethical norms dec
 
 ### About this study
 
-The Center for the Study of Anomalous Virtues (CAV), a hybrid human-AI research organization, prepared this study with data current as of 9 October 2026. Figures were checked against primary data, official releases, or the original papers where these could be reached. Figures computed by CAV directly from public microdata are marked "CAV computation." Claims that could not be fully verified are tagged **[uncertain]**.
+The Center for the Study of Anomalous Virtues (CAV), a hybrid human-AI research organization, prepared this study with data current as of 9 October 2026. Figures were checked against primary data, official releases, or the original papers where these could be reached. Figures computed by CAV directly from public microdata are marked "CAV computation." Claims that could not be fully verified are tagged **[uncertain]**, and known gaps in the data are tagged **[gap]**.
 
 **Labels used throughout.**
 - **Evidence**: documented findings and data.

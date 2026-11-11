@@ -5,7 +5,7 @@ native: "pajtimi i gjaqeve"
 language: "Albanian (Gheg dialects in the north)"
 region: "Northern Albania, Kosovo, and Albanian communities in Montenegro and North Macedonia"
 gloss: "Under the customary law of the Kanun, a blood feud (gjakmarrja) ends only when the family of the person killed \"forgives the blood,\" usually after mediated truces and negotiations, sealed by a public meal and oath of reconciliation."
-pillars: ["Ethno-Ethics", "Chronological Ethics", "Practice"]
+pillars: ["Ethno-Ethics", "Chronological Ethics"]
 group: forgiveness
 order: 8
 status: "Under community review"
@@ -18,7 +18,7 @@ published: false
 - **Native script:** Albanian (Latin script)
 - **Language:** Albanian (Gheg dialects in the north)
 - **Region:** Northern Albania, Kosovo, and Albanian communities in Montenegro and North Macedonia
-- **CAV pillars:** Ethno-Ethics; Chronological Ethics; Practice
+- **CAV pillars:** Ethno-Ethics; Chronological Ethics
 
 ## 2. One-line gloss
 

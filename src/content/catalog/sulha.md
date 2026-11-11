@@ -5,7 +5,7 @@ native: "صلحة"
 language: "Arabic (Levantine colloquial and classical)"
 region: "Levant (Palestinian, Israeli Arab, Druze, Bedouin, Jordanian, Lebanese communities); related forms across the Arab world"
 gloss: "A community-led settlement of serious disputes, including homicide, in which a delegation of notables secures a truce, negotiates compensation and stages a public ceremony through which the injured family restores its honour by forgiving."
-pillars: ["Ethno-Ethics", "Semantic Ethics", "Practice"]
+pillars: ["Ethno-Ethics", "Semantic Ethics"]
 group: forgiveness
 order: 6
 status: "Under community review"
@@ -18,7 +18,7 @@ published: false
 - **Native script:** Arabic صلحة (sulḥa); صلح (ṣulḥ)
 - **Language:** Arabic (Levantine colloquial and classical)
 - **Region:** Levant (Palestinian, Israeli Arab, Druze, Bedouin, Jordanian, Lebanese communities); related forms across the Arab world
-- **CAV pillars:** Ethno-Ethics; Semantic Ethics; Practice
+- **CAV pillars:** Ethno-Ethics; Semantic Ethics
 
 ## 2. One-line gloss
 

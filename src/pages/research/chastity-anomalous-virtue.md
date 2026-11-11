@@ -9,6 +9,8 @@ pubDate: "20 October 2026"
 contentWarning: false
 ---
 
+> **Methods note, 11 November 2026.** This study used a 20% prevalence cutoff (20-25% borderline) to label a virtue *anomalous*. CAV has since retired fixed cutoffs. Under the current standard, "anomalous" is tested against matched comparison groups using the same definition and the same kinds of records, and absolute figures are reported with 50% as the only marked line. That relative comparison was not run here, so the published verdicts below are kept as originally stated and should be read as absolute figures, not as tests of anomaly.
+
 ## Abstract
 
 Is chastity becoming an anomalous virtue in modern, mainstream society? This study treats that as an open question. Nothing here assumes that chastity is declining, or that it should be preserved. It defines chastity in the virtue sense as sexual restraint that is chosen for a reason the person endorses, and keeps it apart from sexlessness caused by circumstance. Because "chastity" covers several distinct things, the study splits the question into four parts: chastity broadly, premarital abstinence, vowed celibacy, and marital fidelity. It then tests each against General Social Survey microdata, CDC and NCHS surveys, Gallup and Pew polling, Japan's National Fertility Survey, Britain's Natsal, and Catholic vocation counts. The evidence suggests the parts are moving in different directions, and that the question has no single answer.
@@ -255,7 +257,7 @@ Single years are noisy. All adults reporting no sex in the past year rose from 1
 | H2. Restraint is rising in practice | **Supported as behavior** (YRBS, GSS, Ueda, Natsal, IPSS) |
 | H3. The rise reflects conviction | **Largely not supported.** The conviction share of the young sexless fell; inactivity tracks income and work; Natsal finds more people wanting more sex. Conviction remains a real minority motive among teens (NSFG) |
 | H4. Chastity is migrating into secular forms | **Not supported (insufficient evidence)** |
-| H5. Vowed celibacy is becoming anomalous | **Supported for Catholic religious life** in the US and for women religious worldwide; not measured for other traditions |
+| H5. Vowed celibacy is shrinking | **Supported for Catholic religious life** in the US and for women religious worldwide; not measured for other traditions |
 | H6. The pattern is cross-culturally uniform | **Not supported** (Pakistan 94% vs Japan 21%) |
 
 **What would count as migration rather than circumstance:** a reason the person endorses independent of partner scarcity; durability beyond a trend cycle; a measurable forgone opportunity; a supporting community or practice; and survey evidence, not only media reports. None of the secular forms reviewed currently meets the last two.
@@ -286,7 +288,7 @@ Descriptive and normative judgments are kept in separate columns. "Anomalous" me
 - **Small cells:** the GSS conviction test rests on 60-140 sexless respondents per period.
 - **Not read in the primary [uncertain]:** the pledge studies, Bogaert, the Gandhi scholarship, and several religious texts.
 - **No data [gap]:** India, behavioral data for Muslim-majority countries, Natsal-4, Add Health trends, LDS practice, and Buddhist ordination trends.
-- About 30 figures in an early working draft could not be traced to a source and were removed.
+- Figures that could not be traced to a primary source were removed before publication.
 
 ---
 
