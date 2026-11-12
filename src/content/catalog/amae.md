@@ -81,7 +81,7 @@ Presuming on someone's goodwill in a close relationship, typically by making a r
 - **Patriarchal and power features.** Classic examples, such as a wife coaxing a gift from her husband or a mother indulging a son (Niiya et al. 2006), sit inside gendered family roles. Indulgence also flows along hierarchies. Who may presume, and who is expected to indulge, is a question about power **[uncertain: not examined directly in the sources reviewed]**.
 - **Clinical framing.** Western clinical readings may pathologize amae as dependency. Japanese clinical readings may underweight its manipulative side. Both are partial.
 - **Commercialization.** Amae has not been branded the way sisu has, but the "untranslatable word" genre invites it.
-- **Insider vs. outsider voice.** Doi wrote as a Japanese psychiatrist addressing both Japanese and Western readers. All sources here are in English. Japanese-language scholarship (for example Yamaguchi 1999 and Masamura 1998, both cited by Niiya et al.) was not reviewed **[gap]**.
+- **Insider vs. outsider voice.** Doi wrote as a Japanese psychiatrist addressing both Japanese and Western readers. All sources here are in English. Japanese-language scholarship (for example Yamaguchi 1999 and Masamura 1998, both cited by Niiya et al.) was not reviewed **[gap]**. A review of Japanese-language scholarship and review by Japanese-speaking scholars have not yet taken place; until then this entry rests on English-language sources.
 
 ## 10. Related entries
 

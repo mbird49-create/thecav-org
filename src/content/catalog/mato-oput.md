@@ -5,7 +5,7 @@ native: "mato oput · culo kwor"
 language: "Acholi (Luo, Western Nilotic)"
 region: "Acholi sub-region, northern Uganda (and Acholi in South Sudan)"
 gloss: "A reconciliation between clans after a killing: mediated truth-telling and compensation, then a ceremony in which both sides drink a bitter infusion of the oput tree from a shared calabash so that relations can resume."
-pillars: ["Ethno-Ethics", "Chronological Ethics", "Practice"]
+pillars: ["Ethno-Ethics", "Chronological Ethics"]
 group: forgiveness
 order: 7
 status: "Under community review"
@@ -18,7 +18,7 @@ published: false
 - **Native script:** Acholi is written in Latin script: *mato oput*; *culo kwor*
 - **Language:** Acholi (Luo, Western Nilotic)
 - **Region:** Acholi sub-region, northern Uganda (and Acholi in South Sudan)
-- **CAV pillars:** Ethno-Ethics; Chronological Ethics; Practice
+- **CAV pillars:** Ethno-Ethics; Chronological Ethics
 
 ## 2. One-line gloss
 

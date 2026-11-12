@@ -9,15 +9,19 @@ pubDate: "23 September 2026"
 
 ## Abstract
 
-This study treats voluntary death framed as honor, loyalty, devotion, duty, dignity, or sacred witness as a core case of *anomalous virtue*: a moral excellence that is unusual or contradictory when removed from its local grammar, and that appears as vice, pathology, or crime in neighboring grammars. Drawing on verified scholarship in Japanese, Greco-Roman, Mesoamerican, South Asian, modern Japanese wartime, bioethical, Islamic legal, and protest histories, and on political-science literatures on martyrdom ideology, the essay maps how societies have sacralized, regulated, contested, and reinvented self-willed death. It incorporates Durkheim’s early typology of “altruistic suicide”; constructs a comparative matrix of forms and conditions of legitimacy; insists on the risks of false equivalence among ritual *seppuku*, clinical suicide, medically assisted dying, political hunger strike or self-immolation, and suicide terrorism; and situates the problem within CAV’s pillars of Chronological Ethics, Semantic Ethics, and Sacred Axiology. The aim is analytic clarity, not endorsement.
+This study treats voluntary death framed as honor, loyalty, devotion, duty, dignity, or sacred witness as a core case of *anomalous virtue*, in CAV's sense a virtue that departs from the norm of its setting, or that does not carry into another moral vocabulary without remainder: here, an excellence praised within one moral grammar that appears as vice, pathology, or crime in neighboring grammars. Drawing on verified scholarship in Japanese, Greco-Roman, Mesoamerican, South Asian, modern Japanese wartime, bioethical, Islamic legal, and protest histories, and on political-science literatures on martyrdom ideology, the essay maps how societies have sacralized, regulated, contested, and reinvented self-willed death. It incorporates Durkheim’s early typology of “altruistic suicide”; constructs a comparative matrix of forms and conditions of legitimacy; insists on the risks of false equivalence among ritual *seppuku*, clinical suicide, medically assisted dying, political hunger strike or self-immolation, and suicide terrorism; and situates the problem within CAV’s pillars of Chronological Ethics, Semantic Ethics, and Sacred Axiology. The aim is analytic clarity, not endorsement.
 
 **Keywords:** anomalous virtue; voluntary death; *seppuku*; Stoicism; *satī*; *jauhar*; *tokkō*; euthanasia; physician-assisted dying; *istishhād*; martyrdom ideology; Semantic Ethics; Chronological Ethics
 
 ---
 
+### About this study
+
+This essay predates CAV's Evidence and Interpretation labels and its [uncertain] and [gap] tags, and does not use them. Its sources are cited in the text and bibliography.
+
 ## 1. Introduction: When Death Counts as Excellence
 
-The Center for the Study of Anomalous Virtues (CAV) investigates highly specific, often poorly translatable cultural concepts of moral excellence that function as diplomatic and ethical infrastructure: vocabularies that organize praise, blame, legitimacy, and belonging. An **anomalous virtue**, in CAV’s working sense, is not a universal good poorly recognized elsewhere; it is a *praised excellence relative to a moral grammar*. What one community calls loyalty, purity, or courage, another may call fanaticism, coercion, or crime.
+The Center for the Study of Anomalous Virtues (CAV) investigates highly specific, often poorly translatable cultural concepts of moral excellence that function as diplomatic and ethical infrastructure: vocabularies that organize praise, blame, legitimacy, and belonging. An **anomalous virtue**, in CAV’s sense, is a virtue that departs from the norm of its setting, or that does not carry into another moral vocabulary without remainder; it is not a universal good poorly recognized elsewhere. In this study the relevant departure is a *praised excellence relative to a moral grammar*. What one community calls loyalty, purity, or courage, another may call fanaticism, coercion, or crime.
 
 Voluntary death offers an especially sharp test case. Across many societies, ending one’s own life (or arranging a death that agents and audiences treat as self-chosen) has been praised as honor, loyalty, devotion, sincerity, or liberation; tolerated under narrow philosophical or medical conditions; condemned as sin, crime, cowardice, or pathology; and instrumentalized by states, militaries, and movements as propaganda.
 
@@ -167,7 +171,7 @@ This study therefore uses “voluntary death framed as virtue” as a *comparati
 
 **Ethno-Ethics (briefly).** Honor-versus-dignity culture contrasts (e.g., *jauhar* honor preservation vs. dignity-as-autonomy in PAD) illuminate why the same bodily outcome receives opposite praise-blame structures.
 
-**Directorial takeaways (non-endorsing).** (1) Map emic praise conditions before comparing. (2) Separate ritual/honor, clinical, ideological-martyrdom, and medical-aid files. (3) Treat state and scholarly fabrication (Nitobe; kamikaze aesthetics; Ixtab) as first-class data. (4) Center gender and coercion wherever widows, women in *jauhar*, or “voluntary” military death appear. (5) Use anomalous-virtue analysis to improve translation ethics in diplomacy, not to relativize atrocities. Practice must not certify any lethal act as CAV-approved virtue.
+**Takeaways for researchers and practitioners (non-endorsing).** (1) Map emic praise conditions before comparing. (2) Separate ritual/honor, clinical, ideological-martyrdom, and medical-aid files. (3) Treat state and scholarly fabrication (Nitobe; kamikaze aesthetics; Ixtab) as first-class data. (4) Center gender and coercion wherever widows, women in *jauhar*, or “voluntary” military death appear. (5) Use anomalous-virtue analysis to improve translation ethics in diplomacy, not to relativize atrocities. Practice must not certify any lethal act as CAV-approved virtue.
 
 ---
 
@@ -280,6 +284,6 @@ Young, Robert. 2024. “Voluntary Euthanasia.” *Stanford Encyclopedia of Philo
 
 ## Appendix B: Document note
 
-- **Status:** Published · dated 23 September 2026 · authorized for public go-live.
+- **Status:** Published 23 September 2026.
 - **Sensitivity:** Academic discussion of suicide and political violence; no methods; crisis resources noted at the top of this page; no operational detail on political violence.
-- **Optional future expansion (not in this study):** Jain *sallekhanā* / *santhāra* only if directors request South Asian breadth beyond *satī*/*jauhar*.
+- **Not covered here:** Jain *sallekhanā* / *santhāra*, beyond the South Asian cases of *satī* and *jauhar*.

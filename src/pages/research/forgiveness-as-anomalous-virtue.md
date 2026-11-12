@@ -11,7 +11,7 @@ contentWarning: false
 
 ## Abstract
 
-Is forgiveness largely forgotten, or no longer widely practiced? This study poses that question rather than assuming its answer, and tests it against the evidence. It treats forgiveness as a candidate *anomalous virtue*: a concept that looks universal at first sight, but whose working forms are thick, culturally specific, and lose meaning in translation. Part 1 surveys culturally particular forms: traditional Native Hawaiian *hoʻoponopono*, ubuntu-framed restorative justice, Amish forgiveness, Pashtun *nənawāta*, Jewish *teshuvah* and *mechilah*, Christian pardon traditions, Islamic *ʿafw* within *qiṣāṣ*, Arab *sulha*, Acholi *mato oput*, Albanian Kanun reconciliation, and Japanese apology–pardon practices. Part 2 reviews forgiveness and its absence in geopolitics: South Africa's Truth and Reconciliation Commission, Franco-German reconciliation, Rwanda's gacaca courts, a randomized trial in Sierra Leone, Northern Ireland, the Balkans, and feud and revenge cycles. Part 3 answers the title question. Forgiveness in general has not been forgotten; talk of forgiveness and thin, therapy-style forgiveness have spread. What has lost institutional ground are the thick, communal, ritual forms that specify who forgives whom, before which witnesses, and in exchange for what. The aim is analytic clarity, not advocacy for forgiveness as an unqualified good.
+Is forgiveness largely forgotten, or no longer widely practiced? This study poses that question rather than assuming its answer, and tests it against the evidence. It treats forgiveness as a candidate *anomalous virtue*, in CAV's sense a virtue that departs from the norm of its setting, or that does not carry into another moral vocabulary without remainder: forgiveness looks universal at first sight, but its working forms are thick, culturally specific, and lose meaning in translation. Part 1 surveys culturally particular forms: traditional Native Hawaiian *hoʻoponopono*, ubuntu-framed restorative justice, Amish forgiveness, Pashtun *nənawāta*, Jewish *teshuvah* and *mechilah*, Christian pardon traditions, Islamic *ʿafw* within *qiṣāṣ*, Arab *sulha*, Acholi *mato oput*, Albanian Kanun reconciliation, and Japanese apology–pardon practices. Part 2 reviews forgiveness and its absence in geopolitics: South Africa's Truth and Reconciliation Commission, Franco-German reconciliation, Rwanda's gacaca courts, a randomized trial in Sierra Leone, Northern Ireland, the Balkans, and feud and revenge cycles. Part 3 answers the title question. Forgiveness in general has not been forgotten; talk of forgiveness and thin, therapy-style forgiveness have spread. What has lost institutional ground are the thick, communal, ritual forms that specify who forgives whom, before which witnesses, and in exchange for what. The aim is analytic clarity, not advocacy for forgiveness as an unqualified good.
 
 **Keywords:** forgiveness; anomalous virtue; *hoʻoponopono*; *nənawāta*; *teshuvah*; *ʿafw*; *sulha*; *mato oput*; Kanun; truth and reconciliation; transitional justice; feud; Semantic Ethics; Chronological Ethics
 
@@ -227,7 +227,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 - CAIN's Sutton Index records 3,532 conflict-related deaths (1969–2001).
 - The 1998 Good Friday Agreement ended most political violence but left the legacy of the past unresolved.
 - The 2023 Legacy Act's conditional immunity scheme was found incompatible with the European Convention on Human Rights by the Belfast High Court in February 2024.
-- On 14 October 2025 the government introduced a Troubles Bill to repeal and replace the Act, together with a draft Remedial Order removing immunity **[uncertain: status as of October 2026 not verified]**.
+- On 14 October 2025 the government introduced a Troubles Bill to repeal and replace the Act, together with a draft Remedial Order removing immunity. The Commons approved the Order in January 2026, but the government then moved its provisions into the Bill instead (House of Commons Library 2026). The Bill passed the Commons on 20 October 2026 and, as of 11 November 2026, awaits second reading in the House of Lords, scheduled for 2 December 2026; it is not yet law (UK Parliament 2026).
 - Hewstone, Cairns, and colleagues (2006) found intergroup contact positively related to out-group attitudes, perspective-taking, and trust, even among those with worse experience of the conflict, in a study of the predictors of intergroup forgiveness.
 - After the 1987 Enniskillen bombing killed his daughter, Gordon Wilson said: "I bear no ill will. I bear no grudge."
 
@@ -334,8 +334,8 @@ This study's title asks whether forgiveness is largely forgotten or no longer wi
 3. **Psychological cost.** Can rituals keep the social gains while reducing trauma, for instance by pairing them with counselling or REACH-type interventions? No such trial was found.
 4. **Victim consent.** How do obligatory forms (*nənawāta*, Maimonidean limits on refusal) protect victims who are not ready to forgive?
 5. **Gender.** Most thick forms put men in charge of mediation. Exceptions deserve study: women in the Kosovo campaign (Luci 2014) and older women in Pashtun feud resolution (Rzehak 2011).
-6. **Consultation.** Entries for living Indigenous and religious practices should be reviewed by practitioners and community scholars before they enter the CAV catalog.
-7. **Unverified items.** Heirs'-pardon coercion, the extent of Amish victim pressure (now partly documented in qualitative work: Metzger 2022; Voelz 2024), and the Northern Ireland bill's current status.
+6. **Consultation.** Entries for living Indigenous and religious practices should be reviewed by practitioners and community scholars before they are treated as settled catalog entries. Entries published before that review are marked "Community review pending."
+7. **Unverified items.** Heirs'-pardon coercion and the extent of Amish victim pressure (now partly documented in qualitative work: Metzger 2022; Voelz 2024).
 8. **East Asian materials.** A review of Japanese, Korean, and Chinese-language scholarship is needed before any East Asian entry.
 ---
 
@@ -356,6 +356,8 @@ CAIN Archive, Ulster University. n.d. *Sutton Index of Deaths*.
 Catechism of the Catholic Church. 1997. 2nd ed. Vatican: Libreria Editrice Vaticana. §1450ff.
 
 Franco-German Youth Office (OFAJ/DFJW). n.d. "10 millions de rencontres" and "The history of the Franco-German Youth Office." ofaj.org / fgyo.org.
+
+House of Commons Library. 2026. *Northern Ireland Troubles Bill 2026-27*. Research Briefing CBP-12239. https://commonslibrary.parliament.uk/research-briefings/cbp-12239/. Accessed 11 November 2026.
 
 Human Rights Watch. 2011. *Justice Compromised: The Legacy of Rwanda's Community-Based Gacaca Courts*. New York: HRW.
 
@@ -380,6 +382,8 @@ Qur'an 2:178; 42:40 (Sahih International translation).
 Republic of South Africa. 1993. Constitution of the Republic of South Africa Act 200 of 1993, postamble "National Unity and Reconciliation."
 
 Truth and Reconciliation Commission of South Africa. 1998 and 2003. *Final Report*, vols. 1–7. Cape Town. Amnesty statistics via Department of Justice, "TRC/Amnesty Hearings and Decisions," justice.gov.za/trc.
+
+UK Parliament. 2026. "Northern Ireland Troubles Bill: Stages." https://bills.parliament.uk/bills/4022/stages. Accessed 11 November 2026.
 
 UN Human Rights Council. Alston, Philip. 2011. *Report of the Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions: Addendum: Mission to Albania*. UN Doc. A/HRC/17/28/Add.3, 14 March 2011. (Preliminary note: A/HRC/14/24/Add.9, 2010.)
 

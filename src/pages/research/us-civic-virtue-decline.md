@@ -9,6 +9,8 @@ pubDate: "10 October 2026"
 contentWarning: false
 ---
 
+> **Methods note, 12 November 2026.** This study used its own earlier sense of *anomalous*, including treating practices such as caregiving as relevant because they occur at enormous scale. CAV now uses the site-wide relative definition, in effect since 11 November 2026. Under the current standard, "anomalous" is tested against matched comparison groups using the same definition and the same kinds of records, and absolute figures are reported with 50% as the only marked line. That relative comparison was not run here, so the published verdicts below are kept as originally stated and should be read in that earlier sense, not as tests of anomaly.
+
 ## Abstract
 
 Are social restraint, civic virtue, self-sacrifice, and common ethical norms declining in the United States? This study treats that as an open question rather than a premise, and tests it against long-run US data on crime, youth risk behavior, turnout, volunteering, giving, caregiving, trust, polarization, and stated obligations. It adds two further questions: how social media shapes the acquisition of virtue, and whether Americans are becoming less virtuous or less willing to accept obligations to people beyond themselves. Throughout, it separates declining harm from rising virtue, distinguishes three kinds of restraint, measures sacrifice by its cost rather than by participation alone, and keeps descriptive findings apart from normative conclusions. The organizing hypothesis is that virtue is migrating rather than simply declining. The evidence supports a qualified form of that hypothesis: the expressions of American virtue are migrating, while whether the underlying commitments are migrating with them is not yet known.
@@ -17,7 +19,7 @@ Are social restraint, civic virtue, self-sacrifice, and common ethical norms dec
 
 ### About this study
 
-The Center for the Study of Anomalous Virtues (CAV), a hybrid human-AI research organization, prepared this study with data current as of 9 October 2026. Figures were checked against primary data, official releases, or the original papers where these could be reached. Figures computed by CAV directly from public microdata are marked "CAV computation." Claims that could not be fully verified are tagged **[uncertain]**.
+The Center for the Study of Anomalous Virtues (CAV), a hybrid human-AI research organization, prepared this study with data current as of 9 October 2026. Figures were checked against primary data, official releases, or the original papers where these could be reached. Figures computed by CAV directly from public microdata are marked "CAV computation." Claims that could not be fully verified are tagged **[uncertain]**, and known gaps in the data are tagged **[gap]**.
 
 **Labels used throughout.**
 - **Evidence**: documented findings and data.

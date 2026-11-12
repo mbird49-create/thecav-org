@@ -6,6 +6,7 @@ language: "Arabic (Qurʾanic and juristic)"
 region: "Islamic legal tradition; applied today in, among others, Iran, Pakistan, Saudi Arabia"
 gloss: "In intentional homicide and wounding, the right to retaliation belongs to the victim or the victim's heirs, not the state, and so does the right to waive it, freely or in exchange for compensation, an act the Qurʾan praises but does not compel."
 pillars: ["Sacred Axiology", "Semantic Ethics", "Ethno-Ethics"]
+status: "Community review pending"
 group: forgiveness
 order: 5
 thumbnail: "/catalog/thumbs/afw-qisas.svg"
@@ -84,6 +85,7 @@ In intentional homicide and wounding, the right to retaliation belongs to the vi
   - Diya rates have been unequal by gender. Iran's 2013 Code sets a woman's diya at half a man's (art. 550) and has a state fund pay the difference (art. 551), a fix the Center for Human Rights in Iran describes as leaving the discriminatory rule intact (CHRI 2019).
 - **Not the whole tradition.** The heirs' pardon is one piece of Islamic ethics of forgiveness. Divine *maghfira*, everyday *ʿafw* and *ṣafḥ*, and *ṣulḥ* are separate entries, and none of them should be reduced to state penal practice.
 - **Voice.** Muslim jurists and communities disagree about qiṣāṣ today. This entry describes; it does not endorse retaliation or any state's practice.
+- **Community review.** Review of this entry by Muslim jurists, practitioners and community scholars has not yet taken place. See the consultation note in the study *Has Forgiveness Been Forgotten?* (§6).
 
 ## 10. Related entries
 

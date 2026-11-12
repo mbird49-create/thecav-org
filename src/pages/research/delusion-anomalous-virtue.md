@@ -9,6 +9,8 @@ pubDate: "22 October 2026"
 contentWarning: false
 ---
 
+> **Methods note, 11 November 2026.** This study used a 20% prevalence cutoff (20-25% borderline) to label a virtue *anomalous*, and its cutoff-sensitivity table checked each figure against cutoffs of 10%, 20% and 33%. CAV has since retired fixed cutoffs, including that sensitivity framing. Under the current standard, "anomalous" is tested against matched comparison groups using the same definition and the same kinds of records, and absolute figures are reported with 50% as the only marked line. That relative comparison was not run here, so the published verdicts below are kept as originally stated and should be read as absolute figures, not as tests of anomaly.
+
 <blockquote class="epigraph">
 <p class="epigraph-text">The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.</p>
 <p class="epigraph-attribution">George Bernard Shaw, <em>Man and Superman</em>, "Maxims for Revolutionists" (1903)</p>

@@ -5,7 +5,8 @@ native: "Gelassenheit"
 language: "English, Pennsylvania German (Deitsch), High German in worship"
 region: "Old Order Amish settlements, mainly in Pennsylvania, Ohio and Indiana, United States, and in Ontario, Canada"
 gloss: "A religiously required, prompt and largely unconditional forgiveness of wrongdoers, understood as yielding to God's will and a condition of one's own forgiveness by God, practised within a tightly bounded community with its own discipline."
-pillars: ["Sacred Axiology", "Ethno-Ethics", "Practice"]
+pillars: ["Sacred Axiology", "Ethno-Ethics"]
+status: "Community review pending"
 group: forgiveness
 order: 2
 thumbnail: "/catalog/thumbs/amish-forgiveness.svg"
@@ -17,7 +18,7 @@ thumbnail: "/catalog/thumbs/amish-forgiveness.svg"
 - **Native script:** German *Gelassenheit*; Pennsylvania German *Uffgevva* ("giving up," submission) **[uncertain: orthography of the Pennsylvania German term]**
 - **Language:** English, Pennsylvania German (Deitsch), High German in worship
 - **Region:** Old Order Amish settlements, mainly in Pennsylvania, Ohio and Indiana, United States, and in Ontario, Canada
-- **CAV pillars:** Sacred Axiology; Ethno-Ethics; Practice
+- **CAV pillars:** Sacred Axiology; Ethno-Ethics
 
 ## 2. One-line gloss
 
@@ -35,7 +36,7 @@ A religiously required, prompt and largely unconditional forgiveness of wrongdoe
 - **Evidence: the Nickel Mines shooting.** On 2 October 2006, Charles Carl Roberts IV, a non-Amish milk-truck driver, took hostage ten Amish girls at the West Nickel Mines School in Lancaster County, Pennsylvania. He killed five and wounded five before killing himself (Kraybill, Nolt & Weaver-Zercher 2007).
 - **Evidence: what followed.**
   - Within hours, Amish neighbours visited the gunman's family to express forgiveness. Amish people attended his burial (Kraybill, Nolt & Weaver-Zercher 2007).
-  - In 2007 the Nickel Mines Accountability Committee, which administered more than $4.3 million in donations gave a contribution to the gunman's widow. Its statement described forgiveness as "a journey, that you need help from your community of faith and from God… to make and hold on to a decision not to become a hostage to hostility" (AP 2007).
+  - In 2007 the Nickel Mines Accountability Committee, which administered more than $4.3 million in donations, gave a contribution to the gunman's widow. Its statement described forgiveness as "a journey, that you need help from your community of faith and from God… to make and hold on to a decision not to become a hostage to hostility" (AP 2007).
 - **Evidence: an ongoing relationship.** Years later, the gunman's mother, Terri Roberts, was visiting one of the most severely injured survivors weekly. The Roberts family held gatherings for the victims' families, and an Amish mother said of them, "They're going two miles for every mile we go" (Murse 2011; Roberts 2015).
 - **Evidence: within the community.** Forgiveness is woven into church life. Members confess before the congregation, and those under the ban (*Meidung*) are restored when they repent (Hostetler 1993; Kraybill, Nolt & Weaver-Zercher 2010).
 
@@ -81,6 +82,7 @@ A religiously required, prompt and largely unconditional forgiveness of wrongdoe
 - **Two directions.** **Interpretation:** Amish forgiveness of an outsider sits beside strict church discipline, including the ban (*Meidung*), toward members (Hostetler 1993).
 - **Not monolithic.** Amish affiliations differ in practice. "The Amish" do not speak with one voice.
 - **Voice.** Most published accounts are by outside scholars or by the offender's family. Amish people rarely publish. This entry relies on outsider interpretation.
+- **Community review.** Review of this entry by Amish practitioners and community scholars has not yet taken place. See the consultation note in the study *Has Forgiveness Been Forgotten?* (§6).
 
 ## 10. Related entries
 

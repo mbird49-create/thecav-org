@@ -5,7 +5,7 @@ native: "Fingerspitzengefühl"
 language: "German"
 region: "German-speaking Europe; occasional loanword in English, mainly in military, management, and political writing"
 gloss: "Fine-grained, situational tact: a trained feel for people and circumstances that tells one how hard to press, when to ease off, and what a moment allows."
-pillars: ["Semantic Ethics", "Chronological Ethics", "Practice"]
+pillars: ["Semantic Ethics", "Chronological Ethics"]
 group: virtues
 order: 5
 published: false
@@ -19,7 +19,7 @@ published: false
 | Native script | Fingerspitzengefühl (German, Latin script; ASCII *Fingerspitzengefuehl*) |
 | Language | German |
 | Region | German-speaking Europe; occasional loanword in English, mainly in military, management, and political writing |
-| CAV pillar(s) | Semantic Ethics; Chronological Ethics; Practice (negotiation and mediation craft) |
+| CAV pillar(s) | Semantic Ethics; Chronological Ethics (practice relevance: negotiation and mediation craft) |
 
 ## 2. One-line gloss
 

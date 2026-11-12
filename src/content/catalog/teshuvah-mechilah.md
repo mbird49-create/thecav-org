@@ -6,6 +6,7 @@ language: "Hebrew (rabbinic and liturgical); Aramaic in the Talmud"
 region: "Jewish communities worldwide; codified in rabbinic law"
 gloss: "A procedure in which a wrongdoer must repair the harm and personally ask the injured person for forgiveness, because for wrongs between people neither God nor the Day of Atonement can forgive in the victim's place."
 pillars: ["Sacred Axiology", "Semantic Ethics", "Chronological Ethics"]
+status: "Community review pending"
 group: forgiveness
 order: 4
 thumbnail: "/catalog/thumbs/teshuvah-mechilah.svg"
@@ -79,6 +80,7 @@ A procedure in which a wrongdoer must repair the harm and personally ask the inj
 - **Boundary language.** Maimonides contrasts forgiving Israelites with "insensitive gentiles" whose "wrath is preserved forever" (Hilkhot Teshuvah 2:10). Quoting the procedure as universal ethics without noting this framing misrepresents the source.
 - **Christian contrast.** Popular contrasts of "Jewish justice" with "Christian forgiveness" are a polemical stereotype. The Jewish sources themselves command forgiveness of the penitent.
 - **Voice.** Halakhic interpretation belongs to living rabbinic and scholarly communities. This entry summarizes and does not rule.
+- **Community review.** Review of this entry by rabbinic authorities, Jewish practitioners and community scholars has not yet taken place. See the consultation note in the study *Has Forgiveness Been Forgotten?* (§6).
 
 ## 10. Related entries
 

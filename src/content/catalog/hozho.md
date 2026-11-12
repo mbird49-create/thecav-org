@@ -5,7 +5,7 @@ native: "Hózhǫ́"
 language: "Diné Bizaad (Navajo)"
 region: "Diné Bikéyah / Navajo Nation and Diné communities elsewhere"
 gloss: "The condition of beauty, harmony, balance, and right relation that Diné life, law, and healing aim to keep or restore. Diné authors usually place it within the larger frame of Sa'ah Naagháí Bik'eh Hózhóón."
-pillars: ["Sacred Axiology", "Ethno-Ethics", "Semantic Ethics", "Practice"]
+pillars: ["Sacred Axiology", "Ethno-Ethics", "Semantic Ethics"]
 group: virtues
 order: 4
 status: "Under community review"
@@ -22,7 +22,7 @@ published: false
 | Native script | Hózhǫ́ (Diné Bizaad in Latin orthography) |
 | Language | Diné Bizaad (Navajo) |
 | Region | Diné Bikéyah / Navajo Nation and Diné communities elsewhere |
-| CAV pillar(s) | Sacred Axiology; Ethno-Ethics; Semantic Ethics; Practice (Navajo peacemaking) |
+| CAV pillar(s) | Sacred Axiology; Ethno-Ethics; Semantic Ethics (practice relevance: Navajo peacemaking) |
 
 ## 2. One-line gloss
 

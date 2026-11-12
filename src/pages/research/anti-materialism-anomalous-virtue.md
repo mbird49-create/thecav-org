@@ -9,6 +9,8 @@ pubDate: "16 October 2026"
 contentWarning: false
 ---
 
+> **Methods note, 12 November 2026.** This study used its own earlier sense of *anomalous*: a conviction-plus-cost form, in which "more anomalous" means rarer. CAV now uses the site-wide relative definition, in effect since 11 November 2026. Under the current standard, "anomalous" is tested against matched comparison groups using the same definition and the same kinds of records, and absolute figures are reported with 50% as the only marked line. That relative comparison was not run here, so the published verdicts below are kept as originally stated and should be read in that earlier sense, not as tests of anomaly.
+
 <blockquote class="epigraph">
 <p class="epigraph-text">The world is too much with us; late and soon,<br>
 Getting and spending, we lay waste our powers:</p>
