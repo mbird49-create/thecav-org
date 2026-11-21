@@ -74,8 +74,7 @@ contentWarning: false
   }
 </style>
 
-**Status:** Short version of the 20-page brief.
-**Prepared:** November 20, 2026, from the brief as revised November 18, 2026 (drift baseline, inconclusive labels, single-word checks). The 20-page brief remains the record of methods, full tables and sources.
+**Date:** 20 November 2026
 
 <p class="study-downloads"><a href="/research/popular-literature-virtues-brief.pdf">Download this brief (PDF)</a> <span aria-hidden="true">·</span> <a href="/research/popular-literature-virtues-technical-report.pdf">Full technical report (PDF)</a></p>
 
@@ -209,7 +208,7 @@ A claim counts as refuted only by a clear result in the opposite direction, or b
 
 ## Detail and sources
 
-The <a href="/research/popular-literature-virtues-technical-report.pdf">Full technical report (PDF)</a> has the methods, the raw and equal-weight index tables and the single-word checks (Tables 1-3 there), the pilot sampling rules, the search log (Appendix B) and how each source was checked (Appendix C).
+The <a href="/research/popular-literature-virtues-technical-report.pdf">full technical report</a> (online at <a href="/research/popular-literature-virtues-technical-report.pdf">thecav.org/research/popular-literature-virtues-technical-report.pdf</a>) has the methods, the raw and equal-weight index tables and the single-word checks (Tables 1-3 there), the pilot sampling rules, the search log (Appendix B) and how each source was checked (Appendix C).
 
 - Kesebir, P., & Kesebir, S. (2012). The cultural salience of moral character and virtue declined in twentieth century America. *The Journal of Positive Psychology*, 7(6), 471-480. doi:10.1080/17439760.2012.715182
 - Pechenick, E. A., Danforth, C. M., & Dodds, P. S. (2015). Characterizing the Google Books corpus: Strong limits to inferences of socio-cultural and linguistic evolution. *PLOS ONE*, 10(10), e0137041. doi:10.1371/journal.pone.0137041
