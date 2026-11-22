@@ -1,0 +1,52 @@
+---
+/**
+ * Native-script specimen card for a published catalog entry.
+ * The colored band carries the native term at display size; the body
+ * repeats the existing catalog copy (term, gloss, language, pillars).
+ */
+import type { CatalogEntry } from "../data/catalog";
+import CatalogThumb from "./CatalogThumb.astro";
+
+interface Props {
+  entry: CatalogEntry;
+  band: string;
+  number?: string;
+  headingLevel?: "h2" | "h3";
+  showRegion?: boolean;
+}
+
+const { entry, band, number, headingLevel = "h3", showRegion = false } = Astro.props;
+const { data } = entry;
+const Heading = headingLevel;
+const href = `/catalog/${entry.id}/`;
+---
+
+<article class="print-avoid-break flex h-full flex-col border border-rule bg-paper-raised">
+  <div class:list={["specimen-band flex items-center justify-between gap-4 px-5 py-5", `specimen-band--${band}`]}>
+    <div class="min-w-0">
+      {number && <p class="font-sans text-[0.72rem] font-bold uppercase tracking-[0.14em]">{number}</p>}
+      <p class="specimen-native mt-1 text-[1.65rem] sm:text-[1.8rem]" dir="auto">{data.native}</p>
+    </div>
+    <a href={href} tabindex="-1" aria-hidden="true" class="shrink-0">
+      <CatalogThumb src={data.thumbnail} eager class="w-16 rounded-xl bg-paper-raised sm:w-20" />
+    </a>
+  </div>
+  <div class="flex flex-1 flex-col justify-between gap-4 px-5 py-5">
+    <div>
+      <Heading class="font-display text-[1.4rem] leading-tight tracking-tight">
+        <a class="text-ink no-underline hover:text-oxblood hover:underline" href={href}>{data.term}</a>
+      </Heading>
+      <p class="mt-2 text-[0.95rem] leading-relaxed text-ink-soft">{data.gloss}</p>
+    </div>
+    <div class="border-t border-rule pt-3 font-sans text-[0.8rem] text-ink-soft">
+      <p class="font-semibold text-ink">{data.language}</p>
+      {showRegion && <p class="mt-0.5">{data.region}</p>}
+      <p class="mt-1">{data.pillars.join(" · ")}</p>
+      {
+        data.status && (
+          <p class="mt-2 inline-block border border-rule bg-paper px-2 py-0.5 font-semibold text-ink-soft">{data.status}</p>
+        )
+      }
+    </div>
+  </div>
+</article>
