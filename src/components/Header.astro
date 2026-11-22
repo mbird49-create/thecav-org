@@ -4,19 +4,30 @@ import { navItems, isCurrentPath } from "../data/nav";
 const pathname = Astro.url.pathname;
 ---
 
-<header class="border-b border-rule">
-  <div class="mx-auto flex max-w-6xl flex-col gap-5 px-5 py-5 sm:px-8 lg:flex-row lg:items-center lg:justify-between lg:gap-8">
-    <a href="/" class="group block w-fit max-w-full no-underline">
+<div class="atlas-strip">
+  <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-1 px-5 py-1.5 font-sans text-[0.7rem] font-semibold uppercase tracking-[0.14em] sm:px-8">
+    <span>Comparative moral landscape</span>
+    <span class="hidden sm:inline">Computational humanities · Comparative philosophy · Evolutionary ethics</span>
+  </div>
+</div>
+<header class="border-b-[1.5px] border-ink bg-paper-raised">
+  <div class="mx-auto flex max-w-6xl flex-col gap-4 px-5 py-4 sm:px-8 lg:flex-row lg:items-center lg:justify-between lg:gap-8">
+    <a href="/" class="flex w-fit max-w-full items-center gap-4 text-ink no-underline">
       <img
         src="/cav-logo.png"
-        alt="Center for the Study of Anomalous Virtues"
+        alt="CAV emblem: Chi-Rho with Alpha and Omega"
         width="1536"
         height="1024"
-        class="h-44 w-auto max-w-full object-contain sm:h-52 lg:h-60"
+        class="h-16 w-auto shrink-0 mix-blend-multiply sm:h-20 lg:h-24"
       />
+      <span class="block min-w-0">
+        <span class="block font-display text-lg leading-tight tracking-tight sm:text-xl">
+          The Center for the Study of Anomalous Virtues
+        </span>
+      </span>
     </a>
-    <nav aria-label="Primary" class="lg:pt-2">
-      <ul class="flex flex-wrap gap-x-5 gap-y-2 font-sans text-[0.95rem]">
+    <nav aria-label="Primary">
+      <ul class="flex flex-wrap gap-x-5 gap-y-2 font-sans text-[0.95rem] font-medium">
         {
           navItems.map((item) => {
             const current = isCurrentPath(pathname, item.href);
@@ -25,7 +36,7 @@ const pathname = Astro.url.pathname;
                 <a
                   href={item.href}
                   class:list={[
-                    "inline-block border-b py-0.5 no-underline transition-colors",
+                    "inline-block border-b-2 py-1 no-underline transition-colors",
                     current
                       ? "border-oxblood text-oxblood"
                       : "border-transparent text-ink-soft hover:border-rule hover:text-ink",
