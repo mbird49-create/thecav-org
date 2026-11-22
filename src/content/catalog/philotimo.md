@@ -27,7 +27,7 @@ A felt obligation to act in ways that honor one's self, family, and community, u
 
 ## 3. Etymology and semantic field
 
-**Evidence.** The word joins *phil-* ("love of") and *timē* ("honor, esteem, worth"). The standard Ancient Greek lexicon (Liddell–Scott–Jones) glosses *philotimia* as "love of honour or distinction, ambition," and notes it was "freq. in bad sense in early writers." Thucydides pairs it with *pleonexia* (grasping for more) in his account of civil strife (3.82), and Plato pairs it with contentiousness. Later senses include "lavish outlay for public purposes, munificence," and simply "honour, distinction, credit."
+**Evidence.** The word joins *phil-* ("love of") and *timē* ("honor, esteem, worth"). The standard Ancient Greek lexicon (Liddell-Scott-Jones) glosses *philotimia* as "love of honour or distinction, ambition," and notes it was "freq. in bad sense in early writers." Thucydides pairs it with *pleonexia* (grasping for more) in his account of civil strife (3.82), and Plato pairs it with contentiousness. Later senses include "lavish outlay for public purposes, munificence," and simply "honour, distinction, credit."
 
 **Evidence.** In modern Greek ethnography, Herzfeld (1980) argued that "honour" and "shame" are "inefficient glosses" on Greek moral vocabularies. Using fieldwork in two rural communities, he analyzed *filotimo* alongside *egoismos* (self-regard). He found that the shared concern across these terms was less an absolute standard than "the ability to live up to already existing expectations."
 
@@ -35,7 +35,7 @@ A felt obligation to act in ways that honor one's self, family, and community, u
 
 ## 4. How it is practiced
 
-**Evidence.** Vassiliou and Vassiliou (1973) interviewed a representative sample of 740 residents of Athens and Thessaloniki, aged 15 to 64, using the antecedent–consequent method developed with Harry Triandis (Triandis 1972). They described philotimo as "the highest Greek value, which regulates proper in-group behavior." Commonly cited expressions include hospitality, keeping one's word, supporting family, and repaying favors, owed above all to one's in-group **[uncertain: this list is not checked against the 1973 article's tables]**.
+**Evidence.** Vassiliou and Vassiliou (1973) interviewed a representative sample of 740 residents of Athens and Thessaloniki, aged 15 to 64, using the antecedent-consequent method developed with Harry Triandis (Triandis 1972). They described philotimo as "the highest Greek value, which regulates proper in-group behavior." Commonly cited expressions include hospitality, keeping one's word, supporting family, and repaying favors, owed above all to one's in-group **[uncertain: this list is not checked against the 1973 article's tables]**.
 
 **Evidence.** Fotopoulou (2014) interviewed 40 people who use drugs in treatment at two state agencies in Thessaloniki. Participants explained their own decisions to stop using in terms of *filotimo*, which she describes as "a complex array of virtues that regulates behaviour towards one's family," and a wish to repair a "spoiled" identity.
 
@@ -92,10 +92,10 @@ Mantzios (2021) defined philotimo as "a commitment to unconditional selfless act
 ## 11. Sources
 
 1. Liddell, Henry George, Robert Scott, and Henry Stuart Jones. *A Greek–English Lexicon*. 9th ed. Oxford: Clarendon Press, 1940. s.v. φιλοτιμία. (Consulted via Perseus/Scaife ATLAS.)
-2. Whitehead, David. "Competitive Outlay and Community Profit: *Philotimia* in Democratic Athens." *Classica et Mediaevalia* 34 (1983): 55–74.
+2. Whitehead, David. "Competitive Outlay and Community Profit: *Philotimia* in Democratic Athens." *Classica et Mediaevalia* 34 (1983): 55-74.
 3. Triandis, Harry C., with Vasso Vassiliou, George Vassiliou, Yasumasa Tanaka, and A. V. Shanmugam. *The Analysis of Subjective Culture*. New York: Wiley-Interscience, 1972.
-4. Vassiliou, Vasso G., and George Vassiliou. "The Implicative Meaning of the Greek Concept of Philotimo." *Journal of Cross-Cultural Psychology* 4, no. 3 (1973): 326–341. doi:10.1177/002202217300400305.
-5. Herzfeld, Michael. "Honour and Shame: Problems in the Comparative Analysis of Moral Systems." *Man*, n.s., 15, no. 2 (1980): 339–351. doi:10.2307/2801675.
-6. Fotopoulou, Maria. "Reasons behind Greek Problem Drug Users' Decisions to Quit Using Drugs and Engage in Treatment of Their Own Volition: Sense of Self and the Greek *Filotimo*." *Addiction* 109, no. 4 (2014): 627–634. doi:10.1111/add.12459.
-7. Mantzios, Michail. "Pre-Socratic Understandings of Moral Identity: The Theoretical Infrastructure, Development, Reliability and Validity of the Philotimo Scale." *Imagination, Cognition and Personality* 41, no. 2 (2021): 187–206. doi:10.1177/02762366211013503.
-8. Rozakou, Katerina. "Ambivalent Feelings: 'Filotimo' in the Greek Migration Regime." *Identities: Global Studies in Culture and Power* 31, no. 1 (2024): 31–46. doi:10.1080/1070289X.2023.2170608.
+4. Vassiliou, Vasso G., and George Vassiliou. "The Implicative Meaning of the Greek Concept of Philotimo." *Journal of Cross-Cultural Psychology* 4, no. 3 (1973): 326-341. doi:10.1177/002202217300400305.
+5. Herzfeld, Michael. "Honour and Shame: Problems in the Comparative Analysis of Moral Systems." *Man*, n.s., 15, no. 2 (1980): 339-351. doi:10.2307/2801675.
+6. Fotopoulou, Maria. "Reasons behind Greek Problem Drug Users' Decisions to Quit Using Drugs and Engage in Treatment of Their Own Volition: Sense of Self and the Greek *Filotimo*." *Addiction* 109, no. 4 (2014): 627-634. doi:10.1111/add.12459.
+7. Mantzios, Michail. "Pre-Socratic Understandings of Moral Identity: The Theoretical Infrastructure, Development, Reliability and Validity of the Philotimo Scale." *Imagination, Cognition and Personality* 41, no. 2 (2021): 187-206. doi:10.1177/02762366211013503.
+8. Rozakou, Katerina. "Ambivalent Feelings: 'Filotimo' in the Greek Migration Regime." *Identities: Global Studies in Culture and Power* 31, no. 1 (2024): 31-46. doi:10.1080/1070289X.2023.2170608.

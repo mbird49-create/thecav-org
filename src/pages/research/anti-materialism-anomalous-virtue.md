@@ -62,12 +62,12 @@ The Center for the Study of Anomalous Virtues (CAV), a hybrid human-AI research 
 5. **Behavior does not reflect conviction in aggregate.** US household debt was $18.771T in Q2 2026, up $4.6T since end-2019 (NY Fed). It is driven by housing and credit conditions, so it cannot measure conviction.
 
 6. **The "migrating" forms are thin.**
-   - **Degrowth:** support for degrowth *policies* without the label can be high, 72–82% in UK and US experiments (Krpan, Basso, Hickel & Kallis 2025, *Lancet Planetary Health*). A self-identified degrowth cluster is small in the one cluster study found.
+   - **Degrowth:** support for degrowth *policies* without the label can be high, 72-82% in UK and US experiments (Krpan, Basso, Hickel & Kallis 2025, *Lancet Planetary Health*). A self-identified degrowth cluster is small in the one cluster study found.
    - **Minimalism and FIRE:** adherent figures come from commercial polls [uncertain]. FIRE is frugality for accumulation.
 
 7. **State-adopted anti-materialist terms show a credibility gap.**
    - **Ecuador:** sumak kawsay is in the 2008 Constitution (Art. 14; Art. 71 on rights of nature). The Yasuní-ITT initiative was ended by Executive Decree 74 on 15 Aug 2013 after raising about US$13.3M of a US$3.6B target. The 20 Aug 2023 referendum (58.95% Sí) has been only partly implemented: about 24% of wells closed by late 2026 [secondary].
-   - **Bhutan:** the GNH Index rose 0.743 → 0.756 → 0.781 (2010/2015/2022), with living standards the most-improved domain. About 2% of the population received Australian education visas in FY2022–23 (*The Bhutanese*, secondary).
+   - **Bhutan:** the GNH Index rose 0.743 → 0.756 → 0.781 (2010/2015/2022), with living standards the most-improved domain. About 2% of the population received Australian education visas in FY2022-23 (*The Bhutanese*, secondary).
 
 8. **Provisional verdict: partial migration with dilution.**
    - Costly forms are declining sharply in the Christian West, Thailand, and Korea. They are holding among the Amish and probably among Jains.
@@ -149,7 +149,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
     - Flügel's broader finding is that mendicant numbers rose substantially in the 20th century, driven by female ascetics.
     - [Partly uncertain: figures taken from search excerpts of the chapter; the PDF on the SOAS repository returned errors in this study and was not opened.]
   - A 1995 estimate gives about 10,030 Śvetāmbara ascetics including 7,997 sādhvīs [uncertain: secondary compilation].
-  - **Journalism.** BBC (2019) reports diksha rising from about 10–15 a year to about 250 in 2018 [uncertain: community sources; base unclear]. Times of India (2015) reports a "record" year [uncertain].
+  - **Journalism.** BBC (2019) reports diksha rising from about 10-15 a year to about 250 in 2018 [uncertain: community sources; base unclear]. Times of India (2015) reports a "record" year [uncertain].
 - **Cautions:**
   - Jain ascetic growth coexists with a highly commercially successful lay community. The tradition explicitly pairs lay wealth with ascetic renunciation, so it is not "the community is anti-materialist."
   - Female-majority renunciation may partly reflect gendered constraints (marriage pressures, family decisions), which complicates "chosen."
@@ -229,7 +229,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 - **Evidence on decline:**
   - WVS-based research (Chen et al., 2021, Strathclyde repository) describes China as largely materialist, with younger cohorts more post-materialist.
   - A 2025 *Social Indicators Research* age-period-cohort analysis (US, Japan, Türkiye, China) finds period effects can dominate cohort replacement, permitting materialist reversals.
-  - "Lying flat" (躺平 tǎng píng) since 2021: one 2024 survey of 5,683 Chinese college students found 69.21% reported lying-flat behavior; another youth study found 11.1% likely to engage. A 2021 Shanghai survey (Hakuhodo HILL) found about 80% of 18–21-year-olds still wanted to succeed [all uncertain: abstracts or secondary].
+  - "Lying flat" (躺平 tǎng píng) since 2021: one 2024 survey of 5,683 Chinese college students found 69.21% reported lying-flat behavior; another youth study found 11.1% likely to engage. A 2021 Shanghai survey (Hakuhodo HILL) found about 80% of 18-21-year-olds still wanted to succeed [all uncertain: abstracts or secondary].
 - **Cautions:** tang ping is widely read as withdrawal under *constraint* (youth unemployment, housing costs, overwork). Under the CAV evidence standard, constraint-driven restraint is **not** anti-materialism, so it cannot confirm "migration" without evidence of conviction.
 
 ### 2.8 Japanese 侘寂 wabi-sabi and もったいない mottainai
@@ -279,7 +279,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
   - **2023 referendum (20 Aug 2023; CNE final results):** 58.95% Sí (5,541,585) to 41.05% No (3,859,507), to keep Block 43-ITT oil underground indefinitely.
   - **Implementation:**
     - Petroecuador began closures in Aug 2024 (Reuters).
-    - By late 2026 about 58–59 of 246 wells (about 24%) were closed, and Block 43 still produced about 40,000 barrels/day.
+    - By late 2026 about 58-59 of 246 wells (about 24%) were closed, and Block 43 still produced about 40,000 barrels/day.
     - The government plan runs to Dec 2029 for wells and 2034 for decommissioning.
     - A compliance action is pending at the Constitutional Court.
     - Sources: Lupa Media, Primicias, GK (Aug 2026), Amnesty (Aug 2026) [secondary journalism; uncertain on exact counts].
@@ -297,7 +297,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
   - In 2022, 48.1% of people aged 15+ were "happy" (9.5% deeply, 38.6% extensively).
   - n = 11,052; response rate 96.6%.
   - **Living standards** (income, assets, housing) was the domain with the largest gain from 2010 to 2022.
-- **Counter-evidence:** about 6,497 Australian visas went to Bhutanese in Jul–Dec 2022 (0.85% of 763,250 population), and about 15,552 education visas in FY2022–23, about 2.0% (*The Bhutanese*; secondary reporting of Australian data) [uncertain: visa grants ≠ departures].
+- **Counter-evidence:** about 6,497 Australian visas went to Bhutanese in Jul to Dec 2022 (0.85% of 763,250 population), and about 15,552 education visas in FY2022-23, about 2.0% (*The Bhutanese*; secondary reporting of Australian data) [uncertain: visa grants ≠ departures].
 - **Interpretation (descriptive):** GNH measures well-being, not restraint. Its rise is driven partly by *material* improvement.
 - **Cautions:** "Bhutan, happiest country" is a common romanticization abroad. Bhutan's own index shows fewer than half classed as happy. The expulsion of Lhotshampa in the early 1990s is a frequently cited counterpoint [uncertain: no source opened].
 
@@ -318,16 +318,16 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 
 | Form | Cost marker | Trend evidence | Quality | Commodification |
 |---|---|---|---|---|
-| Santuṭṭhi / Theravāda sangha (Thailand) | Ordination (often temporary) | Down: 355,295 → 288,342 (2012–2022) | Moderate (official data via scholarly analysis) | Low |
-| Korean Jogye ordination | Lifelong | Down: 528 → 61 (2000–2022) | Low–moderate (press) | Low |
-| Jain aparigraha | Lifelong dīkṣā | Large and female-majority; growth claims [uncertain] | Low–moderate | Low |
+| Santuṭṭhi / Theravāda sangha (Thailand) | Ordination (often temporary) | Down: 355,295 → 288,342 (2012-2022) | Moderate (official data via scholarly analysis) | Low |
+| Korean Jogye ordination | Lifelong | Down: 528 → 61 (2000-2022) | Low-moderate (press) | Low |
+| Jain aparigraha | Lifelong dīkṣā | Large and female-majority; growth claims [uncertain] | Low-moderate | Low |
 | Gandhian aparigraha | Ashram vow | No successor data | n/a | Medium |
 | Catholic vowed poverty | Lifelong vows | Down sharply (US −81.5%; world −41.3%) | High (CARA) | Low |
 | Zuhd / qanāʿa | None formal | No data | n/a | Low |
 | Faqr | Order membership | No data | n/a | Medium (Rumi) |
 | 知足 | None | China mostly materialist; tang ping ambiguous | Low | Medium |
 | Wabi-sabi / mottainai | Low | No data; heavy export | n/a | High (wabi-sabi); medium (mottainai) |
-| Amish plainness | Binding, communal | Up: +131% (2000–2025) | High (Young Center) | Medium–high |
+| Amish plainness | Binding, communal | Up: +131% (2000-2025) | High (Young Center) | Medium-high |
 | Shaker | Celibacy, communal property | 3 left | High | High (furniture) |
 | Sumak kawsay | State and communal | Constitution kept; policy reversed 2013; referendum 2023, partial implementation | Moderate | High (state branding) |
 | GNH | State | Index up, driven partly by living standards; youth emigration | Moderate | High |
@@ -340,7 +340,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 ### 3.1 Inglehart's post-materialist value priorities
 
 **Evidence: Inglehart's own trend publications**
-- Inglehart, "Changing Values among Western Publics from 1970 to 2006," *West European Politics* 31(1–2), 2008:
+- Inglehart, "Changing Values among Western Publics from 1970 to 2006," *West European Politics* 31(1-2), 2008:
   - In 1970, materialists outnumbered post-materialists **4:1** in six West European countries (Britain, France, West Germany, Italy, Belgium, Netherlands), and 21:1 in the oldest cohort.
   - The US ratio was **3:1** materialist.
   - By 2006, post-materialists were "slightly more numerous than materialists in Western Europe" and **twice as numerous as materialists in the US**. Inglehart attributes the shift to cohort replacement and finds no life-cycle effect.
@@ -352,7 +352,7 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 - **WVS waves 6 → 7:** the claim that post-materialists rose from 30.5% to 33.7% across 32 overlapping countries comes from a minor journal using a nonstandard definition **[uncertain]**. The WVS time-series file (doi:10.14281/18241.17) requires registration and was not downloaded [gap].
 
 **Evidence: GSS (CAV computation)**
-- Data: GSS cumulative 1972–2024 R3a, weight WTSSPS.
+- Data: GSS cumulative 1972 to 2024 R3a, weight WTSSPS.
 - Coding check: codes 1 = maintain order, 2 = more say in government, 3 = fight rising prices, 4 = protect free speech, confirmed against the SDA gss24rel3 codebook.
 - Classification: materialist = both picks from {1, 3}; post-materialist = both from {2, 4}.
 
@@ -365,12 +365,12 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 | 2021 | 1,516 | 13.5 | 63.4 | 23.0 |
 
 - **Caveats:**
-  - The GSS shows roughly equal materialist and post-materialist shares in 1993–2010. That differs from Inglehart's "2:1 post-materialist in the US by 2006," which uses WVS samples and different wording or format. The discrepancy is unresolved [uncertain].
+  - The GSS shows roughly equal materialist and post-materialist shares in 1993 to 2010. That differs from Inglehart's "2:1 post-materialist in the US by 2006," which uses WVS samples and different wording or format. The discrepancy is unresolved [uncertain].
   - 2021 GSS fieldwork was mostly web-based. CAV's companion study, [Is American Virtue Declining, or Migrating?](/research/us-civic-virtue-decline), found post-2020 mode effects.
   - 2021 also preceded the 2022 inflation peak, which would raise "fight rising prices." This item is sensitive to period inflation, as Inglehart & Abramson note.
 
 **Interpretation (descriptive)**
-- In rich countries, value *priorities* moved toward post-materialism over 1970–2006, then stalled in Western Europe.
+- In rich countries, value *priorities* moved toward post-materialism over 1970 to 2006, then stalled in Western Europe.
 - In the US, the GSS suggests stability through 2010 and a mode-confounded rise in 2021.
 - In poor and insecure countries, materialism dominates. Inglehart's theory predicts this.
 
@@ -401,17 +401,17 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 | 2017 | 82.5 | 48.1 |
 | 2019 | 84.3 | 49.8 |
 
-- 1974 and 1990–1999 values are read from the 50-year tables. Year alignment was checked against the column headers (1966–1982, 1983–1999, 2000–2015).
+- 1974 and 1990 to 1999 values are read from the 50-year tables. Year alignment was checked against the column headers (1966 to 1982, 1983 to 1999, 2000 to 2015).
 - By sex in 2019: men 83.8 and women 84.7 for "well off" (2019 expanded edition, male and female norm tables).
 
 **Evidence: Monitoring the Future (US high-school seniors)**
-- Twenge & Kasser (2013), *Personality and Social Psychology Bulletin* 39(7), analyzed 1976–2007.
-- 62% of seniors in 2005–07 said it was important to have a lot of money, versus 48% in 1976–78 (per the SDSU and ScienceDaily releases on the paper).
+- Twenge & Kasser (2013), *Personality and Social Psychology Bulletin* 39(7), analyzed 1976 to 2007.
+- 62% of seniors in 2005-07 said it was important to have a lot of money, versus 48% in 1976-78 (per the SDSU and ScienceDaily releases on the paper).
 - Materialism rose across generations, peaking around the late 1980s and early 1990s, while work centrality fell. The authors link materialism to societal insecurity and advertising (materialistic role modeling) [abstract-level verification].
 
 **Evidence: Pew**
 - In 2008, 13% of US adults rated being wealthy "very important" (43% "somewhat"). Among under-30s, 20% rated it a top priority.
-- In 2007, 64% of 18–25-year-olds said getting rich was their generation's most important goal.
+- In 2007, 64% of 18-25-year-olds said getting rich was their generation's most important goal.
 - No comparable later Pew series was found [gap].
 
 **Evidence: GSS RICHWORK (CAV computation)**
@@ -420,14 +420,14 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 - This measures attachment to work beyond money, not anti-materialism. The post-2020 drop coincides with the mode change.
 
 **Interpretation (descriptive)**
-- Among young Americans, the 1970–1987 inversion of money and meaning is the single best-documented value shift in this brief.
-- **"Being very well off" did not plateau after 1987.** It held at about 72–74% to 2004, then rose again to 84.3% (2019).
+- Among young Americans, the 1970 to 1987 inversion of money and meaning is the single best-documented value shift in this brief.
+- **"Being very well off" did not plateau after 1987.** It held at about 72-74% to 2004, then rose again to 84.3% (2019).
 - "Meaningful philosophy" bottomed in 2003 (39.3%) and partly recovered (49.8% in 2019). Both rose together after 2003, which suggests students now endorse more goals overall (ceiling inflation) [interpretive; uncertain].
 
 ### 3.3 Materialism and well-being: Kasser, Dittmar et al.
 
 **Evidence**
-- **Dittmar, Bond, Hurst & Kasser (2014),** "The relationship between materialism and personal well-being: A meta-analysis," *JPSP* 107(5):879–924:
+- **Dittmar, Bond, Hurst & Kasser (2014),** "The relationship between materialism and personal well-being: A meta-analysis," *JPSP* 107(5):879-924:
   - 753 effect sizes from 259 independent samples.
   - Mean r = −.15 (95% CI −.18 to −.13).
   - Stronger for materialist *values and beliefs* (r = −.19; ρ = −.24) and the *relative importance* of materialist goals (r = −.16; ρ = −.21). Weaker for money-focused measures alone (about −.08 to −.11).
@@ -443,8 +443,8 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 ### 3.4 Richins Material Values Scale
 
 **Evidence**
-- Richins & Dawson (1992), *Journal of Consumer Research* 19(3):303–316: 18-item Material Values Scale (MVS) with success, centrality, and happiness subscales.
-- Richins (2004), *JCR* 31(1):209–219: short forms (15, 9, and 3 items) [uncertain: page numbers not re-checked].
+- Richins & Dawson (1992), *Journal of Consumer Research* 19(3):303-316: 18-item Material Values Scale (MVS) with success, centrality, and happiness subscales.
+- Richins (2004), *JCR* 31(1):209-219: short forms (15, 9, and 3 items) [uncertain: page numbers not re-checked].
 - **No population-level trend series using the MVS was found.** It is used in cross-sectional and experimental studies, and its use in Dittmar et al. contributes to the "values and beliefs" category.
 - Trend claims about "rising materialism" therefore rest on HERI, MTF, and WVS, not the MVS [gap].
 
@@ -474,8 +474,8 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 
 **Evidence**
 - **Degrowth:**
-  - Krpan, Basso, Hickel & Kallis (2025), "Assessing public support for degrowth," *Lancet Planetary Health*: survey experiments in the UK and US found about **81–82% (UK) and 72–73% (US)** support for a full degrowth *policy package* when presented without the label.
-  - Drews, Savin & van den Bergh (2019), *Ecological Economics* 157:141–155: opinion clusters (green growth, agrowth, degrowth) in a Spanish public sample (n = 1,004) and among researchers.
+  - Krpan, Basso, Hickel & Kallis (2025), "Assessing public support for degrowth," *Lancet Planetary Health*: survey experiments in the UK and US found about **81-82% (UK) and 72-73% (US)** support for a full degrowth *policy package* when presented without the label.
+  - Drews, Savin & van den Bergh (2019), *Ecological Economics* 157:141-155: opinion clusters (green growth, agrowth, degrowth) in a Spanish public sample (n = 1,004) and among researchers.
 - **Minimalism:** a "17% of Americans identify as minimalists" figure appears on low-quality aggregator sites without a traceable poll **[uncertain; not used]**.
 - **FIRE:** Intuit Credit Karma (company survey) reports that more than half of Gen Z respondents "consider themselves part of the FIRE movement," despite little or no savings **[uncertain: commercial poll, self-identification]**.
 - **Voluntary simplicity:** no recent representative survey found [gap]. Academic literature dates back to Elgin's *Voluntary Simplicity* (1981) and Etzioni (1998) [standard citations].
@@ -492,12 +492,12 @@ Each entry gives the native term, gloss, why it doesn't translate, practice and 
 
 | Region | What the evidence shows | Key sources | Confounds |
 |---|---|---|---|
-| United States | Money goals at record highs among freshmen (84.3%, 2019). Post-materialist priorities flat-to-up. Vowed religious −81.5% (sisters, 1965–2025). Amish +131% (2000–2025) | HERI, GSS, CARA, Young Center | Survey mode; ceiling inflation in HERI goals |
-| Western Europe | Post-materialist shift 1970–2006, then stagnation (Inglehart). Women religious in Europe 193,287 (2022). Trend not extracted | Inglehart 2008; CARA/ASE | Secularization |
+| United States | Money goals at record highs among freshmen (84.3%, 2019). Post-materialist priorities flat-to-up. Vowed religious −81.5% (sisters, 1965-2025). Amish +131% (2000-2025) | HERI, GSS, CARA, Young Center | Survey mode; ceiling inflation in HERI goals |
+| Western Europe | Post-materialist shift 1970-2006, then stagnation (Inglehart). Women religious in Europe 193,287 (2022). Trend not extracted | Inglehart 2008; CARA/ASE | Secularization |
 | China | Largely materialist; younger cohorts more post-materialist; tang ping as constraint-driven withdrawal | Chen et al. 2021; SIR 2025; surveys [uncertain] | Youth unemployment, housing |
 | India | Jain ascetics substantial and female-majority; growth claims journalistic. No verified series on broader consumer materialism | Flügel 2006 [partly uncertain]; BBC 2019 | Gender constraints; small community |
-| Thailand | Monks and novices down 19% (2012–2022) | NSO/ONB; Dhammadhara | Free schooling replaces novicehood |
-| Korea | Jogye ordinations down 88% (2000–2022) [uncertain counts] | Korean press; *Religions* 2023 | Fertility collapse |
+| Thailand | Monks and novices down 19% (2012-2022) | NSO/ONB; Dhammadhara | Free schooling replaces novicehood |
+| Korea | Jogye ordinations down 88% (2000-2022) [uncertain counts] | Korean press; *Religions* 2023 | Fertility collapse |
 | Andes (Ecuador) | Constitution vs. extraction; 2023 vote, slow implementation | Constitution; CNE; press | Fiscal dependence on oil |
 | Bhutan | GNH up, driven partly by living standards; youth emigration about 2%/yr on visas | CBS/OPHI 2023; *The Bhutanese* | Visa ≠ departure |
 | Muslim-majority societies | Materialist-leaning value ratios where measured; no zuhd data | Inglehart | Poverty ≠ zuhd |
@@ -540,7 +540,7 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 | C4 | **Not met** for wabi-sabi, lagom, KonMari-style minimalism | Qualitative |
 | R1 | **Met** in Catholic West, Thailand, Korea, Shakers. **Not met** for Amish, Jains | CARA, NSO, Young Center |
 | R2 | Partly met | Qualitative |
-| R3 | **Met** (US) | HERI 84.3% (2019); MTF 62% (2005–07) |
+| R3 | **Met** (US) | HERI 84.3% (2019); MTF 62% (2005-07) |
 | R4 | Partly met (China, Thai novices) | §2.1, §2.7 |
 
 **Verdict on H-mig (descriptive):** **weakly supported in a diluted form.**
@@ -554,22 +554,22 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 
 | Unit | Descriptive verdict | Conf. | Normative verdict | Conf. | Depends on |
 |---|---|---|---|---|---|
-| Global (overall) | No single trend. Costly vowed forms falling in most measured places; thin value forms stable or rising in rich countries | Low–Mod | Anti-materialism is *becoming more anomalous* as a costly virtue (rarer), while stated sympathy spreads. Status as an admired ideal is not lost; as a lived norm it is narrowing | Low–Mod | WVS series; non-Western vow data |
-| United States | Wealth goals at record highs among the young; meaning goals partly recovered; post-materialist priorities flat-to-up; vowed religious −81.5% | Mod–High | Losing status as a lived, costly virtue; persisting as a stated value and in the Amish enclave | Mod | HERI ceiling inflation; GSS mode effect |
-| Western Europe | Post-materialist shift then stagnation; vowed religious declining [trend not extracted] | Low–Mod | Diluted into lifestyle and aesthetics (lagom) | Low | Country-level CARA/ASE series |
+| Global (overall) | No single trend. Costly vowed forms falling in most measured places; thin value forms stable or rising in rich countries | Low-Mod | Anti-materialism is *becoming more anomalous* as a costly virtue (rarer), while stated sympathy spreads. Status as an admired ideal is not lost; as a lived norm it is narrowing | Low-Mod | WVS series; non-Western vow data |
+| United States | Wealth goals at record highs among the young; meaning goals partly recovered; post-materialist priorities flat-to-up; vowed religious −81.5% | Mod-High | Losing status as a lived, costly virtue; persisting as a stated value and in the Amish enclave | Mod | HERI ceiling inflation; GSS mode effect |
+| Western Europe | Post-materialist shift then stagnation; vowed religious declining [trend not extracted] | Low-Mod | Diluted into lifestyle and aesthetics (lagom) | Low | Country-level CARA/ASE series |
 | China | Mostly materialist; tang ping ambiguous | Low | 知足 not demonstrably revived; constraint ≠ virtue | Low | Representative value surveys |
-| India (Jain) | Large female-majority ascetic population; growth plausible but not scholarly-verified | Low–Mod | Status intact within the community | Mod | Flügel tables; post-2006 counts |
-| Thailand (Theravāda) | Monks and novices −19% (2012–22), mostly novices | Mod | Partly a decline of *imposed* (education-driven) restraint, not of conviction | Low–Mod | Separating long-term from temporary ordination |
-| Korea (Jogye) | Ordinations down about 88% (2000–22) | Low–Mod | Losing status among the young | Low | Primary Jogye statistics |
-| Andes (Ecuador) | Constitutional virtue; extractive policy 2013–2023; vote to forgo oil 2023; about 24% implemented | Mod | Popular conviction stronger than state practice; state co-optation | Mod | Court ruling; closure progress |
-| Bhutan | GNH up, driven partly by living standards; youth emigration | Mod | Romanticized abroad; GNH ≠ restraint | Low–Mod | Emigration data |
-| Catholic vowed poverty (world) | Women religious −41.3% (1970–2023) | High | Losing status in the West; possibly growing in Africa and Asia [uncertain] | Mod | Continental trend series |
-| Amish plainness | +131% (2000–2025) | High | Thick, binding form persists through community; partly imposed | Mod | Retention data |
+| India (Jain) | Large female-majority ascetic population; growth plausible but not scholarly-verified | Low-Mod | Status intact within the community | Mod | Flügel tables; post-2006 counts |
+| Thailand (Theravāda) | Monks and novices −19% (2012-22), mostly novices | Mod | Partly a decline of *imposed* (education-driven) restraint, not of conviction | Low-Mod | Separating long-term from temporary ordination |
+| Korea (Jogye) | Ordinations down about 88% (2000-22) | Low-Mod | Losing status among the young | Low | Primary Jogye statistics |
+| Andes (Ecuador) | Constitutional virtue; extractive policy 2013-2023; vote to forgo oil 2023; about 24% implemented | Mod | Popular conviction stronger than state practice; state co-optation | Mod | Court ruling; closure progress |
+| Bhutan | GNH up, driven partly by living standards; youth emigration | Mod | Romanticized abroad; GNH ≠ restraint | Low-Mod | Emigration data |
+| Catholic vowed poverty (world) | Women religious −41.3% (1970-2023) | High | Losing status in the West; possibly growing in Africa and Asia [uncertain] | Mod | Continental trend series |
+| Amish plainness | +131% (2000-2025) | High | Thick, binding form persists through community; partly imposed | Mod | Retention data |
 | Shaker | Near-extinct (3) | High | Celibate, recruitment-dependent form failed | High | n/a |
 | Zuhd / qanāʿa / faqr | No data | n/a | Cannot be judged | n/a | Any survey or order membership data |
-| Wabi-sabi / mottainai / lagom | Exported and commodified (wabi-sabi, lagom); mottainai re-used as ecology | Mod | Wabi-sabi décor and lagom branding count *against* migration; Maathai's mottainai is a legitimate translation | Low–Mod | Market data |
+| Wabi-sabi / mottainai / lagom | Exported and commodified (wabi-sabi, lagom); mottainai re-used as ecology | Mod | Wabi-sabi décor and lagom branding count *against* migration; Maathai's mottainai is a legitimate translation | Low-Mod | Market data |
 | Janteloven | Imposed leveling | Mod | Exclude from anti-materialism | Mod | n/a |
-| New forms (minimalism, FIRE, degrowth) | Broad sympathy; no cost evidence | Low | Do not yet qualify as the same virtue | Low–Mod | Representative adherent and cost surveys |
+| New forms (minimalism, FIRE, degrowth) | Broad sympathy; no cost evidence | Low | Do not yet qualify as the same virtue | Low-Mod | Representative adherent and cost surveys |
 
 ---
 
@@ -578,8 +578,8 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 | Source | Type | Verified | Notes |
 |---|---|---|---|
 | HERI 50-year trends; TFS 2017 and 2019 | Primary PDFs | Yes (downloaded, extracted) | Weighted national norms |
-| GSS 1972–2024 R3a | Primary microdata | Yes (CAV computation) | Mode effect after 2020 |
-| CARA workbook (US 1965–2025; World 1970–2023; ASE 2022 by country) | Primary | Yes (downloaded) | Supersedes archived page values |
+| GSS 1972-2024 R3a | Primary microdata | Yes (CAV computation) | Mode effect after 2020 |
+| CARA workbook (US 1965-2025; World 1970-2023; ASE 2022 by country) | Primary | Yes (downloaded) | Supersedes archived page values |
 | Young Center Amish Population 2025 | Primary | Yes | Horse-and-buggy groups only |
 | NY Fed HHDC 2026Q2 | Primary | Yes | n/a |
 | CBS/OPHI 2022 GNH report | Primary (via OPHI summary and search) | Partly | Full PDF not parsed |
@@ -587,7 +587,7 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 | Ecuador Constitution 2008 Arts. 14, 71 | Primary | Yes (via official PDF excerpts) | n/a |
 | Yasuní 2013 decree | Press (El Telégrafo, El Universo, BBC, Guardian) | Yes | Funding figures inconsistent across outlets |
 | Thai NSO Yearbook 2025 Table 4.1 | Primary | Yes | Excludes Chinese and Annamese nikāyas |
-| Thai *Dhammadhara* study 2012–2022 | Scholarly | Abstract | n/a |
+| Thai *Dhammadhara* study 2012-2022 | Scholarly | Abstract | n/a |
 | Boonnoon 2013 | Scholarly | Abstract and excerpt | n/a |
 | Korean Jogye counts | Press | Secondary | [uncertain] |
 | Flügel 2006 Jain counts | Scholarly | Search excerpt only | [partly uncertain] |
@@ -602,7 +602,7 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 ---
 
 ## 8. Open questions
-1. **WVS Y002 by country, waves 1–7.** Did post-materialism stall or reverse after 2008 in rich democracies? This requires a registered WVS download.
+1. **WVS Y002 by country, waves 1-7.** Did post-materialism stall or reverse after 2008 in rich democracies? This requires a registered WVS download.
 2. **Why do GSS and WVS disagree on US materialist/post-materialist ratios?** GSS shows roughly 1:1 through 2010; Inglehart reports 1:2 by 2006. Question format or sample?
 3. **Catholic vowed life by continent over time.** Is Africa or Asia growth real, and is it chosen or a route to education and status (imposed-to-chosen ambiguity)?
 4. **Jain dīkṣā series after 2006 from scholarly sources** (Flügel's tables; Terāpanth official records).
@@ -614,7 +614,7 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 ## 9. CAV connections
 - **Semantic Ethics:** semantic drift of lagom, wabi-sabi, mottainai, sumak kawsay, and GNH as they move from religious or communal vocabularies into marketing and state branding. Mottainai via Maathai is the positive case; wabi-sabi décor the negative.
 - **Chronological Ethics:**
-  - the 1970–1987 money/meaning inversion in HERI;
+  - the 1970 to 1987 money/meaning inversion in HERI;
   - the 1965 peak and long decline of Western vowed poverty;
   - the 2013 → 2023 Yasuní reversal and re-reversal.
 - **Sacred Axiology:** costly renunciation survives where it is sacralized and communal (Amish, Jains). Secular "migrated" forms lack sacral grounding and cost.
@@ -641,14 +641,14 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 - Chen et al. (2021). "Is a silent revolution in the making in China?" (Strathprints 78419).
 - CNE Ecuador (2023). Proclamation of definitive results, Consulta Popular del Yasuní.
 - Constitución de la República del Ecuador (2008), Registro Oficial 449, Arts. 14, 71.
-- Dittmar, H., Bond, R., Hurst, M., & Kasser, T. (2014). *JPSP* 107(5), 879–924.
-- Drews, S., Savin, I., & van den Bergh, J. (2019). "Opinion Clusters in Academic and Public Debates on Growth-vs-Environment." *Ecological Economics* 157, 141–155.
+- Dittmar, H., Bond, R., Hurst, M., & Kasser, T. (2014). *JPSP* 107(5), 879-924.
+- Drews, S., Savin, I., & van den Bergh, J. (2019). "Opinion Clusters in Academic and Public Debates on Growth-vs-Environment." *Ecological Economics* 157, 141-155.
 - Eagan, K., et al. (2016). *The American Freshman: Fifty-Year Trends, 1966–2015*. HERI, UCLA.
 - HERI (2018, 2020). *The American Freshman: National Norms Fall 2017*; *Fall 2019* (expanded editions).
 - Federal Reserve Bank of New York (2026). *Quarterly Report on Household Debt and Credit, 2026 Q2*.
 - Flügel, P. (2006). "Demographic Trends in Jaina Monasticism." In *Studies in Jaina History and Culture*. Routledge.
-- Inglehart, R. (2008). "Changing Values among Western Publics from 1970 to 2006." *West European Politics* 31(1–2).
-- Inglehart, R., & Abramson, P. (1994). "Economic Security and Value Change." *APSR* 88(2), 336–354.
+- Inglehart, R. (2008). "Changing Values among Western Publics from 1970 to 2006." *West European Politics* 31(1-2).
+- Inglehart, R., & Abramson, P. (1994). "Economic Security and Value Change." *APSR* 88(2), 336-354.
 - Kasser, T. (2002). *The High Price of Materialism*. MIT Press.
 - Koren, L. (1994). *Wabi-Sabi for Artists, Designers, Poets & Philosophers*.
 - Krpan, D., Basso, F., Hickel, J., & Kallis, G. (2025). "Assessing public support for degrowth." *Lancet Planetary Health*.
@@ -657,7 +657,7 @@ The fifth is the clearest *collective cost-bearing* anti-materialist act in the 
 - NPR (2025). "The number of Shakers in the U.S. rises to 3."
 - NSO Thailand (2025). *Statistical Yearbook Thailand 2025*, Table 4.1 (source: Office of National Buddhism).
 - Pew Research Center (2007, 2008). "Gen Nexters…"; "Who Wants to Be Rich?"
-- Richins, M., & Dawson, S. (1992). *JCR* 19(3), 303–316. Richins, M. (2004). *JCR* 31(1).
+- Richins, M., & Dawson, S. (1992). *JCR* 19(3), 303-316. Richins, M. (2004). *JCR* 31(1).
 - Sandemose, A. (1933). *En flyktning krysser sitt spor*.
 - *Social Indicators Research* 176 (2025). APC analysis of postmaterialism (US, Japan, Türkiye, China).
 - Twenge, J., & Kasser, T. (2013). *PSPB* 39(7).
@@ -673,7 +673,7 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 ### Addendum summary
 
 1. **The question is open, and "commercialization" names two systems.** A is Amish-owned enterprise under each district's Ordnung. B is the non-Amish "Amish brand" market, which the Ordnung does not bind.
-2. **System A is large and visibly regulated.** About 9,000 Amish-owned enterprises (range 8,600–12,000), and over half of households with non-farm primary income by 2009 (Kraybill, Nolt & Wesner 2010). Size caps, bans on litigation and owner-photo advertising, and costly technology workarounds are enforced, with excommunication as the backstop. The same authors report a three-tier class system, "Amish millionaires," and entrepreneurs who say contentment "means you lost it."
+2. **System A is large and visibly regulated.** About 9,000 Amish-owned enterprises (range 8,600-12,000), and over half of households with non-farm primary income by 2009 (Kraybill, Nolt & Wesner 2010). Size caps, bans on litigation and owner-photo advertising, and costly technology workarounds are enforced, with excommunication as the backstop. The same authors report a three-tier class system, "Amish millionaires," and entrepreneurs who say contentment "means you lost it."
 3. **System B is large, mostly outside Amish control, and acts on the Amish indirectly.** Lancaster County: 10.2 million visitors, US$2.7 billion direct spending in 2024. There is no "Amish" trademark, and the Amish do not sue. The documented harms are land prices and outmigration, media misrepresentation, and, in one 1992 Indiana dataset, higher defection near a tourist center.
 4. **Persistence data show no collapse but cannot show plainness is intact.** Population 177,910 (2000) → 410,955 (2025) → 421,200 (2026); retention "85 percent or more" (Young Center), 84.46% at 40+ in the best peer-reviewed study. Growth is mostly fertility (TFR 6.1). Retention counts membership, not plainness, and groups that adopt cars leave the "Amish" count by definition.
 5. **One pattern favors "compromise."** Retention is lowest among the New Order and in town-adjacent districts, and highest in the strictest affiliations. The occupation evidence is mixed (Meyers 1994: no father-occupation effect; an older study cited by Anderson & Thiehoff: farm fathers retained 97.2% versus 87.4%).
@@ -740,11 +740,11 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 **Evidence**
 - **No aggregate figure exists.** CAV found no published estimate of total Amish business assets, net worth, or household wealth. The published numbers are revenue ranges ("often above US$5 million" for larger firms) and survival claims.
 - **Survival.** GBER reports that the failure rate of Amish businesses "is less than 10% in the first five years," versus about 50% for US small businesses. Note 9 says the estimate rests on one settlement (Kraybill & Nolt 2004) plus interviews, and that church-appointed trustees "assume corrective control of struggling businesses," which "prevents some failures."
-- **Income and land in one Holmes County tract.** Moledina, McConnell, Sugars & Connor (2014), *Journal of Amish and Plain Anabaptist Studies* 2(1), used 2006–2010 American Community Survey data, the Ohio Amish Directory, and county land records for one tract (about 80% "likely Amish," identified by language spoken at home).
-  - An emergent two-peaked income distribution: 23% of tract households at about US$42,000, a dip to 10.6% at US$50,000–74,999, then a second peak of 15.9% at US$75,000–99,999. The authors say this "suggests two distinct income classes may be developing." They also note that the coefficient of variation is *not* significantly different from Ohio's, so their expectation of lower Amish dispersion was not confirmed.
+- **Income and land in one Holmes County tract.** Moledina, McConnell, Sugars & Connor (2014), *Journal of Amish and Plain Anabaptist Studies* 2(1), used 2006 to 2010 American Community Survey data, the Ohio Amish Directory, and county land records for one tract (about 80% "likely Amish," identified by language spoken at home).
+  - An emergent two-peaked income distribution: 23% of tract households at about US$42,000, a dip to 10.6% at US$50,000 to 74,999, then a second peak of 15.9% at US$75,000 to 99,999. The authors say this "suggests two distinct income classes may be developing." They also note that the coefficient of variation is *not* significantly different from Ohio's, so their expectation of lower Amish dispersion was not confirmed.
   - Poverty rate 25.35% in the tract (Amish-identified population) versus 21.20% for all persons (US 13.21%). SNAP receipt was 1.6% in the tract versus 11.0% in Ohio. The authors caution that Census poverty lines may not fit barter, sharing and low-cost living.
   - Among 178 land-title holders, mean property value was US$269,270.50 and mean acreage 34.74.
-  - Swartzentruber households (n = 55, found by a drive-through) held the most acreage (mean 60.69) and the most even distribution, versus 25.74 (Andy Weaver), 20.35 (Old Order) and 23.50 (New Order). Medians are far lower for the other three (4.00–7.94 acres), so those groups are bimodal: a few large holders and many small ones.
+  - Swartzentruber households (n = 55, found by a drive-through) held the most acreage (mean 60.69) and the most even distribution, versus 25.74 (Andy Weaver), 20.35 (Old Order) and 23.50 (New Order). Medians are far lower for the other three (4.00-7.94 acres), so those groups are bimodal: a few large holders and many small ones.
   - Limits: one tract near the tourist center of Berlin; about 20% non-Amish residents; land used as the wealth proxy.
 - **Qualitative reports on wealth.** Church rank is positively associated with land wealth in the same tract (causation unclear).
   - GBER: "business owners have much more disposable income" under a "publicly uniform canopy." The term 'Amish millionaire' "is no longer an oxymoron." Entrepreneurs are "much more likely to hire non-Amish drivers, own rental property, take vacations, and own upscale homes (relatively plain by outside standards)."
@@ -842,7 +842,7 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 #### A4.1 Retention
 **Evidence**
 - **Headline.** The Young Center states a retention rate of "85 percent or more" (2025 and 2026 profiles). Older figures near 90% appear in secondary sources CAV did not verify **[uncertain]**. The best peer-reviewed estimate is **84.46%** for those aged 40+ (below).
-- **The best peer-reviewed estimate.** Anderson & Thiehoff (2025), *Population Studies* 80(2):257–280, analyzed 71 Amish directories (2009–2020, covering about 89.9% of North American Amish). Cumulative retention by age: 96.07% (18–23), 90.63% (24–29), 88.12% (30–39), **84.46% (40+)**. The naive cross-sectional figure (95.4%) understates attrition.
+- **The best peer-reviewed estimate.** Anderson & Thiehoff (2025), *Population Studies* 80(2):257-280, analyzed 71 Amish directories (2009 to 2020, covering about 89.9% of North American Amish). Cumulative retention by age: 96.07% (18-23), 90.63% (24-29), 88.12% (30-39), **84.46% (40+)**. The naive cross-sectional figure (95.4%) understates attrition.
 - **Time trend (Meyers 1994).** Elkhart-LaGrange cohorts remaining Amish: 75% (1920s), 68% (1930s), 75% (1940s), 83% (1950s), 92% (1960s, right-censored and likely overstated).
 - **Affiliation differences.**
   - Anderson & Thiehoff summarize Holmes County studies (Friedrich 2001, Hurst & McConnell 2010, Choy 2020): New Order 53/67/64%; Old Order 85/>75/86%; Dan Church (Andy Weaver) 95/97/95%; Swartzentruber about 90%.
@@ -858,12 +858,12 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 **Evidence** (Young Center profiles for 2025 and 2026; CAV computation in a re-runnable script)
 - **Population.** 177,910 (2000) → 410,955 (2025): +233,045, +131%. June 2026: 421,200 (+10,245). CAV verified these figures against the profile pages before citing them.
 - **Rates (CAV computation).**
-  - 2000–2025: 3.41% a year, an implied doubling time of 20.7 years. This matches the Young Center's "about every 20 years."
+  - 2000 to 2025: 3.41% a year, an implied doubling time of 20.7 years. This matches the Young Center's "about every 20 years."
   - The last two annual increments (+10,045, +10,245) are about 2.5% a year, implying about 28 years. Young Center estimates are rebuilt each year from directories and informants, so a single year's change is a weak signal **[uncertain]**.
 - **Districts and settlements.** Districts: 1,335 (2000) → 3,114 (2025) → 3,285 (2026). The 2025 profile reports a net gain of 373 settlements since 2000. The 2025 profile says nine new settlements were founded that year and none dissolved. The 2026 profile says 43. The two profiles may count differently **[uncertain]**.
 - **Spread.** 32 states and three provinces (2025), 33 states (2026); 54% of settlements have a single district (2026). The four largest settlements (Lancaster, Holmes, Elkhart-LaGrange, Geauga) hold 32.9% of the 2025 total (CAV computation from the Young Center county tables).
 - **Stated reasons for new settlements** (Young Center 2025): cheap farmland, nonfarm work, rural isolation, kin proximity, and "a way to resolve church or leadership conflicts."
-- **"Too commercialized."** Kraybill's remarks and the 2008–2012 Pennsylvania outflow (§A3.2) suggest tourism and suburbanization push families out. **CAV found no study quantifying how many settlements were founded explicitly to escape commercialization [gap].**
+- **"Too commercialized."** Kraybill's remarks and the 2008 to 2012 Pennsylvania outflow (§A3.2) suggest tourism and suburbanization push families out. **CAV found no study quantifying how many settlements were founded explicitly to escape commercialization [gap].**
 - **Drivers.** The Young Center credits "sizable nuclear families (five or more children on average)" and 85% retention. Anderson & Thiehoff report a TFR of 6.1 and 154 converts, 0.146% of baptized members alive in 2010.
 
 **Interpretation (descriptive)**
@@ -884,7 +884,7 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 **Evidence and caveats**
 1. **High exit costs could produce high retention.**
    - Only baptized members can be shunned, and expulsion "can lead to a lifetime of estrangement from family and friends" (Young Center). Formal schooling ends at eighth grade (GBER); CAV's inference is that this narrows outside options.
-   - Yet the cost falls on those who are baptized. Those who leave before baptism "are not subject to church discipline," and the Young Center stresses an "open back door." Retention at 18–23 is 96.07%, which may reflect exit costs, satisfaction, or both (Anderson & Thiehoff).
+   - Yet the cost falls on those who are baptized. Those who leave before baptism "are not subject to church discipline," and the Young Center stresses an "open back door." Retention at 18-23 is 96.07%, which may reflect exit costs, satisfaction, or both (Anderson & Thiehoff).
    - Town proximity lowering retention (Meyers) suggests *outside options matter*, which supports the cost reading.
 2. **Definitional survivorship.** "Amish" in these datasets excludes car-driving Plain groups. A family that adopts a car and electricity becomes Beachy or Mennonite and leaves the series. The count therefore tends to contain those who remain *within* the plain boundary, whatever the internal drift.
 3. **Measurement.** Anderson & Thiehoff note that "families with children do leave as a whole family," which offspring-based retention cannot capture; directory coverage is about 89.9%. Retention counts membership, not plainness. Fertility (TFR 6.1) also masks conviction: growth continues under moderate attrition.
@@ -896,8 +896,8 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 ### A5. Mini-comparison: the Shakers (persistence logic only)
 
 **Evidence**
-- **Shakers (Bainbridge 1984, *Communal Societies* 4(1)).** 3,608 in 1840 and 3,842 in 1850 (the largest year with definite statistics), then decline to 92 members in 1936. The popular figure of 6,000 members is an error. Ten-year retention 1850–60 was 54.5% for females and 40.5% for males. A celibate sect can only replace members by recruitment. NPR (2025) reports three members at Sabbathday Lake.
-- **Amish.** Growth by births; 154 converts in about a century; TFR 6.1; retention 84–90% (§A4).
+- **Shakers (Bainbridge 1984, *Communal Societies* 4(1)).** 3,608 in 1840 and 3,842 in 1850 (the largest year with definite statistics), then decline to 92 members in 1936. The popular figure of 6,000 members is an error. Ten-year retention 1850-60 was 54.5% for females and 40.5% for males. A celibate sect can only replace members by recruitment. NPR (2025) reports three members at Sabbathday Lake.
+- **Amish.** Growth by births; 154 converts in about a century; TFR 6.1; retention 84-90% (§A4).
 
 **Interpretation (descriptive)**
 - The *mechanism of persistence* differs. A celibate community needs a continuous flow of converts, and low retention then compounds to extinction. A family-reproducing community can absorb moderate attrition and still double.
@@ -909,9 +909,9 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 
 | System | Descriptive verdict | Conf. | Normative verdict | Conf. | Depends on |
 |---|---|---|---|---|---|
-| **A. Community-internal enterprise** | Commercialization has *reshaped* plainness. Boundary markers and membership persist. Cost-bearing limits exist (size caps, technology detours, ad and litigation bans). Strain shows as class differentiation, rising individualism, and businessmen in leadership | Moderate (qualitative core; one quantitative tract study) | A real, internally recognized *tension* with *Gelassenheit*, not a simple contradiction. Small family firms fit plainness. Growth-seeking firms strain it | Low–Moderate | Church-discipline data; wealth data beyond one tract; affiliation-level analysis |
-| **B. External "Amish brand" market** | Large, non-Amish-controlled, unprotected by trademark. Documented effects on the Amish are indirect (land, traffic, outmigration, proximity) plus media misrepresentation | Moderate (Lancaster tourism); Low (Amish response, effect sizes) | Counts as the commodified *prestige* of plainness without its cost (evidence against "migration"). It does not itself contradict Amish practice | Low–Moderate | Whether tourist-area defection holds beyond Shipshewana 1992; Amish attitudes |
-| **Persistence test (cross-cutting)** | Strong demographic persistence (+131% 2000–2025, 85% or more retention). Looser affiliations and town-adjacent districts retain less | Moderate–High (demography); Low (causal reading) | Cannot discriminate "intact" from "redefined with dissent removed" | Low–Moderate | Longitudinal individual data; flows to Beachy/Mennonite |
+| **A. Community-internal enterprise** | Commercialization has *reshaped* plainness. Boundary markers and membership persist. Cost-bearing limits exist (size caps, technology detours, ad and litigation bans). Strain shows as class differentiation, rising individualism, and businessmen in leadership | Moderate (qualitative core; one quantitative tract study) | A real, internally recognized *tension* with *Gelassenheit*, not a simple contradiction. Small family firms fit plainness. Growth-seeking firms strain it | Low-Moderate | Church-discipline data; wealth data beyond one tract; affiliation-level analysis |
+| **B. External "Amish brand" market** | Large, non-Amish-controlled, unprotected by trademark. Documented effects on the Amish are indirect (land, traffic, outmigration, proximity) plus media misrepresentation | Moderate (Lancaster tourism); Low (Amish response, effect sizes) | Counts as the commodified *prestige* of plainness without its cost (evidence against "migration"). It does not itself contradict Amish practice | Low-Moderate | Whether tourist-area defection holds beyond Shipshewana 1992; Amish attitudes |
+| **Persistence test (cross-cutting)** | Strong demographic persistence (+131% 2000-2025, 85% or more retention). Looser affiliations and town-adjacent districts retain less | Moderate-High (demography); Low (causal reading) | Cannot discriminate "intact" from "redefined with dissent removed" | Low-Moderate | Longitudinal individual data; flows to Beachy/Mennonite |
 
 ---
 
@@ -936,7 +936,7 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 ### A8. Open questions
 1. Do published or obtainable data show retention by affiliation *and* business exposure, in more than one settlement?
 2. How often has a business-related excommunication or forced sale occurred? Any counts, rather than lore?
-3. What does the 2000s–2020s record show on income and wealth beyond one Holmes County tract?
+3. What does the 2000s to 2020s record show on income and wealth beyond one Holmes County tract?
 4. Do Amish owners who use the "Amish" label differ systematically in affiliation, size or location?
 5. How many Amish families have left tourist areas, and how many say tourism was a reason?
 6. What are flows between Amish and Beachy/Mennonite groups?
@@ -969,7 +969,7 @@ This Addendum extends §2.9 of the study above. It follows the same method: **Ev
 ---
 
 ### A11. Bibliography
-Works are cited inline by author and year. Full records: Anderson & Thiehoff (2025), *Population Studies* 80(2):257–280; Kraybill, Nolt & Wesner (2010), *Global Business and Economics Review* 12(1/2); Meyers (1994), *Mennonite Quarterly Review* 68:378–395; Meyers (2003), *MQR* 77(1):109–126; Moledina et al. (2014), *Journal of Amish and Plain Anabaptist Studies* 2(1):1–22; Nolt (2015), *Vision* 16:27–37; Bainbridge (1984), *Communal Societies* 4(1); Young Center population profiles 2025–2026 and Amish Studies pages (groups.etown.edu/amishstudies). Books are cited as listed in §A11.
+Works are cited inline by author and year. Full records: Anderson & Thiehoff (2025), *Population Studies* 80(2):257-280; Kraybill, Nolt & Wesner (2010), *Global Business and Economics Review* 12(1/2); Meyers (1994), *Mennonite Quarterly Review* 68:378-395; Meyers (2003), *MQR* 77(1):109-126; Moledina et al. (2014), *Journal of Amish and Plain Anabaptist Studies* 2(1):1-22; Nolt (2015), *Vision* 16:27-37; Bainbridge (1984), *Communal Societies* 4(1); Young Center population profiles 2025-2026 and Amish Studies pages (groups.etown.edu/amishstudies). Books are cited as listed in §A11.
 
 ---
 

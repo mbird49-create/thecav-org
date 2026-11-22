@@ -40,7 +40,7 @@ A community-led settlement of serious disputes, including homicide, in which a d
 
 ## 4. How it is practiced
 
-- **Evidence: the immediate aftermath** (Lang 2002, fieldwork in 16 Galilee towns and villages, 1992–1996).
+- **Evidence: the immediate aftermath** (Lang 2002, fieldwork in 16 Galilee towns and villages, 1992 to 1996).
   - After a killing, during *fawrat al-dam* ("the eruption of blood"), the killer's male relatives flee their homes.
   - A delegation seeks a *hudna* from the victim's family within hours.
 - **Evidence: the jaha.**
@@ -82,7 +82,7 @@ A community-led settlement of serious disputes, including homicide, in which a d
 
 - **Interpretation.**
   - Sulha is the most cited Middle Eastern model for "indigenous" conflict resolution. Irani and Funk (1998) argue that conflict resolution in the region should take Arab-Islamic rituals of reconciliation (sulh and musalaha) seriously rather than importing Western models wholesale.
-  - Gellman and Vuinovich (2008) propose drawing on sulha principles in Israeli–Palestinian negotiations.
+  - Gellman and Vuinovich (2008) propose drawing on sulha principles in Israeli-Palestinian negotiations.
   - Its lessons are procedural: secure a truce fast, use respected third parties, let the offending side bear visible costs, and let the injured side's honour rise through the act of forgiving.
 - **Caution on transfer.** Sulha works through dense kinship ties and shared notables. That structure is largely absent between states or national movements, and Lang (2002) shows how entangled it is with local and state politics.
 
@@ -100,11 +100,11 @@ A community-led settlement of serious disputes, including homicide, in which a d
 
 ## 11. Sources
 
-1. Lang, Sharon. "Sulha Peacemaking and the Politics of Persuasion." *Journal of Palestine Studies* 31, no. 3 (2002): 52–66.
-2. Irani, George E., and Nathan C. Funk. "Rituals of Reconciliation: Arab-Islamic Perspectives." *Arab Studies Quarterly* 20, no. 4 (1998): 53–73.
-3. Pely, Doron. "Where East Not Always Meets West: Comparing the Sulha Process to Western-Style Mediation and Arbitration." *Conflict Resolution Quarterly* 28, no. 4 (2011): 427–440. doi:10.1002/crq.20028.
-4. Pely, Doron. "Women in Sulha: Excluded yet Influential." *International Journal of Conflict Management* 22, no. 1 (2011): 89–104.
+1. Lang, Sharon. "Sulha Peacemaking and the Politics of Persuasion." *Journal of Palestine Studies* 31, no. 3 (2002): 52-66.
+2. Irani, George E., and Nathan C. Funk. "Rituals of Reconciliation: Arab-Islamic Perspectives." *Arab Studies Quarterly* 20, no. 4 (1998): 53-73.
+3. Pely, Doron. "Where East Not Always Meets West: Comparing the Sulha Process to Western-Style Mediation and Arbitration." *Conflict Resolution Quarterly* 28, no. 4 (2011): 427-440. doi:10.1002/crq.20028.
+4. Pely, Doron. "Women in Sulha: Excluded yet Influential." *International Journal of Conflict Management* 22, no. 1 (2011): 89-104.
 5. Pely, Doron. *Muslim/Arab Mediation and Conflict Resolution: Understanding Sulha*. London: Routledge, 2016.
 6. Jabbour, Elias J. *Sulha: Palestinian Traditional Peacemaking Process*. Montreat, NC: House of Hope Publications, 1996. **[uncertain: some listings give 1993]**
-7. Gellman, Mneesha, and Mandi Vuinovich. "From Sulha to Salaam: Connecting Local Knowledge with International Negotiations for Lasting Peace in Palestine/Israel." *Conflict Resolution Quarterly* 26, no. 2 (2008): 127–148. doi:10.1002/crq.227.
+7. Gellman, Mneesha, and Mandi Vuinovich. "From Sulha to Salaam: Connecting Local Knowledge with International Negotiations for Lasting Peace in Palestine/Israel." *Conflict Resolution Quarterly* 26, no. 2 (2008): 127-148. doi:10.1002/crq.227.
 8. Qurʾan 4:128; 49:10. Arabic text and Sahih International translation, via alquran.cloud. Accessed 3 October 2026.

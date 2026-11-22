@@ -1,7 +1,12 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import CatalogThumb from "../components/CatalogThumb.astro";
+import { getCatalogEntries, FORGIVENESS_STUDY } from "../data/catalog";
 
-const { frontmatter } = Astro.props;
+const { frontmatter, headings = [] } = Astro.props as {
+  frontmatter: Record<string, unknown>;
+  headings?: { depth: number; slug: string; text: string }[];
+};
 const title = frontmatter.title as string;
 const description = frontmatter.description as string;
 const subtitle = frontmatter.subtitle as string | undefined;
@@ -12,14 +17,24 @@ const author = frontmatter.author as string | undefined;
 // Studies show the suicide/self-harm content warning unless they opt out with
 // `contentWarning: false` in frontmatter (keeps the original study unchanged).
 const showSuicideWarning = frontmatter.contentWarning !== false;
+
+// Dossier data, all drawn from the study's own frontmatter and headings.
+const kickerRest = kicker ? kicker.replace(/^Research study\s*·\s*/i, "") : "";
+const pillarTags = kickerRest ? kickerRest.split(/\s*·\s*/).filter(Boolean) : [];
+const toc = headings.filter((h) => h.depth === 2);
+const normalize = (path: string) => path.replace(/\/+$/, "");
+const relatedEntries =
+  normalize(Astro.url.pathname) === normalize(FORGIVENESS_STUDY.href)
+    ? (await getCatalogEntries()).filter((entry) => entry.data.group === "forgiveness")
+    : [];
 ---
 
 <BaseLayout title={title} description={description}>
   <article>
-    <header class="border-b border-rule">
+    <header class="atlas-grid border-b-[1.5px] border-ink">
       <div class="mx-auto max-w-6xl px-5 py-10 sm:px-8 sm:py-14">
-        <p class="kicker mb-3">
-          <a class="text-muted no-underline hover:text-oxblood" href="/research">Research</a>
+        <p class="atlas-kicker mb-3">
+          <a class="text-oxblood no-underline hover:underline" href="/research">Research</a>
           {
             kicker && (
               <>
@@ -46,7 +61,7 @@ const showSuicideWarning = frontmatter.contentWarning !== false;
         }
         {
           pubDate && (
-            <p class="mt-5 font-sans text-sm text-muted">
+            <p class="mt-6 border-t border-rule pt-3 font-sans text-sm text-ink-soft">
               Center for the Study of Anomalous Virtues{author && <> · {author}</>} · {pubDate}
             </p>
           )
@@ -54,7 +69,71 @@ const showSuicideWarning = frontmatter.contentWarning !== false;
       </div>
     </header>
 
-    <div class="mx-auto max-w-6xl px-5 py-8 sm:px-8">
+    <div class="study-grid mx-auto grid max-w-6xl gap-10 px-5 py-8 sm:px-8 lg:grid-cols-[15.5rem_minmax(0,1fr)] lg:gap-12">
+      <aside class="dossier h-fit border border-rule border-t-[3px] border-t-navy bg-paper-raised p-5 font-sans text-sm lg:sticky lg:top-6 lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto" aria-label="Study dossier">
+        <p class="atlas-kicker">Study dossier</p>
+        {
+          pillarTags.length > 0 && (
+            <>
+              <p class="mt-4 text-xs font-bold uppercase tracking-[0.1em] text-ink">Pillars</p>
+              <ul class="mt-2 flex flex-wrap gap-1.5">
+                {pillarTags.map((tag) => (
+                  <li class="border border-rule bg-paper px-2 py-0.5 text-xs font-semibold text-navy">{tag}</li>
+                ))}
+              </ul>
+            </>
+          )
+        }
+        {
+          (author || pubDate) && (
+            <dl class="mt-4 space-y-2 text-ink-soft">
+              {author && (
+                <div>
+                  <dt class="text-xs font-bold uppercase tracking-[0.1em] text-ink">Author</dt>
+                  <dd>{author}</dd>
+                </div>
+              )}
+              {pubDate && (
+                <div>
+                  <dt class="text-xs font-bold uppercase tracking-[0.1em] text-ink">Published</dt>
+                  <dd>{pubDate}</dd>
+                </div>
+              )}
+            </dl>
+          )
+        }
+        {
+          toc.length > 0 && (
+            <nav class="no-print mt-5" aria-label="On this page">
+              <p class="text-xs font-bold uppercase tracking-[0.1em] text-ink">On this page</p>
+              <ol class="dossier-toc mt-2 divide-y divide-rule border-y border-rule">
+                {toc.map((h) => (
+                  <li class="py-1.5 leading-snug">
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          )
+        }
+        {
+          relatedEntries.length > 0 && (
+            <div class="mt-5">
+              <p class="text-xs font-bold uppercase tracking-[0.1em] text-ink">Catalog entries</p>
+              <ul class="mt-2 space-y-2">
+                {relatedEntries.map((entry) => (
+                  <li class="flex items-center gap-2">
+                    <CatalogThumb src={entry.data.thumbnail} class="w-8" />
+                    <a class="text-oxblood underline-offset-2 hover:underline" href={`/catalog/${entry.id}/`}>{entry.data.term}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+      </aside>
+
+      <div class="min-w-0">
       {
         showSuicideWarning && (
           <aside
@@ -120,6 +199,7 @@ const showSuicideWarning = frontmatter.contentWarning !== false;
           ← Return to Research
         </a>
       </p>
+      </div>
     </div>
   </article>
 </BaseLayout>

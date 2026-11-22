@@ -44,7 +44,7 @@ A ritual in which an offender, or his kin, "enters" the house of the injured fam
   - In older forms he came with a cord around his neck and grass in his mouth, as signs of submission.
   - Blood money is paid, and once the ritual is accepted the feud must end.
   - "A Pashtun is obliged to accept" it.
-- **Evidence: variants** from the International Legal Foundation's survey of customary law (ILF 2004, quoted in Landinfo 2011, 13–14):
+- **Evidence: variants** from the International Legal Foundation's survey of customary law (ILF 2004, quoted in Landinfo 2011, 13-14):
   - After a killing, the murderer's relatives may help carry the victim's body to the grave. A member of the murderer's family may lie in the grave dug for the victim, signalling surrender to death.
   - The aggressor may come with elders, learned men and "some old ladies" to slaughter a sheep at the victim's gate (for a dispute between families) or at the mosque (for one between tribes).
   - Refusing nanawati exposes the victim's family to accusations of defying Pashtun norms, "an allegation that no one can afford."
@@ -95,7 +95,7 @@ Sulha (delegation of notables, blood money, honour); Kanun blood reconciliation 
 1. Rzehak, Lutz. *Doing Pashto: Pashtunwali as the Ideal of Honourable Behaviour and Tribal Life among the Pashtuns*. AAN Thematic Report 01/2011. Kabul: Afghanistan Analysts Network, 21 March 2011.
 2. Steul, Willi. *Paschtunwali: Ein Ehrenkodex und seine rechtliche Relevanz*. Beiträge zur Südasienforschung 54. Wiesbaden: Franz Steiner, 1981.
 3. Barfield, Thomas. *Afghan Customary Law and Its Relationship to Formal Judicial Institutions*. Washington, DC: United States Institute of Peace, 26 June 2003.
-4. Ginsburg, Tom. "An Economic Interpretation of the Pashtunwali." *University of Chicago Legal Forum* 2011, no. 1: 89–125 [end page **uncertain**].
+4. Ginsburg, Tom. "An Economic Interpretation of the Pashtunwali." *University of Chicago Legal Forum* 2011, no. 1: 89-125 [end page **uncertain**].
 5. Landinfo (Norwegian Country of Origin Information Centre). *Afghanistan: Blood Feuds, Traditional Law (Pashtunwali) and Traditional Conflict Resolution*. Oslo: Landinfo, 1 November 2011.
 6. International Legal Foundation. *The Customary Laws of Afghanistan*. Kabul: ILF, 2004. (Consulted via quotations in Landinfo 2011.)
 7. Center for Policy and Human Development, Kabul University. *Afghanistan Human Development Report 2007: Bridging Modernity and Tradition: Rule of Law and the Search for Justice*. Kabul: CPHD / UNDP, 2007. (Survey figures consulted via Landinfo 2011.)

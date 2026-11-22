@@ -22,7 +22,7 @@ const pageTitle = title.includes("CAV") ? title : `${title} · CAV`;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
-    <meta name="theme-color" content="#f3eee4" />
+    <meta name="theme-color" content="#24305e" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -49,5 +49,30 @@ const pageTitle = title.includes("CAV") ? title : `${title} · CAV`;
       <slot />
     </main>
     <Footer />
+    <script is:inline>
+      // Wide study tables scroll sideways: make them keyboard reachable.
+      document.querySelectorAll(".prose-cav-study table").forEach(function (t) {
+        if (t.scrollWidth > t.clientWidth + 1) {
+          t.setAttribute("tabindex", "0");
+          t.setAttribute("role", "region");
+          var cap = t.querySelector("caption");
+          t.setAttribute("aria-label", cap ? cap.textContent.trim() : "Data table, scrolls sideways");
+        }
+      });
+      // Print: expose the data tables behind charts, then restore.
+      (function () {
+        var opened = [];
+        window.addEventListener("beforeprint", function () {
+          document.querySelectorAll("details.atlas-data:not([open])").forEach(function (d) {
+            d.open = true;
+            opened.push(d);
+          });
+        });
+        window.addEventListener("afterprint", function () {
+          opened.forEach(function (d) { d.open = false; });
+          opened = [];
+        });
+      })();
+    </script>
   </body>
 </html>

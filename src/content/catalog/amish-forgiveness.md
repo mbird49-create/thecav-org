@@ -28,7 +28,7 @@ A religiously required, prompt and largely unconditional forgiveness of wrongdoe
 
 - **Evidence.**
   - *Gelassenheit* is a term of late-medieval German mysticism, taken up by 16th-century Anabaptists. For the Amish it means yielding to God, to the church and to others: humility, self-surrender and acceptance of suffering (Cronk 1981; Kraybill, Johnson-Weiner & Nolt 2013).
-  - Forgiveness is tied to the Lord's Prayer ("forgive us our debts, as we forgive our debtors") and Matthew 6:14–15, which make one's own forgiveness by God conditional on forgiving others (Kraybill, Nolt & Weaver-Zercher 2007, 2010).
+  - Forgiveness is tied to the Lord's Prayer ("forgive us our debts, as we forgive our debtors") and Matthew 6:14-15, which make one's own forgiveness by God conditional on forgiving others (Kraybill, Nolt & Weaver-Zercher 2007, 2010).
 - **Interpretation.** In Amish speech, forgiveness is less an emotion than an act of obedience and self-surrender. It is a decision that may precede, rather than follow, healing.
 
 ## 4. How it is practiced
@@ -71,7 +71,7 @@ A religiously required, prompt and largely unconditional forgiveness of wrongdoe
 ## 8. Diplomatic and mediation relevance
 
 - **Interpretation.**
-  - The case shows a community responding to atrocity with forgiveness that does not depend on the offender's repentance. It counters assumptions that a victim's rage is inevitable, and it was offered across an insider–outsider line.
+  - The case shows a community responding to atrocity with forgiveness that does not depend on the offender's repentance. It counters assumptions that a victim's rage is inevitable, and it was offered across an insider-outsider line.
   - Its lessons are limited by context: a small, close religious community, with a dead offender and no political dispute.
   - It is most useful to mediators as a reminder that forgiveness can be decoupled from justice processes. It does not ask victims to forgo legal accountability, which in Nickel Mines was moot.
 
@@ -94,9 +94,9 @@ A religiously required, prompt and largely unconditional forgiveness of wrongdoe
 2. Kraybill, Donald B., Steven M. Nolt, and David L. Weaver-Zercher. *The Amish Way: Patient Faith in a Perilous World*. San Francisco: Jossey-Bass, 2010.
 3. Kraybill, Donald B., Karen M. Johnson-Weiner, and Steven M. Nolt. *The Amish*. Baltimore: Johns Hopkins University Press, 2013.
 4. Hostetler, John A. *Amish Society*. 4th ed. Baltimore: Johns Hopkins University Press, 1993.
-5. Cronk, Sandra L. "Gelassenheit: The Rites of the Redemptive Process in Old Order Amish and Old Order Mennonite Communities." *Mennonite Quarterly Review* 55, no. 1 (1981): 5–44.
+5. Cronk, Sandra L. "Gelassenheit: The Rites of the Redemptive Process in Old Order Amish and Old Order Mennonite Communities." *Mennonite Quarterly Review* 55, no. 1 (1981): 5-44.
 6. Roberts, Terri, with Jeanette Windle. *Forgiven: The Amish School Shooting, a Mother's Love, and a Story of Remarkable Grace*. Bloomington, MN: Bethany House, 2015.
 7. Associated Press. "Amish Donate Cash to School Gunman's Widow." NBC News, 13 September 2007.
 8. Murse, Tom. "Mother Helps Care for Child Her Son Grievously Wounded at Nickel Mines." *LNP / LancasterOnline*, 1 October 2011.
-9. Metzger, Trudy. "Sexual Abuse among Conservative Anabaptists: Culture-Specific Dynamics that Increase Risk of Victimization and Silencing of Victims." *Journal of Amish and Plain Anabaptist Studies* 10, no. 1 (2022): 41–56.
-10. Voelz, Sabrina. "The Necessity and Challenges of Researching Sexual Abuse in Amish Communities." *Journal of Mennonite Studies* 42 (2024): 193–219 **[uncertain: page range]**.
+9. Metzger, Trudy. "Sexual Abuse among Conservative Anabaptists: Culture-Specific Dynamics that Increase Risk of Victimization and Silencing of Victims." *Journal of Amish and Plain Anabaptist Studies* 10, no. 1 (2022): 41-56.
+10. Voelz, Sabrina. "The Necessity and Challenges of Researching Sexual Abuse in Amish Communities." *Journal of Mennonite Studies* 42 (2024): 193-219 **[uncertain: page range]**.

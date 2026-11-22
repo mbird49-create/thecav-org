@@ -14,6 +14,12 @@
   --color-rule: #c4baa8;
   --color-oxblood: #6e2a2a;
   --color-oxblood-hover: #541f1f;
+  --color-navy: #24305e;
+  --color-navy-deep: #1b2442;
+  --color-slate: #364356;
+  --color-teal-deep: #1f5554;
+  --color-plum: #4c2d45;
+  --color-sand: #dfd2b5;
 }
 
 html {
@@ -254,5 +260,213 @@ body {
   }
   .prose-cav-study thead {
     display: table-header-group;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Moral Landscape Atlas design layer                                  */
+/* ------------------------------------------------------------------ */
+
+html,
+body {
+  overflow-x: clip;
+}
+
+/* Fine cartographic coordinate grid behind hero bands */
+.atlas-grid {
+  background-color: var(--color-paper-raised);
+  background-image:
+    linear-gradient(to right, rgb(196 186 168 / 0.28) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(196 186 168 / 0.28) 1px, transparent 1px);
+  background-size: 36px 36px;
+}
+
+/* Links inside running text are always underlined, not only on hover (WCAG 1.4.1) */
+p a.text-oxblood,
+li a.text-oxblood {
+  text-decoration-line: underline;
+  text-underline-offset: 0.18em;
+}
+
+/* Thin navy coordinate strip above the header */
+.atlas-strip {
+  background: var(--color-navy);
+  color: var(--color-paper);
+}
+
+/* Bordered plate used for figures and data graphics */
+.atlas-plate {
+  background: var(--color-paper);
+  border: 1.5px solid var(--color-ink);
+  box-shadow: 4px 4px 0 var(--color-paper-deep);
+}
+
+.atlas-kicker {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-oxblood);
+}
+
+/* Scrollable figure container (keeps the page itself free of horizontal overflow) */
+.atlas-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.atlas-scroll:focus-visible {
+  outline: 2px solid var(--color-oxblood);
+  outline-offset: 2px;
+}
+
+/* Data table alternative for charts */
+.atlas-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.atlas-table th,
+.atlas-table td {
+  border-bottom: 1px solid var(--color-rule);
+  padding: 0.4rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.atlas-table thead th {
+  border-bottom: 1.5px solid var(--color-ink);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-ink-soft);
+}
+
+/* Native-script specimen cards (catalog) */
+.specimen-band {
+  color: var(--color-paper-raised);
+}
+
+.specimen-band--navy { background: var(--color-navy); }
+.specimen-band--oxblood { background: var(--color-oxblood); }
+.specimen-band--teal { background: var(--color-teal-deep); }
+.specimen-band--plum { background: var(--color-plum); }
+.specimen-band--slate { background: var(--color-slate); }
+.specimen-band--sand {
+  background: var(--color-sand);
+  color: var(--color-ink);
+}
+
+.specimen-native {
+  font-family: var(--font-display);
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+
+/* Study dossier sidebar */
+.dossier-toc a {
+  color: var(--color-ink);
+  text-decoration: none;
+}
+
+.dossier-toc a:hover {
+  color: var(--color-oxblood);
+  text-decoration: underline;
+}
+
+/* ------------------------------------------------------------------ */
+/* Print: ink-light, no textures or dark bars, no orphaned headings    */
+/* ------------------------------------------------------------------ */
+@media print {
+  @page {
+    margin: 18mm 16mm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .atlas-grid {
+    background: #fff !important;
+    background-image: none !important;
+  }
+
+  .atlas-strip,
+  .skip-link,
+  .no-print {
+    display: none !important;
+  }
+
+  .atlas-plate {
+    box-shadow: none !important;
+    border-color: #000 !important;
+    background: #fff !important;
+  }
+
+  .specimen-band,
+  .specimen-band--navy,
+  .specimen-band--oxblood,
+  .specimen-band--teal,
+  .specimen-band--plum,
+  .specimen-band--slate,
+  .specimen-band--sand {
+    background: #fff !important;
+    color: #000 !important;
+    border-bottom: 1px solid #000;
+  }
+
+  .specimen-band * {
+    color: #000 !important;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+    break-inside: avoid;
+  }
+
+  figure,
+  tr,
+  th,
+  td,
+  .print-avoid-break {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  details > summary {
+    display: none;
+  }
+
+  /* Show the data tables behind charts when printing */
+  details.atlas-data > *:not(summary) {
+    display: block !important;
+  }
+
+  .study-grid {
+    display: block !important;
+  }
+
+  .dossier {
+    position: static !important;
+    border-color: #000 !important;
+    margin-bottom: 1.5rem;
+  }
+
+  a {
+    color: #000 !important;
   }
 }
