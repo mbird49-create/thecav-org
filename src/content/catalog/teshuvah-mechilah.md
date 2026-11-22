@@ -35,7 +35,7 @@ A procedure in which a wrongdoer must repair the harm and personally ask the inj
 ## 4. How it is practiced
 
 - **Evidence: the boundary between God and people.** Mishnah Yoma 8:9: "for transgressions between a person and God, Yom Kippur atones; however, for transgressions between a person and another, Yom Kippur does not atone until he appeases the other person." Mishnah Bava Kamma 8:7 adds that even full payment for an injury does not bring forgiveness until the offender asks, and that a victim who refuses is called "cruel."
-- **Evidence: the procedure** (Maimonides, *Mishneh Torah*, Hilkhot Teshuvah 2:9–11):
+- **Evidence: the procedure** (Maimonides, *Mishneh Torah*, Hilkhot Teshuvah 2:9-11):
   - Restitution alone is not enough; the offender "must appease him and ask him to forgive him," even for words alone.
   - If refused, he returns with three friends, up to three times. After that "the person who refuses to grant forgiveness is the one considered as the sinner." The exception is one's teacher, whom one approaches "even a thousand times."
   - The injured party must not "be cruel and refuse to be appeased," and should forgive "with a complete heart and a willing spirit."
@@ -64,7 +64,7 @@ A procedure in which a wrongdoer must repair the harm and personally ask the inj
 ## 7. Evidence on outcomes or social effects
 
 - **Evidence.** In a comparison of American Jews and Protestants, Cohen, Malka, Rozin and Cherfas (2006) found that Jews were more likely to judge some offenses unforgivable. They more often gave theological reasons: offense severity, the rule that only the victim can forgive, and the requirement of repentance. Religious commitment was more strongly associated with rejecting the idea of unforgivable offenses among Protestants than among Jews.
-- **Interpretation.** This is direct evidence that the codified grammar shapes lay moral judgment, which is a Semantic Ethics finding. No study was found on the effects of the pre–Yom Kippur custom on relationships or well-being.
+- **Interpretation.** This is direct evidence that the codified grammar shapes lay moral judgment, which is a Semantic Ethics finding. No study was found on the effects of the pre-Yom Kippur custom on relationships or well-being.
 
 ## 8. Diplomatic and mediation relevance
 
@@ -88,12 +88,12 @@ A procedure in which a wrongdoer must repair the harm and personally ask the inj
 
 ## 11. Sources
 
-1. *The Mishnah*: Yoma 8:9; Bava Kamma 8:7. And *Babylonian Talmud*, Yoma 87a. English: William Davidson Talmud edition (Koren–Steinsaltz), via Sefaria.org. Accessed 3 October 2026.
-2. Maimonides (Moses ben Maimon). *Mishneh Torah*, Hilkhot Teshuvah 2:9–11. Translated by Eliyahu Touger. Jerusalem: Moznaim, 1986–2007.
+1. *The Mishnah*: Yoma 8:9; Bava Kamma 8:7. And *Babylonian Talmud*, Yoma 87a. English: William Davidson Talmud edition (Koren-Steinsaltz), via Sefaria.org. Accessed 3 October 2026.
+2. Maimonides (Moses ben Maimon). *Mishneh Torah*, Hilkhot Teshuvah 2:9-11. Translated by Eliyahu Touger. Jerusalem: Moznaim, 1986-2007.
 3. Karo, Joseph, with glosses of Moses Isserles. *Shulchan Arukh*, Orach Chayim 606:1. (Hebrew: Lemberg 1893 ed.; English: trans. Jan M. Brahms, HUC, 1976; via Sefaria.org.)
-4. Newman, Louis E. "The Quality of Mercy: On the Duty to Forgive in the Judaic Tradition." *Journal of Religious Ethics* 15, no. 2 (1987): 155–172.
-5. Dorff, Elliot N. "The Elements of Forgiveness: A Jewish Approach." In *Dimensions of Forgiveness: Psychological Research and Theological Perspectives*, edited by Everett L. Worthington Jr., 29–55. Philadelphia: Templeton Foundation Press, 1998.
-6. Cohen, Adam B., Ariel Malka, Paul Rozin, and Lina Cherfas. "Religion and Unforgivable Offenses." *Journal of Personality* 74, no. 1 (2006): 85–118. doi:10.1111/j.1467-6494.2005.00370.x.
+4. Newman, Louis E. "The Quality of Mercy: On the Duty to Forgive in the Judaic Tradition." *Journal of Religious Ethics* 15, no. 2 (1987): 155-172.
+5. Dorff, Elliot N. "The Elements of Forgiveness: A Jewish Approach." In *Dimensions of Forgiveness: Psychological Research and Theological Perspectives*, edited by Everett L. Worthington Jr., 29-55. Philadelphia: Templeton Foundation Press, 1998.
+6. Cohen, Adam B., Ariel Malka, Paul Rozin, and Lina Cherfas. "Religion and Unforgivable Offenses." *Journal of Personality* 74, no. 1 (2006): 85-118. doi:10.1111/j.1467-6494.2005.00370.x.
 7. Wiesenthal, Simon. *The Sunflower: On the Possibilities and Limits of Forgiveness*. Rev. ed. New York: Schocken, 1997.
-8. Jankélévitch, Vladimir. "Should We Pardon Them?" Translated by Ann Hobart. *Critical Inquiry* 22, no. 3 (1996): 552–572. (From *L'Imprescriptible*, 1986; original essay 1971.)
+8. Jankélévitch, Vladimir. "Should We Pardon Them?" Translated by Ann Hobart. *Critical Inquiry* 22, no. 3 (1996): 552-572. (From *L'Imprescriptible*, 1986; original essay 1971.)
 9. Nussbaum, Martha C. *Anger and Forgiveness: Resentment, Generosity, Justice*. New York: Oxford University Press, 2016.

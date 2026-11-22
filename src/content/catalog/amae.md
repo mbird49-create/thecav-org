@@ -35,7 +35,7 @@ Presuming on someone's goodwill in a close relationship, typically by making a r
 
 ## 4. How it is practiced
 
-**Evidence.** The prototype is the parent–child relationship, but amae also occurs between adults: friends, couples, colleagues, and teacher and student (Niiya et al. 2006; Behrens 2004). Yamaguchi's behavioral definition, which Niiya et al. tested, identifies amae when (a) a request or behavior would be inappropriate for the person's age or status, and (b) the person expects it to be accepted because of the closeness of the relationship. A grown student asking a parent for an airport pickup, when a bus is easy, is a typical example.
+**Evidence.** The prototype is the parent-child relationship, but amae also occurs between adults: friends, couples, colleagues, and teacher and student (Niiya et al. 2006; Behrens 2004). Yamaguchi's behavioral definition, which Niiya et al. tested, identifies amae when (a) a request or behavior would be inappropriate for the person's age or status, and (b) the person expects it to be accepted because of the closeness of the relationship. A grown student asking a parent for an airport pickup, when a bus is easy, is a typical example.
 
 **Evidence.** Behrens (2004) argues that amae differs across contexts and across three developmental phases. Treating it as a single trait, as many non-Japanese accounts do, has "often led to confusions and erroneous conclusions."
 
@@ -49,7 +49,7 @@ Presuming on someone's goodwill in a close relationship, typically by making a r
 
 **Evidence.** Later empirical work recast the debate. Rothbaum et al. (2000) argued that attachment theory's measures of "security" build in Western values of autonomy and exploration, and used amae to illustrate a Japanese pathway to secure relationships through dependence. Yamaguchi (2004) separated amae from both dependence and attachment.
 
-**Interpretation.** The concept moved from a clinical insight (1950s–60s), to a national self-description (1970s–80s), to a target of anti-essentialist critique (1980s), to a testable construct in cultural psychology (2000s). That arc is a Chronological Ethics case in its own right.
+**Interpretation.** The concept moved from a clinical insight (1950s to 60s), to a national self-description (1970s to 80s), to a target of anti-essentialist critique (1980s), to a testable construct in cultural psychology (2000s). That arc is a Chronological Ethics case in its own right.
 
 ## 6. Why the generic English word fails
 
@@ -92,12 +92,12 @@ Presuming on someone's goodwill in a close relationship, typically by making a r
 
 ## 11. Sources
 
-1. Doi, Takeo. "Amae: A Key Concept for Understanding Japanese Personality Structure." In *Japanese Culture: Its Development and Characteristics*, edited by Robert J. Smith and Richard K. Beardsley, 132–139. Chicago: Aldine, 1962.
+1. Doi, Takeo. "Amae: A Key Concept for Understanding Japanese Personality Structure." In *Japanese Culture: Its Development and Characteristics*, edited by Robert J. Smith and Richard K. Beardsley, 132-139. Chicago: Aldine, 1962.
 2. Doi, Takeo. *The Anatomy of Dependence*. Translated by John Bester. Tokyo: Kodansha International, 1973. (Original: *Amae no kōzō*. Tokyo: Kōbundō, 1971.)
-3. Doi, Takeo. "On the Concept of *Amae*." *Infant Mental Health Journal* 13, no. 1 (1992): 7–11.
+3. Doi, Takeo. "On the Concept of *Amae*." *Infant Mental Health Journal* 13, no. 1 (1992): 7-11.
 4. Dale, Peter N. *The Myth of Japanese Uniqueness*. London: Croom Helm, 1986.
 5. Buruma, Ian. "Soul to Soul." Review of *The Myth of Japanese Uniqueness*, by Peter N. Dale. *London Review of Books* 9, no. 4 (19 February 1987).
-6. Rothbaum, Fred, John Weisz, Martha Pott, Kazuo Miyake, and Gilda Morelli. "Attachment and Culture: Security in the United States and Japan." *American Psychologist* 55, no. 10 (2000): 1093–1104. doi:10.1037/0003-066X.55.10.1093.
-7. Behrens, Kazuko Y. "A Multifaceted View of the Concept of *Amae*: Reconsidering the Indigenous Japanese Concept of Relatedness." *Human Development* 47, no. 1 (2004): 1–27. doi:10.1159/000075366.
-8. Yamaguchi, Susumu. "Further Clarifications of the Concept of *Amae* in Relation to Dependence and Attachment." *Human Development* 47, no. 1 (2004): 28–33.
-9. Niiya, Yu, Phoebe C. Ellsworth, and Susumu Yamaguchi. "*Amae* in Japan and the United States: An Exploration of a 'Culturally Unique' Emotion." *Emotion* 6, no. 2 (2006): 279–295. doi:10.1037/1528-3542.6.2.279.
+6. Rothbaum, Fred, John Weisz, Martha Pott, Kazuo Miyake, and Gilda Morelli. "Attachment and Culture: Security in the United States and Japan." *American Psychologist* 55, no. 10 (2000): 1093-1104. doi:10.1037/0003-066X.55.10.1093.
+7. Behrens, Kazuko Y. "A Multifaceted View of the Concept of *Amae*: Reconsidering the Indigenous Japanese Concept of Relatedness." *Human Development* 47, no. 1 (2004): 1-27. doi:10.1159/000075366.
+8. Yamaguchi, Susumu. "Further Clarifications of the Concept of *Amae* in Relation to Dependence and Attachment." *Human Development* 47, no. 1 (2004): 28-33.
+9. Niiya, Yu, Phoebe C. Ellsworth, and Susumu Yamaguchi. "*Amae* in Japan and the United States: An Exploration of a 'Culturally Unique' Emotion." *Emotion* 6, no. 2 (2006): 279-295. doi:10.1037/1528-3542.6.2.279.

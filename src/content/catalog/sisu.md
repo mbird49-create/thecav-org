@@ -98,10 +98,10 @@ Resolve that draws on hidden reserves of energy to keep going, or act at all, wh
 
 ## 11. Sources
 
-1. Lahti, Emilia E. "Embodied Fortitude: An Introduction to the Finnish Construct of Sisu." *International Journal of Wellbeing* 9, no. 1 (2019): 61–82. doi:10.5502/ijw.v9i1.672.
+1. Lahti, Emilia E. "Embodied Fortitude: An Introduction to the Finnish Construct of Sisu." *International Journal of Wellbeing* 9, no. 1 (2019): 61-82. doi:10.5502/ijw.v9i1.672.
 2. Henttonen, Pentti, Ilmari Määttänen, Emilia Makkonen, Anita Honka, Vilja Seppälä, Johanna Närväinen, Regina García-Velázquez, Jaakko Airaksinen, Markus Jokela, and Emilia Elisabet Lahti. "A Measure for Assessment of Beneficial and Harmful Fortitude: Development and Initial Validation of the Sisu Scale." *Heliyon* 8, no. 11 (2022): e11483. doi:10.1016/j.heliyon.2022.e11483.
 3. Helminen, Tanja. *Pää- ja sivurooleissa sisu: Sisu ja sisudiskurssi Suomen kirjallisuudessa ja suomalaisuutta koskevassa keskustelussa* [Sisu, its lead and side roles]. Publications of the University of Eastern Finland, Dissertations in Education, Humanities, and Theology 210. Joensuu: University of Eastern Finland, 2024. ISBN 978-952-61-5122-9.
-4. Alava, Henni, and Matthew Wolf-Meyer. "Paradoxical Scientization: Sisu, Finnish Exceptionalism, and the Limits of Universal Human Experience." *Science as Culture* 35, no. 2 (2026): 137–163. doi:10.1080/09505431.2026.2634437. (Abstract consulted; full text not read.)
-5. Taramaa, Raija. "Sisu as a Central Marker of Finnish-American Culture: Stubbornness beyond Reason." *American Studies in Scandinavia* 41, no. 1 (2009): 36–60.
+4. Alava, Henni, and Matthew Wolf-Meyer. "Paradoxical Scientization: Sisu, Finnish Exceptionalism, and the Limits of Universal Human Experience." *Science as Culture* 35, no. 2 (2026): 137-163. doi:10.1080/09505431.2026.2634437. (Abstract consulted; full text not read.)
+5. Taramaa, Raija. "Sisu as a Central Marker of Finnish-American Culture: Stubbornness beyond Reason." *American Studies in Scandinavia* 41, no. 1 (2009): 36-60.
 6. "Northern Theatre: Sisu." *Time*, 8 January 1940.
 7. Kotimaisten kielten keskus (Institute for the Languages of Finland). "Sisun tie Suomen sanaksi." Kotus-blogi, 5 December 2017. kotus.fi. (Cites *Suomen sanojen alkuperä*, vol. 3, 2000, and *Kielitoimiston sanakirja*.)

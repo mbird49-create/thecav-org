@@ -50,7 +50,7 @@ Fine-grained, situational tact: a trained feel for people and circumstances that
 
 **Evidence.** The concept of tact behind the word has an older philosophical history. Helmuth Plessner's *Grenzen der Gemeinschaft* (1924) has a chapter on "the logic of diplomacy" and "the hygiene of tact." In Plessner's account, diplomacy is the art of dealing between functionaries: it balances interests while leaving the opponent's dignity intact. Tact governs dealings between persons: it keeps a protective distance and spares feelings, and its concern is not truth. Hans-Georg Gadamer later defined tact as "a special sensitivity and sensitiveness to situations and how to behave in them, for which knowledge from general principles does not suffice" (Gadamer 2004, 14). Theodor Adorno's *Minima Moralia* (1951) has an aphorism on the dialectics of tact. It treats tact as historically situated and fragile **[uncertain: paraphrase not checked against the text]**.
 
-**Interpretation.** Plessner and Gadamer write about *Takt*, not about the word Fingerspitzengefühl. They show the intellectual climate in which a word for tacit, situational judgment became useful in German. The word's rise in the 1925–1935 period, and its earliest ²DWB citation coming from a 1935 education text, mean its early history should be studied before CAV presents it as an innocent virtue term **[uncertain: needs historical-lexical research]**.
+**Interpretation.** Plessner and Gadamer write about *Takt*, not about the word Fingerspitzengefühl. They show the intellectual climate in which a word for tacit, situational judgment became useful in German. The word's rise in the 1925 to 1935 period, and its earliest ²DWB citation coming from a 1935 education text, mean its early history should be studied before CAV presents it as an innocent virtue term **[uncertain: needs historical-lexical research]**.
 
 ## 6. Why the generic English word fails
 
@@ -78,7 +78,7 @@ No study of Fingerspitzengefühl as such was found. The nearest evidence comes f
 **Interpretation.**
 - German usage already ties the word to negotiation (Duden's example). Plessner's split between diplomacy (interests, roles) and tact (persons, feelings) maps onto a real problem in mediation: protecting the parties' dignity while their interests are negotiated.
 - A mediator with Fingerspitzengefühl reads when to pause, when to separate parties, when to name a difficult issue, and when a script would fail the moment. The earlier sketch's point that it marks "the moment when following the script would be a moral failure of timing" is a fair Interpretation.
-- The Kahneman–Klein conditions suggest the virtue can be trained through repeated practice with honest feedback, such as debriefs and co-mediation, not simply declared.
+- The Kahneman-Klein conditions suggest the virtue can be trained through repeated practice with honest feedback, such as debriefs and co-mediation, not simply declared.
 
 ## 9. Cautions
 
@@ -97,14 +97,14 @@ No study of Fingerspitzengefühl as such was found. The nearest evidence comes f
 
 ## 11. Sources
 
-1. Deutsches Wörterbuch von Jacob und Wilhelm Grimm, Neubearbeitung (²DWB), s.v. "fingerspitzengefühl." Berlin–Brandenburgische Akademie der Wissenschaften and Akademie der Wissenschaften zu Göttingen, 1965–2018. Accessed via DWDS, dwds.de, 3 October 2026.
-2. Digitales Wörterbuch der deutschen Sprache (DWDS), s.v. "Fingerspitzengefühl." Berlin–Brandenburgische Akademie der Wissenschaften. dwds.de. Accessed 3 October 2026.
+1. Deutsches Wörterbuch von Jacob und Wilhelm Grimm, Neubearbeitung (²DWB), s.v. "fingerspitzengefühl." Berlin-Brandenburgische Akademie der Wissenschaften and Akademie der Wissenschaften zu Göttingen, 1965-2018. Accessed via DWDS, dwds.de, 3 October 2026.
+2. Digitales Wörterbuch der deutschen Sprache (DWDS), s.v. "Fingerspitzengefühl." Berlin-Brandenburgische Akademie der Wissenschaften. dwds.de. Accessed 3 October 2026.
 3. Duden online, s.v. "Fingerspitzengefühl." duden.de. Accessed 3 October 2026.
 4. Plessner, Helmuth. *Grenzen der Gemeinschaft: Eine Kritik des sozialen Radikalismus*. Bonn: Friedrich Cohen, 1924. English: *The Limits of Community: A Critique of Social Radicalism*. Translated by Andrew Wallace. Amherst, NY: Humanity Books, 1999.
 5. Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translation revised by Joel Weinsheimer and Donald G. Marshall. London: Continuum, 2004.
 6. Adorno, Theodor W. *Minima Moralia: Reflections from Damaged Life*. Translated by E. F. N. Jephcott. London: NLB, 1974. Originally published 1951.
 7. Klein, Gary. *Sources of Power: How People Make Decisions*. Cambridge, MA: MIT Press, 1998.
-8. Kahneman, Daniel, and Gary Klein. "Conditions for Intuitive Expertise: A Failure to Disagree." *American Psychologist* 64, no. 6 (2009): 515–526. doi:10.1037/a0016755.
+8. Kahneman, Daniel, and Gary Klein. "Conditions for Intuitive Expertise: A Failure to Disagree." *American Psychologist* 64, no. 6 (2009): 515-526. doi:10.1037/a0016755.
 9. Richards, Chet. *Certain to Win: The Strategy of John Boyd, Applied to Business*. Xlibris, 2004.
 
 Data: Google Books Ngram Viewer, "Fingerspitzengefühl," German (2019) and English (2019) corpora, queried 3 October 2026.

@@ -46,7 +46,7 @@ In intentional homicide and wounding, the right to retaliation belongs to the vi
   - The authorities may still impose discretionary (*taʿzīr*) punishment.
 - **Evidence: modern codifications.**
   - Iran's 2013 Islamic Penal Code keeps qiṣāṣ and diya. Osanloo (2020), drawing on observation of more than 80 murder trials, describes a whole field of "forgiveness work": lawyers, judges, social workers, relatives and artists lobby victims' families to forgo execution, often up to the gallows.
-  - Pakistan's Penal Code, as rewritten by the Qisas and Diyat law of the 1990s **[uncertain: exact ordinance and act dates]**, lets the legal heirs (*wali*) waive or compound qiṣāṣ. Courts may then impose taʿzīr sentences (PPC ss. 309–311).
+  - Pakistan's Penal Code, as rewritten by the Qisas and Diyat law of the 1990s **[uncertain: exact ordinance and act dates]**, lets the legal heirs (*wali*) waive or compound qiṣāṣ. Courts may then impose taʿzīr sentences (PPC ss. 309-311).
 
 ## 5. History and change over time
 
@@ -93,11 +93,11 @@ Sulha (communal settlement, often alongside or instead of this legal route); nə
 
 ## 11. Sources
 
-1. Qurʾan 2:178–179, 2:219, 5:45, 24:22, 42:40, 42:43. Arabic text and Sahih International translation, via alquran.cloud. Accessed 3 October 2026.
+1. Qurʾan 2:178-179, 2:219, 5:45, 24:22, 42:40, 42:43. Arabic text and Sahih International translation, via alquran.cloud. Accessed 3 October 2026.
 2. Peters, Rudolph. *Crime and Punishment in Islamic Law: Theory and Practice from the Sixteenth to the Twenty-First Century*. Cambridge: Cambridge University Press, 2005.
-3. Osanloo, Arzoo. "The Measure of Mercy: Islamic Justice, Sovereign Power, and Human Rights in Iran." *Cultural Anthropology* 21, no. 4 (2006): 570–602.
+3. Osanloo, Arzoo. "The Measure of Mercy: Islamic Justice, Sovereign Power, and Human Rights in Iran." *Cultural Anthropology* 21, no. 4 (2006): 570-602.
 4. Osanloo, Arzoo. *Forgiveness Work: Mercy, Law, and Victims' Rights in Iran*. Princeton, NJ: Princeton University Press, 2020.
-5. Warraich, Sohail Akbar. "'Honour Killings' and the Law in Pakistan." In *"Honour": Crimes, Paradigms, and Violence Against Women*, edited by Lynn Welchman and Sara Hossain, 78–110. London: Zed Books, 2005.
+5. Warraich, Sohail Akbar. "'Honour Killings' and the Law in Pakistan." In *"Honour": Crimes, Paradigms, and Violence Against Women*, edited by Lynn Welchman and Sara Hossain, 78-110. London: Zed Books, 2005.
 6. Pakistan. Criminal Law (Amendment) (Offences in the name or pretext of Honour) Act, 2016. Text as passed by Majlis-e-Shoora, National Assembly of Pakistan (na.gov.pk).
 7. Walsh, Declan, and Ewen MacAskill. "CIA Spy Escapes Murder Case in Pakistan after US Pays 'Blood Money'." *The Guardian*, 16 March 2011.
-8. Center for Human Rights in Iran. "Blood Money Paid for a Woman in Iran Is Still Half That Paid for a Man, Despite New Ruling." 2 August 2019. (Reporting Islamic Penal Code 2013, arts. 550–551.)
+8. Center for Human Rights in Iran. "Blood Money Paid for a Woman in Iran Is Still Half That Paid for a Man, Despite New Ruling." 2 August 2019. (Reporting Islamic Penal Code 2013, arts. 550-551.)

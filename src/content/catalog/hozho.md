@@ -44,7 +44,7 @@ The condition of beauty, harmony, balance, and right relation that Diné life, l
 **Evidence.**
 - **Law and peacemaking.** Yazzie (1994) describes Navajo law, *beehaz'áanii*, as something fundamental that "life comes from." He contrasts "vertical" adversarial justice with "horizontal" Navajo justice among relatives and equals. In 1982 the Navajo Nation Judicial Conference created the Navajo Peacemaker Court. There a *naat'áanii* (peacemaker), a non-coercive leader chosen by the community, guides the parties and their relatives toward an agreement. Yazzie reported 210 peacemakers serving 89 chapters at the time of writing.
 - **Common law.** Former Justice Raymond Austin (2009) shows how Navajo courts use hózhǫ́, *k'é* (kinship and relational duty), and *k'éí* (clan relations) as working legal doctrine. He treats disputes as disruptions of balance that remedies must address.
-- **Governance.** In 2002 the Navajo Nation Council formally recognized the *Diné bi beenahaz'áanii* (Fundamental Laws of the Diné), codified at 1 N.N.C. §§201–206. The executive branch is called *Hózhóójí Nahat'á*. The education provisions speak of "living in balance with all creation, walking in beauty and making a living," and the text closes with "the beauty of happiness and harmony" (Navajo Nation Council 2002).
+- **Governance.** In 2002 the Navajo Nation Council formally recognized the *Diné bi beenahaz'áanii* (Fundamental Laws of the Diné), codified at 1 N.N.C. §§201-206. The executive branch is called *Hózhóójí Nahat'á*. The education provisions speak of "living in balance with all creation, walking in beauty and making a living," and the text closes with "the beauty of happiness and harmony" (Navajo Nation Council 2002).
 - **Health and everyday life.** Kahn-John and Koithan (2015) describe hózhǫ́ as a wellness philosophy lived through daily conduct and speech.
 
 **Interpretation.** Hózhǫ́ is unusual among CAV terms: a sovereign government has embedded it in law and institutions.
@@ -102,13 +102,13 @@ The condition of beauty, harmony, balance, and right relation that Diné life, l
 
 † = Diné author.
 
-1. † Yazzie, Robert. "'Life Comes from It': Navajo Justice Concepts." *New Mexico Law Review* 24 (1994): 175–190.
+1. † Yazzie, Robert. "'Life Comes from It': Navajo Justice Concepts." *New Mexico Law Review* 24 (1994): 175-190.
 2. † Austin, Raymond D. *Navajo Courts and Navajo Common Law: A Tradition of Tribal Self-Governance*. Minneapolis: University of Minnesota Press, 2009.
-3. Navajo Nation Council. *Diné bi beenahaz'áanii* (Fundamental Laws of the Diné). Resolution CN-69-02, 2002. Codified at 1 N.N.C. §§201–206. Text via Judicial Branch of the Navajo Nation, courts.navajo-nsn.gov/dine.htm.
+3. Navajo Nation Council. *Diné bi beenahaz'áanii* (Fundamental Laws of the Diné). Resolution CN-69-02, 2002. Codified at 1 N.N.C. §§201-206. Text via Judicial Branch of the Navajo Nation, courts.navajo-nsn.gov/dine.htm.
 4. † Lee, Lloyd L., ed. *Diné Perspectives: Revitalizing and Reclaiming Navajo Thought*. Foreword by Gregory Cajete. Tucson: University of Arizona Press, 2014.
-5. † Kahn-John, Michelle, and Mary Koithan. "Living in Health, Harmony, and Beauty: The Diné (Navajo) Hózhó Wellness Philosophy." *Global Advances in Health and Medicine* 4, no. 3 (2015): 24–30. doi:10.7453/gahmj.2015.044.
-6. † Kahn-John, Michelle, Terry Badger, Marylyn M. McEwen, Mary Koithan, Denise Saint Arnault, and Teresa Chico-Jarillo. "The Diné (Navajo) Hózhó Lifeway: A Focused Ethnography on Intergenerational Understanding of American Indian Cultural Wisdom." *Journal of Transcultural Nursing* 32, no. 3 (2021): 256–265.
-7. † Denetdale, Jennifer Nez. "Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition." *Wicazo Sa Review* 21, no. 1 (2006): 9–28. doi:10.1353/wic.2006.0004.
+5. † Kahn-John, Michelle, and Mary Koithan. "Living in Health, Harmony, and Beauty: The Diné (Navajo) Hózhó Wellness Philosophy." *Global Advances in Health and Medicine* 4, no. 3 (2015): 24-30. doi:10.7453/gahmj.2015.044.
+6. † Kahn-John, Michelle, Terry Badger, Marylyn M. McEwen, Mary Koithan, Denise Saint Arnault, and Teresa Chico-Jarillo. "The Diné (Navajo) Hózhó Lifeway: A Focused Ethnography on Intergenerational Understanding of American Indian Cultural Wisdom." *Journal of Transcultural Nursing* 32, no. 3 (2021): 256-265.
+7. † Denetdale, Jennifer Nez. "Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition." *Wicazo Sa Review* 21, no. 1 (2006): 9-28. doi:10.1353/wic.2006.0004.
 8. Coker, Donna. "Enhancing Autonomy for Battered Women: Lessons from Navajo Peacemaking." *UCLA Law Review* 47, no. 1 (1999): 1ff.
 9. Gross, Eric K. *Evaluation/Assessment of Navajo Peacemaking*. Final report, National Institute of Justice grant 97-IJ-CX-0039. Philadelphia: Temple University, February 1999.
 10. Witherspoon, Gary. *Language and Art in the Navajo Universe*. Ann Arbor: University of Michigan Press, 1977. (Open-access edition 2025.)

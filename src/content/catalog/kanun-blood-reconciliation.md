@@ -39,7 +39,7 @@ Under the customary law of the Kanun, a blood feud (*gjakmarrja*) ends only when
 - **Evidence: truce and mediation** (Gjeçovi/Fox 1989, as summarized in Alston 2011 and Hasluck 1954).
   - The killer's side must inform the victim's family. A *besa* (truce) can be requested through mediators to protect the killer's kin for set periods.
   - Mediators are usually respected male elders, though the Kanun allows that a mediator "may be a man or a woman, a boy or a girl, or even a priest" (§669, as quoted in secondary sources) **[uncertain: not checked against the Fox translation]**.
-- **Evidence: forgiveness and settlement** (Alston 2011, paras 10–15).
+- **Evidence: forgiveness and settlement** (Alston 2011, paras 10-15).
   - "The blood feud continues until the lost blood is avenged or until the family of the deceased man forgives the killer's family."
   - Forgiveness follows lengthy mediation. Settlements may involve goods, livestock or money (money is often seen as less honourable), may require relocation, and may include marriage between the families.
   - Mediators reported that settlements often require the offending party never to mention the killing again.
@@ -52,9 +52,9 @@ Under the customary law of the Kanun, a blood feud (*gjakmarrja*) ends only when
   - Albanian historians record earlier society-wide reconciliation campaigns (1444, 1703, 1878, 1910) (Clark 2000, cited in Marsavelski et al. 2018).
   - In Albania the feud "re-emerged at the end of the communist era and increased significantly following the 1997 breakdown in law and order" (Alston 2011, para. 22; see also Schwandner-Sievers 1999).
   - A 2003 Albanian law regulates blood-feud mediation. It requires mediation to be voluntary and unpaid by the families, and mediating NGOs to be registered (Alston 2011, n. 49).
-- **Evidence: Kosovo 1990–1992.**
+- **Evidence: Kosovo 1990 to 1992.**
   - Students, joined by the folklorist Anton Çetta, led a mass campaign to reconcile feuding families as part of Albanian nonviolent resistance to Serbian rule (Clark 2000).
-  - Estimates of feuds reconciled range from about 1,200 to 2,000–2,500 (as compiled by Marsavelski et al. 2018).
+  - Estimates of feuds reconciled range from about 1,200 to 2,000-2,500 (as compiled by Marsavelski et al. 2018).
   - At Verrat e Llukës on 1 May 1990, estimates of the crowd ranged from 100,000 (Tanjug) to Çetta's 500,000 (Clark 2000).
   - Families pardoned the blood "in the name of the youth, the people and the flag."
 - **Evidence: Albania after 2000.** Government figures to Alston show reported feud killings falling from 45 in 1998 to 1 in 2009. One NGO claimed about 9,800 killings since 1991. Alston judged the true figures to be at the lower end and the statistics unreliable (Alston 2011).
@@ -70,7 +70,7 @@ Under the customary law of the Kanun, a blood feud (*gjakmarrja*) ends only when
 
 ## 7. Evidence on outcomes or social effects
 
-- **Evidence.** The 1990–1992 Kosovo campaign reconciled at least about 1,200 feuds, by the most cautious estimate (Marsavelski et al. 2018). Participants describe a "contagion of reconciliation": "Someone forgiving the blood turned into an act of others to follow."
+- **Evidence.** The 1990 to 1992 Kosovo campaign reconciled at least about 1,200 feuds, by the most cautious estimate (Marsavelski et al. 2018). Participants describe a "contagion of reconciliation": "Someone forgiving the blood turned into an act of others to follow."
 - **Evidence.** New feuds sprang up after the 1999 war (Marsavelski et al. 2018).
 - **Evidence.** In Albania, Alston found that isolated families and children kept from school remained a central harm. Some self-isolating families said they might not have isolated without "pressure from societal elders or mediators to follow kanun-based precepts." In a Justice and Peace Commission/Caritas survey he cites, 57% of respondents thought killings were better dealt with by law enforcement (Alston 2011, para. 50).
 - **Gap.** No rigorous study links reconciliation to reduced later violence. Kosovo's campaign is the best documented example.
@@ -86,7 +86,7 @@ Under the customary law of the Kanun, a blood feud (*gjakmarrja*) ends only when
 
 - **Patriarchy.** Feud and mediation are male-dominated (Alston 2011, para. 11). Alston also notes the Kanun's patriarchal treatment of women more broadly (para. 53). **Interpretation:** marriage as a settlement can treat women as compensation.
 - **Exaggeration.** Alston lists "sensationalist media coverage, especially by the international press," donor "fascination with what appears to be an 'exotic' remnant," and NGO incentives to overcount as sources of distortion (Alston 2011, paras 3, 20).
-- **Mediator interests.** Some interlocutors worried that "monetary incentives may be involved" in mediation. Mediators may also unintentionally keep the Kanun mentality alive (Alston 2011, paras 11, 49–50).
+- **Mediator interests.** Some interlocutors worried that "monetary incentives may be involved" in mediation. Mediators may also unintentionally keep the Kanun mentality alive (Alston 2011, paras 11, 49-50).
 - **Kanun romanticism.** The Kanun is often treated as a single, unchanging code. Schwandner-Sievers (1999) shows feud logics varying and changing over time, and the 1933 text is a cleric's compilation.
 - **Voice.** Albanian and Kosovar scholars and practitioners should review this entry, including the terminology.
 
@@ -100,5 +100,5 @@ Sulha (mediated truce, compensation, public meal); nənawāta (honour-based plea
 2. Hasluck, Margaret. *The Unwritten Law in Albania*. Edited by J. H. Hutton. Cambridge: Cambridge University Press, 1954.
 3. Alston, Philip. *Report of the Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions: Addendum: Mission to Albania*. UN Doc. A/HRC/17/28/Add.3, 14 March 2011. (Preliminary note: A/HRC/14/24/Add.9, 2010.)
 4. Clark, Howard. *Civil Resistance in Kosovo*. London: Pluto Press, 2000.
-5. Marsavelski, Aleksandar, Furtuna Sheremeti, and John Braithwaite. "Did Nonviolent Resistance Fail in Kosovo?" *British Journal of Criminology* 58, no. 1 (2018): 218–236.
-6. Schwandner-Sievers, Stephanie. "Humiliation and Reconciliation in Northern Albania: The Logics of Feuding in Symbolic and Diachronic Perspectives." In *Dynamics of Violence: Processes of Escalation and De-escalation in Violent Group Conflicts*, edited by Georg Elwert, Stephan Feuchtwang, and Dieter Neubert, 133–152. Sociologus Supplement 1. Berlin: Duncker & Humblot, 1999.
+5. Marsavelski, Aleksandar, Furtuna Sheremeti, and John Braithwaite. "Did Nonviolent Resistance Fail in Kosovo?" *British Journal of Criminology* 58, no. 1 (2018): 218-236.
+6. Schwandner-Sievers, Stephanie. "Humiliation and Reconciliation in Northern Albania: The Logics of Feuding in Symbolic and Diachronic Perspectives." In *Dynamics of Violence: Processes of Escalation and De-escalation in Violent Group Conflicts*, edited by Georg Elwert, Stephan Feuchtwang, and Dieter Neubert, 133-152. Sociologus Supplement 1. Berlin: Duncker & Humblot, 1999.

@@ -136,8 +136,8 @@ Contemporarily, militant movements have reframed certain suicidal attacks as *is
 | Colonial construction of “Maya Ixtab” | Alleged hanging suicide under goddess patronage | Sacred escort / favorable death (in Landa-derived folklore) | **Not verified as ancient cult**; colonial text + modern myth | Harmful folk explanation of Yucatán suicide rates |
 | Pre-modern India | *Satī* | Conjugal perfection, auspicious virtue of the *satī* | Widow’s “voluntary” co-cremation; intense social-religious pressure; textual supports late and debated | Indigenous reform; 1829 abolition; 1987 anti-glorification; feminist critique |
 | Rajput wartime | *Jauhar* | Collective honor vs. capture/dishonor | Imminent defeat; protect women/children from enemy violation | Modern human-rights rejection of glorified mass death; national memory |
-| Japan 1944–45 | *Tokkōtai* special attacks | Nation/emperor sacrifice; aestheticized “falling petals” | State-military order; coerced “volunteer” structure; invented tradition | Pilots’ private dissent (diaries); postwar memory wars; Yasukuni politics |
-| Liberal democracies (late 20th–21st c.) | Voluntary euthanasia / PAD | Autonomy, dignity, compassion, “good death” | Competence; enduring request; unbearable suffering; jurisdictional limits | Sanctity-of-life; disability rights; vulnerability / slippery-slope arguments |
+| Japan 1944-45 | *Tokkōtai* special attacks | Nation/emperor sacrifice; aestheticized “falling petals” | State-military order; coerced “volunteer” structure; invented tradition | Pilots’ private dissent (diaries); postwar memory wars; Yasukuni politics |
+| Liberal democracies (late 20th to 21st c.) | Voluntary euthanasia / PAD | Autonomy, dignity, compassion, “good death” | Competence; enduring request; unbearable suffering; jurisdictional limits | Sanctity-of-life; disability rights; vulnerability / slippery-slope arguments |
 | Militant Islamist ideology | Suicidal attack renamed *istishhād* | Martyrdom, sacred witness (emic) | Ideological packaging (contested); classical mainstream: suicide prohibited | International law; juristic rejection; **condemnation of civilian killing**; no ops detail here |
 | Modern protest repertoires | Hunger strike; self-immolation | Witness, solidarity, bodhisattva compassion, republican martyrdom | Public cause; audience uptake; religious-political hybrid frames | State blackmail/disorder frames; media icons (Quảng Đức; Sands); ethicists debate copycat risks |
 
@@ -163,7 +163,7 @@ This study therefore uses “voluntary death framed as virtue” as a *comparati
 
 ## 6. Implications for CAV Pillars
 
-**Chronological Ethics.** Valence flips across time: Stoic openness to reasonable departure yields to Christian prohibition; *junshi* moves from praised loyalty to banned custom to nostalgic citation; *satī* moves from localized high-caste valorization to criminalization and postcolonial dispute; Meiji–Shōwa reinvention of “bushidō” aesthetics into *tokkōtai* propaganda; bioethics reopens regulated assistance under secular dignity talk; scholarly invention and later dismantling of “Ixtab.” Hauntology here is concrete: old praise-forms supply metaphors, recruiting scripts, and political capital long after institutional conditions change. History is a variable, not a museum of permanent virtues.
+**Chronological Ethics.** Valence flips across time: Stoic openness to reasonable departure yields to Christian prohibition; *junshi* moves from praised loyalty to banned custom to nostalgic citation; *satī* moves from localized high-caste valorization to criminalization and postcolonial dispute; Meiji-Shōwa reinvention of “bushidō” aesthetics into *tokkōtai* propaganda; bioethics reopens regulated assistance under secular dignity talk; scholarly invention and later dismantling of “Ixtab.” Hauntology here is concrete: old praise-forms supply metaphors, recruiting scripts, and political capital long after institutional conditions change. History is a variable, not a museum of permanent virtues.
 
 **Semantic Ethics.** Untranslatable or poorly portable terms (*seppuku*, *junshi*, *eulogos exagōgē*, *satī*, *jauhar*, *tokkō*, *istishhād*, “death with dignity,” “medical aid in dying”) are evidence. Precise bridges state what English nearly says and what it cannot. Diplomacy and comparative ethics fail when one grammar’s vice-word is forced onto another’s virtue-word without remainder: and fail equally when exotic virtue-words are romanticized without attention to coercion and harm. The remainder is the research.
 
@@ -195,7 +195,7 @@ Cholbi, Michael. 2026. “Suicide.” *Stanford Encyclopedia of Philosophy*. Fir
 
 Cook, David. 2005. *Understanding Jihad*. Berkeley: University of California Press. (Esp. discussion of martyrdom operations.)
 
-Cooper, John M. 1989. “Greek Philosophers on Suicide and Euthanasia.” In *Suicide and Euthanasia: Historical and Contemporary Themes*, edited by Baruch A. Brody, 9–38. Dordrecht: Kluwer.
+Cooper, John M. 1989. “Greek Philosophers on Suicide and Euthanasia.” In *Suicide and Euthanasia: Historical and Contemporary Themes*, edited by Baruch A. Brody, 9-38. Dordrecht: Kluwer.
 
 Doniger, Wendy. 2010. *The Hindus: An Alternative History*. New York: Penguin. (Cited regarding *jauhar* as “prophylactic suttee” in secondary literature.)
 
@@ -209,17 +209,17 @@ Fisch, Jörg. 2005/2006. *Burning Women: A Global History of Widow-Sacrifice fro
 
 Foley, Kathleen, and Herbert Hendin, eds. 2002. *The Case against Assisted Suicide: For the Right to End-of-Life Care*. Baltimore: Johns Hopkins University Press.
 
-Freamon, Bernard K. 2003. “Martyrdom, Suicide, and the Islamic Law of War: A Short Legal History.” *Fordham International Law Journal* 27 (1): 299–369. https://ir.lawnet.fordham.edu/ilj/vol27/iss1/11
+Freamon, Bernard K. 2003. “Martyrdom, Suicide, and the Islamic Law of War: A Short Legal History.” *Fordham International Law Journal* 27 (1): 299-369. https://ir.lawnet.fordham.edu/ilj/vol27/iss1/11
 
 Grant, Kevin. 2019. *Last Weapons: Hunger Strikes and Fasts in the British Empire, 1890–1948*. Oakland: University of California Press.
 
-Griffin, Miriam. 1986. “Philosophy, Cato, and Roman Suicide: I.” *Greece & Rome* 33 (1): 64–77; and “II.” *Greece & Rome* 33 (2): 192–202.
+Griffin, Miriam. 1986. “Philosophy, Cato, and Roman Suicide: I.” *Greece & Rome* 33 (1): 64-77; and “II.” *Greece & Rome* 33 (2): 192-202.
 
 Hawley, John Stratton, ed. 1994. *Sati, the Blessing and the Curse: The Burning of Wives in India*. New York: Oxford University Press.
 
 Hill, Timothy. 2004. *Ambitiosa Mors: Suicide and Self in Roman Thought and Literature*. Oxford: Oxford University Press.
 
-Hurst, G. Cameron, III. 1990. “Death, Honor, and Loyalty: The Bushidō Ideal.” *Philosophy East and West* 40 (4): 511–527.
+Hurst, G. Cameron, III. 1990. “Death, Honor, and Loyalty: The Bushidō Ideal.” *Philosophy East and West* 40 (4): 511-527.
 
 Mani, Lata. 1998. *Contentious Traditions: The Debate on Sati in Colonial India*. Berkeley: University of California Press.
 
@@ -227,7 +227,7 @@ Minois, Georges. 1999. *History of Suicide: Voluntary Death in Western Culture*.
 
 Moghadam, Assaf. 2008. *The Globalization of Martyrdom: Al Qaeda, Salafi Jihad, and the Diffusion of Suicide Attacks*. Baltimore: Johns Hopkins University Press.
 
-Moghadam, Assaf. 2009. “Motives for Martyrdom: Al-Qaida, Salafi Jihad, and the Spread of Suicide Attacks.” *International Security* 33 (3): 46–78.
+Moghadam, Assaf. 2009. “Motives for Martyrdom: Al-Qaida, Salafi Jihad, and the Spread of Suicide Attacks.” *International Security* 33 (3): 46-78.
 
 Nitobe, Inazō. 1899/1900. *Bushido: The Soul of Japan*. Multiple later editions. **Use cautiously as Meiji-era cultural diplomacy, not as medieval ethnography** (see Hurst 1990).
 
@@ -237,19 +237,19 @@ Ohnuki-Tierney, Emiko. 2006. *Kamikaze Diaries: Reflections of Japanese Student 
 
 Olivelle, Patrick. Scholarship on Dharmaśāstra chronology regarding *satī* (summarized in Oxford University Press treatments of *satī* in Hindu law; discussions dating Viṣṇu/Parāśara references ca. seventh century CE).
 
-Pape, Robert A. 2003. “The Strategic Logic of Suicide Terrorism.” *American Political Science Review* 97 (3): 343–361.
+Pape, Robert A. 2003. “The Strategic Logic of Suicide Terrorism.” *American Political Science Review* 97 (3): 343-361.
 
 Pape, Robert A. 2005. *Dying to Win: The Strategic Logic of Suicide Terrorism*. New York: Random House.
 
 Rankin, Andrew. 2011. *Seppuku: A History of Samurai Suicide*. Tokyo: Kodansha International.
 
-Reyes-Foster, Beatriz M., and Rachael Kangas. 2016. “Unraveling Ix Tab: Revisiting the ‘Suicide Goddess’ in Maya Archaeology.” *Ethnohistory* 63 (1): 1–27. https://doi.org/10.1215/00141801-3325358
+Reyes-Foster, Beatriz M., and Rachael Kangas. 2016. “Unraveling Ix Tab: Revisiting the ‘Suicide Goddess’ in Maya Archaeology.” *Ethnohistory* 63 (1): 1-27. https://doi.org/10.1215/00141801-3325358
 
-Rosenthal, Franz. 1946. “On Suicide in Islam.” *Journal of the American Oriental Society* 66 (3): 239–259.
+Rosenthal, Franz. 1946. “On Suicide in Islam.” *Journal of the American Oriental Society* 66 (3): 239-259.
 
 Shah, Nayan. 2022. *Refusal to Eat: A Century of Prison Hunger Strikes*. Oakland: University of California Press.
 
-Spivak, Gayatri Chakravorty. 1988. “Can the Subaltern Speak?” In *Marxism and the Interpretation of Culture*, edited by Cary Nelson and Lawrence Grossberg, 271–313. Urbana: University of Illinois Press.
+Spivak, Gayatri Chakravorty. 1988. “Can the Subaltern Speak?” In *Marxism and the Interpretation of Culture*, edited by Cary Nelson and Lawrence Grossberg, 271-313. Urbana: University of Illinois Press.
 
 Weinberger-Thomas, Catherine. 1999. *Ashes of Immortality: Widow-Burning in India*. Translated by Jeffrey Mehlman and David Gordon White. Chicago: University of Chicago Press.
 
@@ -257,9 +257,9 @@ Young, Robert. 2024. “Voluntary Euthanasia.” *Stanford Encyclopedia of Philo
 
 ### Additional primary / classical loci and reference works
 
-- Cicero, *De Finibus* III.60–61 (Stoic departure).
-- Plato, *Phaedo* 61b–62c; *Laws* IX 873c–d.
-- Aristotle, *Nicomachean Ethics* 1138a5–14.
+- Cicero, *De Finibus* III.60-61 (Stoic departure).
+- Plato, *Phaedo* 61b-62c; *Laws* IX 873c-d.
+- Aristotle, *Nicomachean Ethics* 1138a5-14.
 - Augustine, *City of God* I.20.
 - Aquinas, *Summa Theologiae* II-II Q.64 A.5.
 - Diego de Landa, *Relación de las cosas de Yucatán* (16th c.; Tozzer annotated translation tradition): **source of Ixtab claim, not confirmation of pre-Hispanic cult**.

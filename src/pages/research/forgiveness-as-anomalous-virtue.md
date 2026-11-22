@@ -11,7 +11,7 @@ contentWarning: false
 
 ## Abstract
 
-Is forgiveness largely forgotten, or no longer widely practiced? This study poses that question rather than assuming its answer, and tests it against the evidence. It treats forgiveness as a candidate *anomalous virtue*, in CAV's sense a virtue that departs from the norm of its setting, or that does not carry into another moral vocabulary without remainder: forgiveness looks universal at first sight, but its working forms are thick, culturally specific, and lose meaning in translation. Part 1 surveys culturally particular forms: traditional Native Hawaiian *hoʻoponopono*, ubuntu-framed restorative justice, Amish forgiveness, Pashtun *nənawāta*, Jewish *teshuvah* and *mechilah*, Christian pardon traditions, Islamic *ʿafw* within *qiṣāṣ*, Arab *sulha*, Acholi *mato oput*, Albanian Kanun reconciliation, and Japanese apology–pardon practices. Part 2 reviews forgiveness and its absence in geopolitics: South Africa's Truth and Reconciliation Commission, Franco-German reconciliation, Rwanda's gacaca courts, a randomized trial in Sierra Leone, Northern Ireland, the Balkans, and feud and revenge cycles. Part 3 answers the title question. Forgiveness in general has not been forgotten; talk of forgiveness and thin, therapy-style forgiveness have spread. What has lost institutional ground are the thick, communal, ritual forms that specify who forgives whom, before which witnesses, and in exchange for what. The aim is analytic clarity, not advocacy for forgiveness as an unqualified good.
+Is forgiveness largely forgotten, or no longer widely practiced? This study poses that question rather than assuming its answer, and tests it against the evidence. It treats forgiveness as a candidate *anomalous virtue*, in CAV's sense a virtue that departs from the norm of its setting, or that does not carry into another moral vocabulary without remainder: forgiveness looks universal at first sight, but its working forms are thick, culturally specific, and lose meaning in translation. Part 1 surveys culturally particular forms: traditional Native Hawaiian *hoʻoponopono*, ubuntu-framed restorative justice, Amish forgiveness, Pashtun *nənawāta*, Jewish *teshuvah* and *mechilah*, Christian pardon traditions, Islamic *ʿafw* within *qiṣāṣ*, Arab *sulha*, Acholi *mato oput*, Albanian Kanun reconciliation, and Japanese apology-pardon practices. Part 2 reviews forgiveness and its absence in geopolitics: South Africa's Truth and Reconciliation Commission, Franco-German reconciliation, Rwanda's gacaca courts, a randomized trial in Sierra Leone, Northern Ireland, the Balkans, and feud and revenge cycles. Part 3 answers the title question. Forgiveness in general has not been forgotten; talk of forgiveness and thin, therapy-style forgiveness have spread. What has lost institutional ground are the thick, communal, ritual forms that specify who forgives whom, before which witnesses, and in exchange for what. The aim is analytic clarity, not advocacy for forgiveness as an unqualified good.
 
 **Keywords:** forgiveness; anomalous virtue; *hoʻoponopono*; *nənawāta*; *teshuvah*; *ʿafw*; *sulha*; *mato oput*; Kanun; truth and reconciliation; transitional justice; feud; Semantic Ethics; Chronological Ethics
 
@@ -25,7 +25,7 @@ Is forgiveness largely forgotten, or no longer widely practiced? This study pose
 - **Well-sourced candidates:** traditional Native Hawaiian *hoʻoponopono*, Pashtun *nənawāta* (nanawatai), Jewish *teshuvah/mechilah*, Islamic *ʿafw* within *qiṣāṣ*, Arab *sulha*, Acholi *mato oput*, Albanian Kanun blood reconciliation, and Amish forgiveness. Each needs caveats: commercialization, romanticization or "invented tradition," and patriarchal or coercive features.
 - **The geopolitical evidence is mixed.** Accepting the TRC's "truth" went with more reconciled racial attitudes in South Africa (Gibson). A randomized trial in Sierra Leone found that reconciliation forums raised forgiveness and social capital *and* worsened depression, anxiety, and PTSD. Rwanda's gacaca courts delivered mass accountability alongside retraumatization and fair-trial failures. The ICTY convicted 90 people without producing shared acknowledgment in Bosnia and Serbia.
 - **The best-known geopolitical success, Franco-German reconciliation, rested on institutions more than on forgiveness as such.** Since 1963, about 10 million young people have taken part in Franco-German Youth Office exchanges. Lind argues that German contrition *followed* reconciliation rather than producing it.
-- **Customary exits from revenge can work at scale when tied to a collective cause.** Kosovo's 1990–92 campaign to "forgive the blood" reconciled an estimated 1,200–2,500 feuds, and violent deaths fell. Feud killings partly returned after 1999.
+- **Customary exits from revenge can work at scale when tied to a collective cause.** Kosovo's 1990-92 campaign to "forgive the blood" reconciled an estimated 1,200 to 2,500 feuds, and violent deaths fell. Feud killings partly returned after 1999.
 - **The costs of having no working exit from revenge are documented** (blood-feud self-confinement in Albania, Northern Ireland's unresolved legacy disputes). So are the costs of badly designed forgiveness: pressure on victims and psychological harm.
 
 ---
@@ -84,7 +84,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 - **Context (Evidence).** The 1993 Interim Constitution's postamble declared "a need for understanding but not for vengeance, a need for reparation but not for retaliation, a need for ubuntu but not for victimisation," and required amnesty for politically motivated acts. Tutu's *No Future Without Forgiveness* (1999) made ubuntu the moral grammar of the TRC.
 - **Who forgives whom:** victims were *invited*, not required, to forgive. The state granted amnesty in return for full disclosure.
 - **How it differs from generic forgiveness:** personhood is relational, so forgiveness restores the offender's humanity and the community's, not only the victim's peace.
-- **Flags (strong).** Gade (2011) traces written ubuntu discourse from 1846 and finds the ubuntu–proverb link appearing in writing only around 1993–95, during the transition. His 2012 interview study finds that South Africans of African descent disagree on what ubuntu means. Wilson (2001) argues that the TRC's "religious-redemptive" discourse served to legitimize the new state and ignored retributive justice practices in townships. **Interpretation:** ubuntu works better as a frame than as a bounded practice.
+- **Flags (strong).** Gade (2011) traces written ubuntu discourse from 1846 and finds the ubuntu-proverb link appearing in writing only around 1993-95, during the transition. His 2012 interview study finds that South Africans of African descent disagree on what ubuntu means. Wilson (2001) argues that the TRC's "religious-redemptive" discourse served to legitimize the new state and ignored retributive justice practices in townships. **Interpretation:** ubuntu works better as a frame than as a bounded practice.
 
 ### 2.3 Amish forgiveness (Anabaptist, North America)
 
@@ -105,7 +105,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 2.5 Jewish *teshuvah* and *mechilah*
 
 - **Terms:** *teshuvah*, "return" (repentance); *mechilah*, the injured party's forgoing of a claim.
-- **Context (Evidence).** Mishnah Yoma 8:9 holds that Yom Kippur atones for wrongs against God, but not for wrongs between people until the wronged person is appeased. Maimonides (*Hilkhot Teshuvah* 2:9–10) sets out the procedure. The offender makes restitution and asks forgiveness. If refused, he returns with three companions, up to three times, after which the burden passes to the person refusing. The injured party is told not to be cruel and to forgive wholeheartedly once sincerely asked.
+- **Context (Evidence).** Mishnah Yoma 8:9 holds that Yom Kippur atones for wrongs against God, but not for wrongs between people until the wronged person is appeased. Maimonides (*Hilkhot Teshuvah* 2:9-10) sets out the procedure. The offender makes restitution and asks forgiveness. If refused, he returns with three companions, up to three times, after which the burden passes to the person refusing. The injured party is told not to be cruel and to forgive wholeheartedly once sincerely asked.
 - **Who forgives whom:** *only* the injured person.
 - **How it differs from generic forgiveness:** conditional, procedural, and *non-transferable*. That rule frames the debate over proxy forgiveness for crimes against the dead, as in Wiesenthal's *The Sunflower*.
 - **Flags.** Practice varies across communities. Source strength is high because the norms are codified.
@@ -114,7 +114,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 
 - **Terms:** Greek *aphesis*, "release."
 - **Context (Evidence).**
-  - Core texts: the Lord's Prayer (Matthew 6:12, 14–15); forgiving "seventy-seven times" or "seventy times seven," depending on translation (Matthew 18:21–22); Luke 23:34.
+  - Core texts: the Lord's Prayer (Matthew 6:12, 14-15); forgiving "seventy-seven times" or "seventy times seven," depending on translation (Matthew 18:21-22); Luke 23:34.
   - Catholic penance requires contrition, confession, and satisfaction (Catechism §1450ff.).
   - Collective church repentance: John Paul II's "Day of Pardon" (12 March 2000), prepared by the International Theological Commission's *Memory and Reconciliation*.
   - The Polish bishops' 1965 letter to the German bishops, "we forgive and ask for forgiveness," was a landmark of intergroup forgiveness. Poland's communist government attacked it.
@@ -150,11 +150,11 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 2.10 Albanian blood-feud reconciliation under the Kanun
 
 - **Terms:** *gjakmarrja*, "blood-taking"; *besa*, sworn word or truce; to "forgive the blood" (Alb. *falja e gjakut* **[uncertain: spelling to be confirmed by an Albanian speaker]**).
-- **Context (Evidence).** The *Kanun of Lekë Dukagjini* (compiled by Gjeçovi; trans. Fox 1989) institutionalizes revenge but also truces, protected mediators, and reconciliation, ending in a shared "blood meal." In 1990–92 a student-led movement, fronted by folklorist Anton Çetta, revived the older practice of mass reconciliation in Kosovo. Estimates of feuds reconciled range from about 1,200 (Mangalakova 2004) to 2,000–2,500 (Luci 2014). Families pardoned the blood "in the name of the youth, the people and the flag" (Clark 2001, quoted in Marsavelski et al. 2018).
+- **Context (Evidence).** The *Kanun of Lekë Dukagjini* (compiled by Gjeçovi; trans. Fox 1989) institutionalizes revenge but also truces, protected mediators, and reconciliation, ending in a shared "blood meal." In 1990-92 a student-led movement, fronted by folklorist Anton Çetta, revived the older practice of mass reconciliation in Kosovo. Estimates of feuds reconciled range from about 1,200 (Mangalakova 2004) to 2,000-2,500 (Luci 2014). Families pardoned the blood "in the name of the youth, the people and the flag" (Clark 2001, quoted in Marsavelski et al. 2018).
 - **How it differs from generic forgiveness:** a public renunciation of a *duty* to kill, often dedicated to a collective cause.
 - **Flags.** The Kanun is patriarchal. Feud statistics are unreliable (Alston 2011).
 
-### 2.11 Japanese apology–pardon practices (included with caution)
+### 2.11 Japanese apology-pardon practices (included with caution)
 
 **Evidence.** Wagatsuma and Rosett (1986) compare how apology works socially and legally in Japan and the United States. Haley (1989) describes a "second track" in Japanese criminal justice in which confession, repentance, compensation, and the victim's pardon bring leniency. Critics note its paternalistic and coercive features.
 
@@ -166,7 +166,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 |---|---|---|---|---|---|---|
 | Hoʻoponopono (traditional) | "setting to right" | Family, mutually | Leader, prayer, full truth, *mihi*/*kala*, closure | Collective, binding closure | Commercial mantra is not traditional | Strong (20th c.) |
 | Ubuntu (TRC) | "humanness" | Victims invited; state amnesties | Full disclosure | Relational personhood | Recent, instrumentalized discourse | Moderate; contested |
-| Amish | "yieldedness" | Community to offender and family | None | Unconditional, habitual | Emblematization | Moderate–strong |
+| Amish | "yieldedness" | Community to offender and family | None | Unconditional, habitual | Emblematization | Moderate-strong |
 | *Nənawāta* | "entering" | Victim lineage to offender lineage | Self-humbling plea; blood money | Plea obliges acceptance | Patriarchy | Moderate |
 | *Teshuvah/mechilah* | "return"/"forgoing" | Injured party only | Repentance, restitution, request | Conditional, non-transferable | Variation | Strong |
 | Christian pardon | "release" | God; believers; churches | Varies | Mandated, divinely anchored | Plurality | Strong (texts) |
@@ -179,7 +179,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 
 ## 3. Part 2: Forgiveness, its absence, and geopolitics
 
-### 3.1 South Africa's TRC (1996–2003)
+### 3.1 South Africa's TRC (1996 to 2003)
 
 **Evidence.**
 - The Human Rights Violations Committee received more than 21,000 victim statements, and about 2,000 victims testified publicly.
@@ -196,12 +196,12 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 - Milestones: the Schuman Declaration (1950), the Élysée Treaty (22 January 1963), and the Franco-German Youth Office (1963). The Office reports about 10 million participants in more than 400,000 programmes.
 - Feldman (2012) presents Germany's reconciliation with France, Israel, Poland, and the Czech Republic as deliberate policy built on leadership, institutions, symbolic gestures, and civil-society ties.
 - Krotz and Schild (2013) call the relationship "embedded bilateralism."
-- Lind (2008) argues that reconciliation advanced in the 1950s–60s while West German contrition was still modest, and that Japanese apologies often triggered domestic backlash that undercut them abroad.
+- Lind (2008) argues that reconciliation advanced in the 1950s to 60s while West German contrition was still modest, and that Japanese apologies often triggered domestic backlash that undercut them abroad.
 - Luttwak (1994) credits Moral Re-Armament's Caux meetings, which emphasized personal repentance among French and German elites.
 
 **Interpretation.** This is the strongest case of enemies becoming partners, but the causal weight of forgiveness is hard to isolate. Luttwak's claim is difficult to test. The best-supported mechanisms are institutional and symbolic. For CAV, forgiveness looks like one *ingredient* of reconciliation infrastructure, and sustained *encounter* (youth exchange) may carry it across generations better than declarations do.
 
-### 3.3 Rwanda's gacaca courts (2002/2005–2012)
+### 3.3 Rwanda's gacaca courts (2002/2005 to 2012)
 
 **Evidence.**
 - *Gacaca* takes its name from the Kinyarwanda word for the grass where disputes were traditionally heard. It ran through 12,103 courts with about 169,000 elected lay judges.
@@ -224,7 +224,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 3.5 Northern Ireland
 
 **Evidence.**
-- CAIN's Sutton Index records 3,532 conflict-related deaths (1969–2001).
+- CAIN's Sutton Index records 3,532 conflict-related deaths (1969 to 2001).
 - The 1998 Good Friday Agreement ended most political violence but left the legacy of the past unresolved.
 - The 2023 Legacy Act's conditional immunity scheme was found incompatible with the European Convention on Human Rights by the Belfast High Court in February 2024.
 - On 14 October 2025 the government introduced a Troubles Bill to repeal and replace the Act, together with a draft Remedial Order removing immunity. The Commons approved the Order in January 2026, but the government then moved its provisions into the Bill instead (House of Commons Library 2026). The Bill passed the Commons on 20 October 2026 and, as of 11 November 2026, awaits second reading in the House of Lords, scheduled for 2 December 2026; it is not yet law (UK Parliament 2026).
@@ -236,7 +236,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 3.6 The Balkans
 
 **Evidence.**
-- The ICTY (1993–2017) indicted 161 people, sentenced 90, and acquitted 19.
+- The ICTY (1993 to 2017) indicted 161 people, sentenced 90, and acquitted 19.
 - Orentlicher (2018) finds it delivered justice and spurred domestic prosecutions, but denial persisted in Bosnia and Serbia and its judgments were absorbed into competing ethnic narratives (see also Subotić 2009; J. N. Clark 2014).
 - The RECOM regional truth commission initiative gathered more than half a million signatures but never won the intergovernmental backing it needed.
 
@@ -245,7 +245,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 ### 3.7 Feuds and revenge cycles
 
 **Evidence.**
-- Marsavelski, Sheremeti, and Braithwaite (2018) compiled Kosovo homicide series. Rates were already low during the nonviolent resistance and fell close to zero during the 1990–92 reconciliation campaign. Feuds resurged in 2000–04, then declined. The authors treat the causal link as plausible, not proven.
+- Marsavelski, Sheremeti, and Braithwaite (2018) compiled Kosovo homicide series. Rates were already low during the nonviolent resistance and fell close to zero during the 1990-92 reconciliation campaign. Feuds resurged in 2000-04, then declined. The authors treat the causal link as plausible, not proven.
 - In Albania, UN Special Rapporteur Alston (2011) found blood feuds in decline but still corrosive, chiefly through families' self-confinement, and found the statistics unreliable.
 - For Pashtun *badal*, Rzehak (2011) documents exits that coexist with norms allowing revenge to be delayed across generations: *nənawāta*, blood money, confiscation of weapons during talks (*baramta*), and peacemaking jirgas.
 
@@ -259,7 +259,7 @@ Many of the practices below fuse these categories, and that fusion is part of wh
 | Franco-German | Institutions, youth exchange, symbolism | Forgiveness hard to isolate | Moderate (historical) |
 | Rwanda gacaca | Mass accountability; participation | Retraumatization, intimidation, one-sidedness | Strong but politically constrained |
 | Sierra Leone | Forgiveness and social capital up | Mental health worse | Very strong (RCT) |
-| Northern Ireland | Peace without forgiveness; contact | Legacy unresolved; immunity failed | Moderate–strong |
+| Northern Ireland | Peace without forgiveness; contact | Legacy unresolved; immunity failed | Moderate-strong |
 | Balkans (ICTY) | Accountability; domestic trials | Little shared acknowledgment | Moderate |
 | Kosovo feud campaign | Mass feud reconciliation; fewer homicides | Post-1999 resurgence | Moderate |
 
@@ -275,7 +275,7 @@ This study's title asks whether forgiveness is largely forgotten or no longer wi
 
 **Evidence: corpus data show a U-shape, not a decline.**
 - Kesebir and Kesebir (2012) found that 37 of 50 virtue words (74%) declined in American books between 1901 and 2000. "Forgiveness" was among the 50, but the paper reports the aggregate.
-- This study's own Google Books Ngram query (English 2019 corpus, smoothing 3, run 2 October 2026) found "forgiveness" at about 8.5 per million words around 1850 and about 1.9 around 1930–50. It rose to about 3.1 by 1990, 5.3 by 2000, and 10.1 by 2019. The U.S. and U.K. sub-corpora show the same pattern.
+- This study's own Google Books Ngram query (English 2019 corpus, smoothing 3, run 2 October 2026) found "forgiveness" at about 8.5 per million words around 1850 and about 1.9 around 1930-50. It rose to about 3.1 by 1990, 5.3 by 2000, and 10.1 by 2019. The U.S. and U.K. sub-corpora show the same pattern.
 - Corpus frequency is a weak proxy for practice, and the corpus changes composition over time (Pechenick, Danforth & Dodds 2015).
 
 **Evidence: adjacent indicators are mixed.** Forgiveness research and trials have multiplied (Wade et al. 2014; Ho et al. 2024). Affective polarization rose most in the U.S. but fell in Germany and Britain (Boxell, Gentzkow & Shapiro 2024). Polarization measures animosity, not forgiveness.
@@ -317,12 +317,12 @@ This study's title asks whether forgiveness is largely forgotten or no longer wi
 | 4 | **ʿAfw in qiṣāṣ** | Islamic law | Victim's heirs' right to pardon a killer, often with *diya* (Q 2:178; 42:40) | Forgiveness as a legal right held by victims, not the state | Strong (texts); moderate (practice) | Economic coercion and valuation inequities [uncertain] |
 | 5 | **Sulha** | Arab customary law, Levant | Mediated reconciliation between clans with notables, truce payment, and public handshake and meal | Public, honour-restoring ceremony that can come before inner change | Moderate (Irani & Funk 1998; Pely 2011) | Patriarchal; parallel to state law; regional variation |
 | 6 | **Mato oput** | Acholi, northern Uganda | Reconciliation between clans after a killing, sealed by drinking a bitter root after truth and compensation | Embodied, compensatory, clan-level | Moderate (Liu Institute 2005; Pham et al. 2007) | Strong romanticization critique (Allen); not built for mass atrocity |
-| 7 | **"Forgiving the blood"** | Albanian Kanun; Kosovo 1990–92 | Public renunciation of the duty of blood revenge, under *besa*, sealed by a shared meal | Releases a *duty* to kill; can cascade when tied to a shared cause | Moderate (Fox 1989; H. Clark 2000; Marsavelski et al. 2018) | Patriarchal; unreliable data; resurgence after 1999 |
-| 8 | **Amish forgiveness (Gelassenheit)** | Old Order Amish | Unconditional, communal, pre-practiced forgiveness of offenders and their families, kept distinct from legal pardon | Forgiveness as habit and community discipline | Moderate–strong (Kraybill et al. 2007) | Emblematization; pressure on abuse victims (Metzger 2022; Voelz 2024; qualitative) |
+| 7 | **"Forgiving the blood"** | Albanian Kanun; Kosovo 1990-92 | Public renunciation of the duty of blood revenge, under *besa*, sealed by a shared meal | Releases a *duty* to kill; can cascade when tied to a shared cause | Moderate (Fox 1989; H. Clark 2000; Marsavelski et al. 2018) | Patriarchal; unreliable data; resurgence after 1999 |
+| 8 | **Amish forgiveness (Gelassenheit)** | Old Order Amish | Unconditional, communal, pre-practiced forgiveness of offenders and their families, kept distinct from legal pardon | Forgiveness as habit and community discipline | Moderate-strong (Kraybill et al. 2007) | Emblematization; pressure on abuse victims (Metzger 2022; Voelz 2024; qualitative) |
 
 *Considered but not shortlisted:*
 - **Ubuntu:** too broad, with a recent and contested written history; better treated as a frame.
-- **Japanese apology–pardon practices:** apology systems rather than a distinct forgiveness concept.
+- **Japanese apology-pardon practices:** apology systems rather than a distinct forgiveness concept.
 - **Christian pardon:** too internally varied for one entry, though the 1965 Polish bishops' letter could anchor a separate "intergroup forgiveness gestures" entry.
 
 ---
@@ -369,7 +369,7 @@ International Theological Commission. 2000. *Memory and Reconciliation: The Chur
 
 John Paul II. 2000. Homily, "Day of Pardon," 12 March 2000. vatican.va.
 
-Maimonides. *Mishneh Torah*, Hilkhot Teshuvah 2:9–10. (Mishnah Yoma 8:9.)
+Maimonides. *Mishneh Torah*, Hilkhot Teshuvah 2:9-10. (Mishnah Yoma 8:9.)
 
 National Unity and Reconciliation Commission (Rwanda). 2020. *Rwanda Reconciliation Barometer 2020*. Kigali.
 
@@ -381,7 +381,7 @@ Qur'an 2:178; 42:40 (Sahih International translation).
 
 Republic of South Africa. 1993. Constitution of the Republic of South Africa Act 200 of 1993, postamble "National Unity and Reconciliation."
 
-Truth and Reconciliation Commission of South Africa. 1998 and 2003. *Final Report*, vols. 1–7. Cape Town. Amnesty statistics via Department of Justice, "TRC/Amnesty Hearings and Decisions," justice.gov.za/trc.
+Truth and Reconciliation Commission of South Africa. 1998 and 2003. *Final Report*, vols. 1-7. Cape Town. Amnesty statistics via Department of Justice, "TRC/Amnesty Hearings and Decisions," justice.gov.za/trc.
 
 UK Parliament. 2026. "Northern Ireland Troubles Bill: Stages." https://bills.parliament.uk/bills/4022/stages. Accessed 11 November 2026.
 
@@ -391,21 +391,21 @@ UN Human Rights Council. Alston, Philip. 2011. *Report of the Special Rapporteur
 
 Allen, Tim. 2006. *Trial Justice: The International Criminal Court and the Lord's Resistance Army*. London: Zed Books.
 
-Allen, Tim. 2007. "The International Criminal Court and the Invention of Traditional Justice in Northern Uganda." *Politique africaine* 107 (3): 147–166.
+Allen, Tim. 2007. "The International Criminal Court and the Invention of Traditional Justice in Northern Uganda." *Politique africaine* 107 (3): 147-166.
 
 Arendt, Hannah. 1958. *The Human Condition*. Chicago: University of Chicago Press.
 
-Baines, Erin K. 2007. "The Haunting of Alice: Local Approaches to Justice and Reconciliation in Northern Uganda." *International Journal of Transitional Justice* 1 (1): 91–114.
+Baines, Erin K. 2007. "The Haunting of Alice: Local Approaches to Justice and Reconciliation in Northern Uganda." *International Journal of Transitional Justice* 1 (1): 91-114.
 
-Boxell, Levi, Matthew Gentzkow, and Jesse M. Shapiro. 2024. "Cross-Country Trends in Affective Polarization." *Review of Economics and Statistics* 106 (2): 557–565.
+Boxell, Levi, Matthew Gentzkow, and Jesse M. Shapiro. 2024. "Cross-Country Trends in Affective Polarization." *Review of Economics and Statistics* 106 (2): 557-565.
 
-Brounéus, Karen. 2008. "Truth-Telling as Talking Cure? Insecurity and Retraumatization in the Rwandan Gacaca Courts." *Security Dialogue* 39 (1): 55–76.
+Brounéus, Karen. 2008. "Truth-Telling as Talking Cure? Insecurity and Retraumatization in the Rwandan Gacaca Courts." *Security Dialogue* 39 (1): 55-76.
 
-Brounéus, Karen. 2010. "The Trauma of Truth Telling: Effects of Witnessing in the Rwandan Gacaca Courts on Psychological Health." *Journal of Conflict Resolution* 54 (3): 408–437. https://doi.org/10.1177/0022002709360322
+Brounéus, Karen. 2010. "The Trauma of Truth Telling: Effects of Witnessing in the Rwandan Gacaca Courts on Psychological Health." *Journal of Conflict Resolution* 54 (3): 408-437. https://doi.org/10.1177/0022002709360322
 
 Cairns, Douglas. 2011. Review of David Konstan, *Before Forgiveness*. *Ancient History Bulletin Online Reviews*, review no. 32 [numbering **uncertain**].
 
-Cilliers, Jacobus, Oeindrila Dube, and Bilal Siddiqi. 2016. "Reconciling after Civil Conflict Increases Social Capital but Decreases Individual Well-Being." *Science* 352 (6287): 787–794.
+Cilliers, Jacobus, Oeindrila Dube, and Bilal Siddiqi. 2016. "Reconciling after Civil Conflict Increases Social Capital but Decreases Individual Well-Being." *Science* 352 (6287): 787-794.
 
 Clark, Howard. 2000. *Civil Resistance in Kosovo*. London: Pluto Press.
 
@@ -417,21 +417,21 @@ Clark, Phil. 2010. *The Gacaca Courts, Post-Genocide Justice and Reconciliation 
 
 Feldman, Lily Gardner. 2012. *Germany's Foreign Policy of Reconciliation: From Enmity to Amity*. Lanham, MD: Rowman & Littlefield.
 
-Gade, Christian B. N. 2011. "The Historical Development of the Written Discourses on Ubuntu." *South African Journal of Philosophy* 30 (3): 303–329.
+Gade, Christian B. N. 2011. "The Historical Development of the Written Discourses on Ubuntu." *South African Journal of Philosophy* 30 (3): 303-329.
 
-Gade, Christian B. N. 2012. "What is Ubuntu? Different Interpretations among South Africans of African Descent." *South African Journal of Philosophy* 31 (3): 484–503.
+Gade, Christian B. N. 2012. "What is Ubuntu? Different Interpretations among South Africans of African Descent." *South African Journal of Philosophy* 31 (3): 484-503.
 
-Gibson, James L. 2002. "Truth, Justice, and Reconciliation: Judging the Fairness of Amnesty in South Africa." *American Journal of Political Science* 46 (3): 540–556.
+Gibson, James L. 2002. "Truth, Justice, and Reconciliation: Judging the Fairness of Amnesty in South Africa." *American Journal of Political Science* 46 (3): 540-556.
 
-Gibson, James L. 2004a. "Does Truth Lead to Reconciliation? Testing the Causal Assumptions of the South African Truth and Reconciliation Process." *American Journal of Political Science* 48 (2): 201–217.
+Gibson, James L. 2004a. "Does Truth Lead to Reconciliation? Testing the Causal Assumptions of the South African Truth and Reconciliation Process." *American Journal of Political Science* 48 (2): 201-217.
 
 Gibson, James L. 2004b. *Overcoming Apartheid: Can Truth Reconcile a Divided Nation?* New York: Russell Sage Foundation.
 
 Gjeçovi, Shtjefën, comp. 1989. *The Code of Lekë Dukagjini (Kanuni i Lekë Dukagjinit)*. Translated by Leonard Fox. New York: Gjonlekaj Publishing.
 
-Haley, John O. 1989. "Confession, Repentance and Absolution." In *Mediation and Criminal Justice: Victims, Offenders and Community*, edited by Martin Wright and Burt Galaway, 195–211. London: Sage. [page range **uncertain**]
+Haley, John O. 1989. "Confession, Repentance and Absolution." In *Mediation and Criminal Justice: Victims, Offenders and Community*, edited by Martin Wright and Burt Galaway, 195-211. London: Sage. [page range **uncertain**]
 
-Hewstone, Miles, Ed Cairns, Alberto Voci, Juergen Hamberger, and Ulrike Niens. 2006. "Intergroup Contact, Forgiveness, and Experience of 'The Troubles' in Northern Ireland." *Journal of Social Issues* 62 (1): 99–120.
+Hewstone, Miles, Ed Cairns, Alberto Voci, Juergen Hamberger, and Ulrike Niens. 2006. "Intergroup Contact, Forgiveness, and Experience of 'The Troubles' in Northern Ireland." *Journal of Social Issues* 62 (1): 99-120.
 
 Ho, Man Yee, Everett L. Worthington Jr., Tyler J. VanderWeele, et al. 2024. "International REACH Forgiveness Intervention: A Multisite Randomised Controlled Trial." *BMJ Public Health* 2 (1): e000072.
 
@@ -439,9 +439,9 @@ Ingelaere, Bert. 2008. "The Gacaca Courts in Rwanda." In *Traditional Justice an
 
 Ingelaere, Bert. 2016. *Inside Rwanda's Gacaca Courts: Seeking Justice after Genocide*. Madison: University of Wisconsin Press.
 
-Irani, George E., and Nathan C. Funk. 1998. "Rituals of Reconciliation: Arab-Islamic Perspectives." *Arab Studies Quarterly* 20 (4): 53–73.
+Irani, George E., and Nathan C. Funk. 1998. "Rituals of Reconciliation: Arab-Islamic Perspectives." *Arab Studies Quarterly* 20 (4): 53-73.
 
-Kesebir, Pelin, and Selin Kesebir. 2012. "The Cultural Salience of Moral Character and Virtue Declined in Twentieth Century America." *Journal of Positive Psychology* 7 (6): 471–480.
+Kesebir, Pelin, and Selin Kesebir. 2012. "The Cultural Salience of Moral Character and Virtue Declined in Twentieth Century America." *Journal of Positive Psychology* 7 (6): 471-480.
 
 Konstan, David. 2010. *Before Forgiveness: The Origins of a Moral Idea*. Cambridge: Cambridge University Press.
 
@@ -455,13 +455,13 @@ Liu Institute for Global Issues, Gulu District NGO Forum, and Ker Kwaro Acholi. 
 
 Luci, Nita. 2014. "Seeking Independence: Making Nation, Memory, and Manhood in Kosova." PhD diss., University of Michigan. (Cited via Marsavelski et al. 2018.)
 
-Luttwak, Edward. 1994. "Franco-German Reconciliation: The Overlooked Role of the Moral Re-Armament Movement." In *Religion, the Missing Dimension of Statecraft*, edited by Douglas Johnston and Cynthia Sampson, 37–63. New York: Oxford University Press.
+Luttwak, Edward. 1994. "Franco-German Reconciliation: The Overlooked Role of the Moral Re-Armament Movement." In *Religion, the Missing Dimension of Statecraft*, edited by Douglas Johnston and Cynthia Sampson, 37-63. New York: Oxford University Press.
 
 Mangalakova, Tanya. 2004. *The Kanun in Present-Day Albania, Kosovo, and Montenegro*. Sofia: International Centre for Minority Studies and Intercultural Relations. (Cited via Marsavelski et al. 2018.)
 
-Marsavelski, Aleksandar, Furtuna Sheremeti, and John Braithwaite. 2018. "Did Nonviolent Resistance Fail in Kosovo?" *British Journal of Criminology* 58 (1): 218–236. (Earlier version: RegNet Research Paper No. 112, Australian National University, 2016.)
+Marsavelski, Aleksandar, Furtuna Sheremeti, and John Braithwaite. 2018. "Did Nonviolent Resistance Fail in Kosovo?" *British Journal of Criminology* 58 (1): 218-236. (Earlier version: RegNet Research Paper No. 112, Australian National University, 2016.)
 
-Metzger, Trudy. 2022. "Sexual Abuse among Conservative Anabaptists: Culture-Specific Dynamics that Increase Risk of Victimization and Silencing of Victims." *Journal of Amish and Plain Anabaptist Studies* 10 (1): 41–56.
+Metzger, Trudy. 2022. "Sexual Abuse among Conservative Anabaptists: Culture-Specific Dynamics that Increase Risk of Victimization and Silencing of Victims." *Journal of Amish and Plain Anabaptist Studies* 10 (1): 41-56.
 
 Nussbaum, Martha C. 2016. *Anger and Forgiveness: Resentment, Generosity, Justice*. New York: Oxford University Press.
 
@@ -471,7 +471,7 @@ Pechenick, Eitan Adam, Christopher M. Danforth, and Peter Sheridan Dodds. 2015. 
 
 Pely, Doron. 2011. "Where East Not Always Meets West: Comparing the Sulha Process to Western-Style Mediation and Arbitration." *Conflict Resolution Quarterly*. https://doi.org/10.1002/crq.20028
 
-Pham, Phuong N., Harvey M. Weinstein, and Timothy Longman. 2004. "Trauma and PTSD Symptoms in Rwanda: Implications for Attitudes toward Justice and Reconciliation." *JAMA* 292 (5): 602–612.
+Pham, Phuong N., Harvey M. Weinstein, and Timothy Longman. 2004. "Trauma and PTSD Symptoms in Rwanda: Implications for Attitudes toward Justice and Reconciliation." *JAMA* 292 (5): 602-612.
 
 Pham, Phuong, Patrick Vinck, Eric Stover, Andrew Moss, Marieke Wierda, and Richard Bailey. 2007. *When the War Ends: A Population-Based Survey on Attitudes about Peace, Justice, and Social Reconstruction in Northern Uganda*. Berkeley: Human Rights Center, UC Berkeley; Payson Center, Tulane; ICTJ, December 2007.
 
@@ -483,17 +483,17 @@ Shook, E. Victoria. 1985. *Hoʻoponopono: Contemporary Uses of a Hawaiian Proble
 
 Subotić, Jelena. 2009. *Hijacked Justice: Dealing with the Past in the Balkans*. Ithaca: Cornell University Press.
 
-Toussaint, Loren L., David R. Williams, Marc A. Musick, and Susan A. Everson. 2001. "Forgiveness and Health: Age Differences in a U.S. Probability Sample." *Journal of Adult Development* 8 (4): 249–257.
+Toussaint, Loren L., David R. Williams, Marc A. Musick, and Susan A. Everson. 2001. "Forgiveness and Health: Age Differences in a U.S. Probability Sample." *Journal of Adult Development* 8 (4): 249-257.
 
 Tutu, Desmond. 1999. *No Future Without Forgiveness*. New York: Doubleday.
 
 Vitale, Joe, and Ihaleakala Hew Len. 2007. *Zero Limits: The Secret Hawaiian System for Wealth, Health, Peace, and More*. Hoboken, NJ: Wiley. (Cited as an example of commercial adaptation, not as a source on traditional practice.)
 
-Voelz, Sabrina. 2024. "The Necessity and Challenges of Researching Sexual Abuse in Amish Communities." *Journal of Mennonite Studies* 42: 193–219. [page range **uncertain**]
+Voelz, Sabrina. 2024. "The Necessity and Challenges of Researching Sexual Abuse in Amish Communities." *Journal of Mennonite Studies* 42: 193-219. [page range **uncertain**]
 
-Wade, Nathaniel G., William T. Hoyt, Julia E. M. Kidwell, and Everett L. Worthington Jr. 2014. "Efficacy of Psychotherapeutic Interventions to Promote Forgiveness: A Meta-Analysis." *Journal of Consulting and Clinical Psychology* 82 (1): 154–170.
+Wade, Nathaniel G., William T. Hoyt, Julia E. M. Kidwell, and Everett L. Worthington Jr. 2014. "Efficacy of Psychotherapeutic Interventions to Promote Forgiveness: A Meta-Analysis." *Journal of Consulting and Clinical Psychology* 82 (1): 154-170.
 
-Wagatsuma, Hiroshi, and Arthur Rosett. 1986. "The Implications of Apology: Law and Culture in Japan and the United States." *Law & Society Review* 20 (4): 461–498.
+Wagatsuma, Hiroshi, and Arthur Rosett. 1986. "The Implications of Apology: Law and Culture in Japan and the United States." *Law & Society Review* 20 (4): 461-498.
 
 Wiesenthal, Simon. 1997. *The Sunflower: On the Possibilities and Limits of Forgiveness*. Rev. ed. New York: Schocken.
 
@@ -501,7 +501,7 @@ Wilson, Richard A. 2001. *The Politics of Truth and Reconciliation in South Afri
 
 ### Data
 
-Google Books Ngram Viewer. Query "forgiveness," corpora en-2019, en-US-2019, en-GB-2019, smoothing 3, 1800–2019. Queried 2 October 2026.
+Google Books Ngram Viewer. Query "forgiveness," corpora en-2019, en-US-2019, en-GB-2019, smoothing 3, 1800 to 2019. Queried 2 October 2026.
 
 General Social Survey. 1998. Item FORGIVE2 ("I have forgiven those who hurt me"), via GSS documentation / SDA Berkeley.
 
