@@ -5,7 +5,6 @@ description: "No current-AI study measures moral accountability as this brief de
 kicker: "Research study · Chronological Ethics"
 author: "Michael Bird"
 pubDate: "23 November 2026"
-draftLabel: "Research draft, not for publication"
 contentWarning: false
 ---
 
@@ -42,6 +41,24 @@ contentWarning: false
     .prose-cav-study table.keep {
       break-inside: avoid;
       page-break-inside: avoid;
+    }
+    /* This page only: keep the site footer with the last content, and
+       shrink its print spacing so the copyright line is not pushed alone
+       onto a following page. */
+    footer {
+      margin-top: 0.5rem !important;
+      break-before: avoid;
+      page-break-before: avoid;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    footer > div {
+      padding-top: 0.55rem !important;
+      padding-bottom: 0.55rem !important;
+      row-gap: 0.4rem !important;
+    }
+    footer .mt-6 {
+      margin-top: 0.25rem !important;
     }
   }
 </style>
